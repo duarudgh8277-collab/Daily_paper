@@ -1,0 +1,56 @@
+# Journal RSS feed configuration
+# name: display name
+# url: RSS feed URL
+# limit: max papers to include per run (optional, default 5)
+
+journals:
+  - name: Nature
+    url: https://www.nature.com/nature.rss
+  - name: Science
+    url: https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science
+  - name: Cell
+    url: https://www.cell.com/cell/current.rss
+  - name: Nature Genetics
+    url: https://www.nature.com/ng.rss
+  - name: Nature Neuroscience
+    url: https://www.nature.com/neuro.rss
+  - name: Nature Machine Intelligence
+    url: https://www.nature.com/natmachintell.rss
+  - name: Genome Biology
+    url: https://genomebiology.biomedcentral.com/articles/most-recent/rss.xml
+  - name: Genome Medicine
+    url: https://genomemedicine.biomedcentral.com/articles/most-recent/rss.xml
+  - name: Nature Computational Science
+    url: https://www.nature.com/natcomputsci.rss
+  - name: Nature Methods
+    url: https://www.nature.com/nmeth.rss
+  - name: American Journal of Human Genetics
+    url: https://www.cell.com/ajhg/current.rss
+  - name: Cell Genomics
+    url: https://www.cell.com/cell-genomics/current.rss
+  - name: Nature Human Behaviour
+    url: https://www.nature.com/nathumbehav.rss
+  - name: Neuron
+    url: https://www.cell.com/neuron/current.rss
+  - name: Molecular Psychiatry
+    url: https://www.nature.com/mp.rss
+  - name: Biological Psychiatry
+    url: https://www.biologicalpsychiatryjournal.com/current.rss
+  - name: Molecular Systems Biology
+    url: https://www.embopress.org/action/showFeed?jc=17444292&type=etoc&feed=rss
+  - name: Nature Communications
+    url: https://www.nature.com/ncomms.rss
+  - name: Nucleic Acids Research
+    url: https://academic.oup.com/rss/site_5127/3091.xml
+  - name: Briefings in Bioinformatics
+    url: https://academic.oup.com/rss/site_5127/3093.xml
+  - name: Bioinformatics
+    url: https://academic.oup.com/rss/site_5127/3094.xml
+  - name: Genome Research
+    url: https://genome.cshlp.org/rss/current.xml
+
+# Max papers per journal per daily run
+per_journal_limit: 5
+
+# Only include papers published within this many days
+lookback_days: 2
