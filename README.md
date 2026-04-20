@@ -6,7 +6,7 @@
 
 1. GitHub Actions가 매일 00:00 UTC (09:00 KST) 에 트리거
 2. `journals.yml` 의 RSS 피드에서 최근 논문 수집 (기본 2일 이내, 저널당 최대 5편)
-3. `ANTHROPIC_API_KEY` 가 설정되어 있으면 Claude Haiku 로 초록을 비전공자용 3-4문장 한국어 요약으로 변환
+3. `OPENAI_API_KEY` 가 설정되어 있으면 OpenAI 모델(기본 `gpt-4o-mini`) 로 초록을 비전공자용 3-4문장 한국어 요약으로 변환
 4. `papers/YYYY-MM-DD.md` 와 `papers/latest.md` 를 저장소에 커밋
 
 ## 수집 저널 (22개)
@@ -20,13 +20,15 @@ Bioinformatics, Genome Research
 
 ## 설정
 
-### 1. ANTHROPIC_API_KEY 시크릿 등록 (권장)
+### 1. OPENAI_API_KEY 시크릿 등록 (권장)
 
 저장소 Settings → Secrets and variables → Actions → New repository secret
-- Name: `ANTHROPIC_API_KEY`
-- Value: `sk-ant-...`
+- Name: `OPENAI_API_KEY`
+- Value: `sk-...`
 
 미설정 시 RSS 원본 초록이 그대로 들어갑니다.
+
+(선택) 모델을 바꾸려면 같은 화면의 **Variables** 탭에서 `OPENAI_MODEL` 값을 설정하세요 (예: `gpt-4o-mini`, `gpt-4.1-mini`). 미설정 시 `gpt-4o-mini` 가 사용됩니다.
 
 ### 2. 수동 실행
 
@@ -36,7 +38,8 @@ Actions 탭 → **Daily paper digest** → **Run workflow**
 
 ```bash
 pip install -r requirements.txt
-export ANTHROPIC_API_KEY=sk-ant-...   # optional
+export OPENAI_API_KEY=sk-...              # optional
+export OPENAI_MODEL=gpt-4o-mini           # optional
 python fetch_papers.py
 ```
 

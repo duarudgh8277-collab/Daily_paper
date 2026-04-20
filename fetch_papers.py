@@ -1,7 +1,8 @@
 """Fetch latest papers from configured journal RSS feeds and build a daily digest.
 
-If ANTHROPIC_API_KEY is set, each paper abstract is summarized in Korean using
-Claude. Otherwise, the raw abstract from the feed is used.
+If OPENAI_API_KEY is set, each paper abstract is summarized in Korean using an
+OpenAI chat model (default: gpt-4o-mini, override via OPENAI_MODEL).
+Otherwise, the raw abstract from the feed is used.
 
 Output: papers/YYYY-MM-DD.md
 """
@@ -101,42 +102,52 @@ def fetch_journal(name: str, url: str, limit: int, cutoff: datetime | None) -> l
     return papers
 
 
-def summarize_with_claude(paper: Paper, client) -> str:
-    prompt = (
+SYSTEM_PROMPT = (
+    "당신은 생명과학·의학 논문을 비전공자에게 설명하는 한국어 과학 커뮤니케이터입니다. "
+    "항상 한국어로만 답하고, 수식어를 배제하고 사실 위주로 작성합니다."
+)
+
+
+def summarize_with_openai(paper: Paper, client, model: str) -> str:
+    user_prompt = (
         "다음은 학술 논문의 초록입니다. 비전공자도 이해할 수 있도록 "
         "3-4 문장의 한국어로 핵심 내용을 요약하세요. "
-        "연구의 배경, 방법, 주요 발견, 의의 순서로 간결하게 작성하세요. "
-        "불필요한 수식어는 제외하고 사실 위주로 서술하세요.\n\n"
+        "연구의 배경, 방법, 주요 발견, 의의 순서로 간결하게 작성하세요.\n\n"
         f"제목: {paper.title}\n"
         f"저널: {paper.journal}\n"
         f"초록: {paper.abstract or '(초록 없음)'}"
     )
-    message = client.messages.create(
-        model="claude-haiku-4-5-20251001",
+    completion = client.chat.completions.create(
+        model=model,
         max_tokens=400,
-        messages=[{"role": "user", "content": prompt}],
+        temperature=0.3,
+        messages=[
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": user_prompt},
+        ],
     )
-    return "".join(block.text for block in message.content if block.type == "text").strip()
+    return (completion.choices[0].message.content or "").strip()
 
 
 def build_summaries(papers: Iterable[Paper]) -> dict[str, str]:
-    api_key = os.environ.get("ANTHROPIC_API_KEY")
+    api_key = os.environ.get("OPENAI_API_KEY")
+    model = os.environ.get("OPENAI_MODEL", "gpt-4o-mini")
     summaries: dict[str, str] = {}
     if not api_key:
-        print("[info] ANTHROPIC_API_KEY not set, falling back to raw abstracts", file=sys.stderr)
+        print("[info] OPENAI_API_KEY not set, falling back to raw abstracts", file=sys.stderr)
         for p in papers:
             summaries[p.link or p.title] = p.abstract or "(초록이 제공되지 않았습니다.)"
         return summaries
 
     try:
-        import anthropic
+        from openai import OpenAI
     except ImportError:
-        print("[warn] anthropic package not installed, using raw abstracts", file=sys.stderr)
+        print("[warn] openai package not installed, using raw abstracts", file=sys.stderr)
         for p in papers:
             summaries[p.link or p.title] = p.abstract or "(초록이 제공되지 않았습니다.)"
         return summaries
 
-    client = anthropic.Anthropic(api_key=api_key)
+    client = OpenAI(api_key=api_key)
     for p in papers:
         key = p.link or p.title
         if not p.abstract:
@@ -144,7 +155,7 @@ def build_summaries(papers: Iterable[Paper]) -> dict[str, str]:
             continue
         for attempt in range(3):
             try:
-                summaries[key] = summarize_with_claude(p, client)
+                summaries[key] = summarize_with_openai(p, client, model)
                 break
             except Exception as exc:  # noqa: BLE001
                 print(f"[warn] summarize retry {attempt+1}: {exc}", file=sys.stderr)
