@@ -1,13 +1,11 @@
 # Daily Paper Digest
 
-지정된 저널 목록의 최신 논문을 매일 오전 9시(KST) 자동 수집하여 한국어로 요약합니다.
+지정된 저널 목록의 최신 논문을 매일 오전 9시(KST) 자동 수집하고, 한국어 요약은 Claude Code 에서 슬래시 명령으로 채워 넣는 워크플로우입니다. **외부 LLM API 키가 필요 없습니다.**
 
 ## 동작 방식
 
-1. GitHub Actions가 매일 00:00 UTC (09:00 KST) 에 트리거
-2. `journals.yml` 의 RSS 피드에서 최근 논문 수집 (기본 2일 이내, 저널당 최대 5편)
-3. `OPENAI_API_KEY` 가 설정되어 있으면 OpenAI 모델(기본 `gpt-4o-mini`) 로 초록을 비전공자용 3-4문장 한국어 요약으로 변환
-4. `papers/YYYY-MM-DD.md` 와 `papers/latest.md` 를 저장소에 커밋
+1. **자동 수집 (매일 09:00 KST)**: GitHub Actions 가 `journals.yml` 의 RSS 피드에서 최근 논문을 모아 `papers/YYYY-MM-DD.md` 와 `papers/latest.md` 를 커밋합니다. 이 단계의 "**한국어 요약**" 항목은 비어 있고 영문 초록만 들어갑니다.
+2. **수동 한국어 요약**: 사용자가 Claude Code 에서 `/translate-digest` 를 실행하면 Claude 가 최신 다이제스트를 읽어 각 논문의 영문 초록을 비전공자용 3-4문장 한국어로 채우고 커밋·푸시합니다.
 
 ## 수집 저널 (22개)
 
@@ -18,28 +16,33 @@ Molecular Psychiatry, Biological Psychiatry, Molecular Systems Biology,
 Nature Communications, Nucleic Acids Research, Briefings in Bioinformatics,
 Bioinformatics, Genome Research
 
-## 설정
+## 사용 흐름
 
-### 1. OPENAI_API_KEY 시크릿 등록 (권장)
+### 1. 자동 수집 (사용자 작업 없음)
+매일 00:00 UTC (09:00 KST) 에 GitHub Actions 가 실행되어 영문 다이제스트를 만듭니다.
 
-저장소 Settings → Secrets and variables → Actions → New repository secret
-- Name: `OPENAI_API_KEY`
-- Value: `sk-...`
+수동 트리거가 필요하면: 저장소 **Actions → Daily paper digest → Run workflow**.
 
-미설정 시 RSS 원본 초록이 그대로 들어갑니다.
+### 2. 한국어 요약 (Claude Code)
+이 저장소에서 Claude Code 를 열고:
 
-(선택) 모델을 바꾸려면 같은 화면의 **Variables** 탭에서 `OPENAI_MODEL` 값을 설정하세요 (예: `gpt-4o-mini`, `gpt-4.1-mini`). 미설정 시 `gpt-4o-mini` 가 사용됩니다.
+```
+/translate-digest
+```
 
-### 2. 수동 실행
+또는 더 길게:
 
-Actions 탭 → **Daily paper digest** → **Run workflow**
+```
+오늘자 다이제스트를 한국어로 정리해줘.
+- papers/latest.md 를 읽어 각 논문의 "한국어 요약" 항목을 채워
+- 비전공자도 이해할 3-4문장 (배경 → 방법 → 발견 → 의의), 사실 위주, 수식어 배제
+- 같은 파일과 papers/YYYY-MM-DD.md 둘 다 갱신, 커밋 후 push
+```
 
-### 3. 로컬 실행
+## 로컬 실행 (수집만)
 
 ```bash
 pip install -r requirements.txt
-export OPENAI_API_KEY=sk-...              # optional
-export OPENAI_MODEL=gpt-4o-mini           # optional
 python fetch_papers.py
 ```
 
@@ -49,12 +52,14 @@ python fetch_papers.py
 - 저널당 논문 수: `per_journal_limit`
 - 수집 기간(일): `lookback_days`
 - 스케줄 변경: `.github/workflows/daily.yml` 의 cron 수정
+- 한국어 요약 스타일 변경: `.claude/commands/translate-digest.md` 수정
 
 ## 출력 형식
 
-`papers/YYYY-MM-DD.md` 파일에 저널별로 그룹핑된 다이제스트 생성:
+`papers/YYYY-MM-DD.md` 파일에 저널별로 그룹핑:
 
 - 제목, 저자, 게재일, 원문 링크
-- 한국어 요약 (배경 → 방법 → 발견 → 의의)
+- **Abstract (EN)**: RSS 원본 영문 초록
+- **한국어 요약**: `/translate-digest` 실행 후 채워짐
 
 `papers/latest.md` 는 항상 최신 다이제스트를 가리킵니다.

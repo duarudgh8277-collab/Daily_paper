@@ -26,9 +26,6 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Build digest
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
         run: python fetch_papers.py
 
       - name: Commit digest
