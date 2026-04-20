@@ -1,21 +1,18 @@
 """Fetch latest papers from configured journal RSS feeds and build a daily digest.
 
-If OPENAI_API_KEY is set, each paper abstract is summarized in Korean using an
-OpenAI chat model (default: gpt-4o-mini, override via OPENAI_MODEL).
-Otherwise, the raw abstract from the feed is used.
+The digest is written with the raw English abstracts from the feeds.
+Korean translation is done separately by Claude Code via the
+`/translate-digest` slash command (no LLM API key required).
 
 Output: papers/YYYY-MM-DD.md
 """
 from __future__ import annotations
 
-import os
 import re
 import sys
-import time
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
-from typing import Iterable
 
 import feedparser
 import yaml
@@ -102,75 +99,16 @@ def fetch_journal(name: str, url: str, limit: int, cutoff: datetime | None) -> l
     return papers
 
 
-SYSTEM_PROMPT = (
-    "당신은 생명과학·의학 논문을 비전공자에게 설명하는 한국어 과학 커뮤니케이터입니다. "
-    "항상 한국어로만 답하고, 수식어를 배제하고 사실 위주로 작성합니다."
-)
-
-
-def summarize_with_openai(paper: Paper, client, model: str) -> str:
-    user_prompt = (
-        "다음은 학술 논문의 초록입니다. 비전공자도 이해할 수 있도록 "
-        "3-4 문장의 한국어로 핵심 내용을 요약하세요. "
-        "연구의 배경, 방법, 주요 발견, 의의 순서로 간결하게 작성하세요.\n\n"
-        f"제목: {paper.title}\n"
-        f"저널: {paper.journal}\n"
-        f"초록: {paper.abstract or '(초록 없음)'}"
-    )
-    completion = client.chat.completions.create(
-        model=model,
-        max_tokens=400,
-        temperature=0.3,
-        messages=[
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": user_prompt},
-        ],
-    )
-    return (completion.choices[0].message.content or "").strip()
-
-
-def build_summaries(papers: Iterable[Paper]) -> dict[str, str]:
-    api_key = os.environ.get("OPENAI_API_KEY")
-    model = os.environ.get("OPENAI_MODEL", "gpt-4o-mini")
-    summaries: dict[str, str] = {}
-    if not api_key:
-        print("[info] OPENAI_API_KEY not set, falling back to raw abstracts", file=sys.stderr)
-        for p in papers:
-            summaries[p.link or p.title] = p.abstract or "(초록이 제공되지 않았습니다.)"
-        return summaries
-
-    try:
-        from openai import OpenAI
-    except ImportError:
-        print("[warn] openai package not installed, using raw abstracts", file=sys.stderr)
-        for p in papers:
-            summaries[p.link or p.title] = p.abstract or "(초록이 제공되지 않았습니다.)"
-        return summaries
-
-    client = OpenAI(api_key=api_key)
-    for p in papers:
-        key = p.link or p.title
-        if not p.abstract:
-            summaries[key] = "(초록이 제공되지 않았습니다.)"
-            continue
-        for attempt in range(3):
-            try:
-                summaries[key] = summarize_with_openai(p, client, model)
-                break
-            except Exception as exc:  # noqa: BLE001
-                print(f"[warn] summarize retry {attempt+1}: {exc}", file=sys.stderr)
-                time.sleep(2 ** attempt)
-        else:
-            summaries[key] = p.abstract
-    return summaries
-
-
-def format_digest(date_kst: datetime, grouped: dict[str, list[Paper]], summaries: dict[str, str]) -> str:
+def format_digest(date_kst: datetime, grouped: dict[str, list[Paper]]) -> str:
     lines: list[str] = []
     lines.append(f"# 📚 일일 논문 다이제스트 — {date_kst.strftime('%Y-%m-%d')} (KST)")
     lines.append("")
     total = sum(len(v) for v in grouped.values())
     lines.append(f"**수집 저널 수**: {len(grouped)}개 · **논문 수**: {total}편")
+    lines.append("")
+    lines.append(
+        "> 영문 초록은 RSS 원본입니다. Claude Code 에서 `/translate-digest` 로 한국어 요약을 채워 넣으세요."
+    )
     lines.append("")
     lines.append("## 목차")
     for journal in grouped:
@@ -193,8 +131,9 @@ def format_digest(date_kst: datetime, grouped: dict[str, list[Paper]], summaries
             if meta:
                 lines.append(" · ".join(meta))
                 lines.append("")
-            summary = summaries.get(p.link or p.title, p.abstract or "")
-            lines.append(f"**요약**: {summary}")
+            lines.append(f"**Abstract (EN)**: {p.abstract or '(초록이 제공되지 않았습니다.)'}")
+            lines.append("")
+            lines.append("**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._")
             lines.append("")
         lines.append("---")
         lines.append("")
@@ -209,25 +148,20 @@ def main() -> int:
 
     cutoff = datetime.now(timezone.utc) - timedelta(days=lookback_days)
 
-    all_papers: list[Paper] = []
     grouped: dict[str, list[Paper]] = {}
     for entry in journals:
         name = entry["name"]
         url = entry["url"]
         print(f"[info] fetching: {name}", file=sys.stderr)
         papers = fetch_journal(name, url, per_journal_limit, cutoff)
-        if not papers:
-            continue
-        grouped[name] = papers
-        all_papers.extend(papers)
+        if papers:
+            grouped[name] = papers
 
-    if not all_papers:
+    if not grouped:
         print("[info] no new papers found in lookback window", file=sys.stderr)
 
-    summaries = build_summaries(all_papers)
-
     now_kst = datetime.now(KST)
-    digest = format_digest(now_kst, grouped, summaries)
+    digest = format_digest(now_kst, grouped)
 
     OUTPUT_DIR.mkdir(exist_ok=True)
     out_path = OUTPUT_DIR / f"{now_kst.strftime('%Y-%m-%d')}.md"
