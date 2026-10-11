@@ -1,147 +1,14 @@
-# 📚 일일 논문 다이제스트 — 2026-10-10 (KST)
+# 📚 일일 논문 다이제스트 — 2026-10-11 (KST)
 
-**수집 저널 수**: 7개 · **논문 수**: 27편
+**수집 저널 수**: 2개 · **논문 수**: 10편
 
 > 영문 초록은 RSS 원본입니다. Claude Code 에서 `/translate-digest` 로 한국어 요약을 채워 넣으세요.
 
 ## 목차
-- [Nature](#nature) (5편)
-- [Science](#science) (5편)
-- [Nature Computational Science](#nature-computational-science) (4편)
-- [Nature Methods](#nature-methods) (1편)
 - [Biological Psychiatry](#biological-psychiatry) (5편)
 - [Nature Communications](#nature-communications) (5편)
-- [Nucleic Acids Research](#nucleic-acids-research) (2편)
-
-## Nature
-
-### Breaking down nerve-cell scaffold relieves chronic pain in mice
-**게재일**: 2026-10-09 · [원문 링크](https://www.nature.com/articles/d41586-026-03159-z)
-
-**Abstract (EN)**: Nature, Published online: 09 October 2026; doi:10.1038/d41586-026-03159-z Results could help researchers to develop painkillers that are safer and more effective than existing treatments.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Briefing Chat: Top researchers are being misled by sham academic societies
-**저자**: Benjamin Thompson, Max Kozlov · **게재일**: 2026-10-09 · [원문 링크](https://www.nature.com/articles/d41586-026-03216-7)
-
-**Abstract (EN)**: Nature, Published online: 09 October 2026; doi:10.1038/d41586-026-03216-7 Nature staff discuss a network of organizations that have been building their ranks through deceptive practices.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Chimp and gorilla brains resist weight loss with age — unlike human brains
-**게재일**: 2026-10-09 · [원문 링크](https://www.nature.com/articles/d41586-026-03158-0)
-
-**Abstract (EN)**: Nature, Published online: 09 October 2026; doi:10.1038/d41586-026-03158-0 The relatively short lifespans of non-human great apes might explain why their brain mass is maintained in later life
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### The life of Darwin and the science of clouds: Books in brief
-**저자**: Andrew Robinson · **게재일**: 2026-10-09 · [원문 링크](https://www.nature.com/articles/d41586-026-03217-6)
-
-**Abstract (EN)**: Nature, Published online: 09 October 2026; doi:10.1038/d41586-026-03217-6 Andrew Robinson reviews five of the best science picks.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Watch this invisible tattoo appear under UV light
-**저자**: Rachel Fieldhouse · **게재일**: 2026-10-09 · [원문 링크](https://www.nature.com/articles/d41586-026-03210-z)
-
-**Abstract (EN)**: Nature, Published online: 09 October 2026; doi:10.1038/d41586-026-03210-z The ink could be useful for medical tattooing, but more tests are needed before it is widely available.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
----
-
-## Science
-
-### Demographic “doomsday” misses the mark
-**저자**: Javier A. Birchenall · **게재일**: 2026-10-08 · [원문 링크](https://www.science.org/doi/abs/10.1126/science.ael8752?af=R)
-
-**Abstract (EN)**: Science, Volume 394, Issue 6820, Page 173-174, October 2026.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Golgi-derived vesicles containing PI(3,4)P2 drive mitochondrial fusion
-**저자**: Sho Aki, Mayuko Segawa, Vincent Anton, Suvagata R. Chowdhury, Shun Nagashima, Isshin Shiiba, Dane M. Wolf, Ikuko Koyama-Honda, Ayumu Sugiura, Joe Ganellin, Mark Johnson, Sakie Katsumura, Maki Sugaya, Yasunori Fujita, Koki Nakamura, Kazuaki Yoshioka, Hisamichi Naito, Yoh Takuwa, Ikuroh Ohsawa, Yusuke Hirabayashi, Shigeru Yanagi, Masahiro Morita, Tsuyoshi Osawa, Julien Prudent · **게재일**: 2026-10-08 · [원문 링크](https://www.science.org/doi/abs/10.1126/science.adx9628?af=R)
-
-**Abstract (EN)**: Science, Volume 394, Issue 6820, October 2026.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Epigenetic aging and transposon dysregulation reflect size-related lifespan compression in dogs
-**저자**: Blaise L. Mariner, Brianah M. McCoy, Ashlee Greenier, Layla Brassington, Elizabeth Slikas, Christine Adjangba, Claire Cheng, Abbey Marye, Benjamin R. Harrison, Tal Bamberger, Yadid Algavi, Efrat Muller, Adam Harris, Emily Rout, Cindy Reichel, Vista Sohrab, The Dog Aging Project Consortium‡, Elinor Karlsson, Joshua M. Akey, Anne C. Avery, Elhanan Borenstein, Daniel E. L. Promislow, Noah Snyder-MacklerJoshua M. Akey, Rozalyn M. Anderson, Elhanan Borenstein, Marta G. Castelhano, Amanda E. Coleman, Kate E. Creevy, Matthew D. Dunbar, Virginia R. Fajt, Jessica M. Hoffman, Erica C. Jonlin, Matt Kaeberlein, Elinor K. Karlsson, Kathleen F. Kerr, Jing Ma, Evan L. MacLean, Stephanie McGrath, Natasha J. Olby, Daniel E.L. Promislow, May J. Reed, Audrey Ruple, Stephen M. Schwartz, Sandi Shrager, Noah Snyder-Mackler, M. Katherine Tolbert · **게재일**: 2026-10-08 · [원문 링크](https://www.science.org/doi/abs/10.1126/science.aeb2986?af=R)
-
-**Abstract (EN)**: Science, Volume 394, Issue 6820, October 2026.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Volatile eutectics to tailor crystallization for perovskite optoelectronics
-**저자**: Jason J. Yoo, Connor J. Dolan, Seongsik Nam, Jinho Lee, Kyu Min Kang, Bong Joo Kang, Rushik Desai, Niranjana Mohan Kumar, Arkita Chakrabarti, Daesoo Kim, Jang Hee Cho, Donghyuk Chung, Jack R. Palmer, Kelly X. Vences, Zhewen J. D. Deng, Yanqi Luo, Barry Lai, Tao Zhou, Zhonghou Cai, Martin V. Holt, Andrew M. Kiss, In Sun Cho, Dong Hyun Kim, Jun Hong Noh, Mariana I. Bertoni, Arun Mannodi-Kanakkithodi, Dane W. deQuilettes, David P. Fenning, Seong Sik Shin · **게재일**: 2026-10-08 · [원문 링크](https://www.science.org/doi/abs/10.1126/science.aeb4554?af=R)
-
-**Abstract (EN)**: Science, Volume 394, Issue 6820, Page 228-233, October 2026.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Message in a bottleneck: Nested founder effects from French Polynesia to Rapa Nui and Hawaiʻi
-**저자**: Cole Shanks, Edward C. Huang, Christophe Thomassin, Anne-Katrin Emde, Vahinetua Rodière, Mauricio Moraga, Karla Sandoval, Tony Merriman, Tristan Pascart, Andrés Moreno-Estrada, Stephane E. Castel, Keolu Fox, Alexander G. Ioannidis · **게재일**: 2026-10-08 · [원문 링크](https://www.science.org/doi/abs/10.1126/science.aec7662?af=R)
-
-**Abstract (EN)**: Science, Volume 394, Issue 6820, Page 216-221, October 2026.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
----
-
-## Nature Computational Science
-
-### Photonic circuits become trainable AI hardware
-**게재일**: 2026-10-09 · [원문 링크](https://www.nature.com/articles/s43588-026-01071-0)
-
-**Abstract (EN)**: Nature Computational Science, Published online: 09 October 2026; doi:10.1038/s43588-026-01071-0 A physics-based in situ learning method is demonstrated that directly measures optical gradients with photonic integrated circuits, allowing diverse circuit topologies to be trained after fabrication. This hardware achieves matrix design, multiwavelength computation and rapid meta-learning without requiring a full digital model of the circuit.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Steering complex rhythms
-**저자**: Fan Jin · **게재일**: 2026-10-09 · [원문 링크](https://www.nature.com/articles/s43588-026-01064-z)
-
-**Abstract (EN)**: Nature Computational Science, Published online: 09 October 2026; doi:10.1038/s43588-026-01064-z A recent study reports a property-first computational strategy, identifying coordinated parameter changes that can tune several features of a complex oscillator at the same time.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Epidemiological modeling in the age of artificial intelligence
-**저자**: Max S. Y. Lau, Matthew J. Ferrari, Wei Jin · **게재일**: 2026-10-09 · [원문 링크](https://www.nature.com/articles/s43588-026-01070-1)
-
-**Abstract (EN)**: Nature Computational Science, Published online: 09 October 2026; doi:10.1038/s43588-026-01070-1 Artificial intelligence is enabling epidemic models to learn across outbreaks. The next challenge is ensuring that these models learn and transfer not mere statistical patterns, but epidemiological mechanisms.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Advancing chemical reaction prediction in data-scarce drug discovery with active and geometric deep learning
-**저자**: Mason Minot, Yannick Stenzhorn, Jens Wolfard, Sebastian Strobel, Philippe Jablonski, Daniel Zimmerli, Martin Binder, Uwe Grether, Rainer E. Martin, Alex T. Müller, David F. Nippa, Kenneth Atz, Gisbert Schneider · **게재일**: 2026-10-09 · [원문 링크](https://www.nature.com/articles/s43588-026-01063-0)
-
-**Abstract (EN)**: Nature Computational Science, Published online: 09 October 2026; doi:10.1038/s43588-026-01063-0 Researchers pair active learning with geometric deep learning to predict the outcome and site selectivity of chemical reactions from scarce data, guiding experiments that accelerate drug discovery and expand accessible chemical space.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
----
-
-## Nature Methods
-
-### An integrated open-source acquisition and analysis ecosystem for high-throughput single-molecule imaging
-**저자**: Daniel S. Terry, Roman Kiselev, Manuel F. Juette, Zeliha Kilic, Ryan A. Brady, Yuansheng Sun, Scott C. Blanchard · **게재일**: 2026-10-09 · [원문 링크](https://www.nature.com/articles/s41592-026-03265-w)
-
-**Abstract (EN)**: Nature Methods, Published online: 09 October 2026; doi:10.1038/s41592-026-03265-w An integrated open-source acquisition and analysis ecosystem for high-throughput single-molecule imaging
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
----
 
 ## Biological Psychiatry
-
-### The genetic orchestra of autism and its intersections with epilepsy, intellectual disability, and ADHD
-**저자**: Sélin Korkmaz, Jean-Madeleine De Sainte Agathe, Freddy Cliquet, L. Caitlin Martin, Eli Barthome, Mathis Fleury, Julie Segers, Stéf Bonnot-Briey, Vincent Grimaldi de Puget, Yanlin Zhou, Dieter Wolke, Jakob Grove, Anders D. Børglum, Richard Delorme, Claire S. Leblond, Thomas Bourgeron · **게재일**: 2026-10-09 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01588-X/fulltext?rss=yes)
-
-**Abstract (EN)**: Autism is a complex condition with marked phenotypic variability and a multifactorial etiology orchestrated by diverse genetic and environmental influences. In this review, we dissect what we refer to as autism’s “genetic orchestra”, spanning from the high-impact “soloists”, de novo and ultra-rare variants with large effect sizes, to the “polyphonic background” of common variants which individually exert modest effects but collectively have significant impact. We examine how this orchestra wires neural circuits, with convergent biological pathways modulating synaptic function and chromatin remodeling.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
 ### Guide for Authors
 **게재일**: 2026-11-01 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01528-3/fulltext?rss=yes)
@@ -171,60 +38,49 @@
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
+### In This Issue
+**게재일**: 2026-11-01 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01494-0/fulltext?rss=yes)
+
+**Abstract (EN)**: Volume 100, Number 9, November 1, 2026
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
 ---
 
 ## Nature Communications
 
-### Pipeline infrastructure for hydrogen transport in the United States
-**저자**: Ayush Singh, Haibo Zhai, Eugene Holubnyak, Curtis Biggs · **게재일**: 2026-10-09 · [원문 링크](https://www.nature.com/articles/s41467-026-78402-2)
+### A method quantifying soil melanin to understand fungal impacts on soil carbon stability
+**저자**: Sylwia Adamczyk, Bartosz Adamczyk · **게재일**: 2026-10-11 · [원문 링크](https://www.nature.com/articles/s41467-026-78616-4)
 
-**Abstract (EN)**: Nature Communications, Published online: 09 October 2026; doi:10.1038/s41467-026-78402-2 This study compares new and repurposed gas pipelines for nationwide hydrogen transport, showing how costs and life-cycle emissions vary across options and highlighting trade-offs for infrastructure planning and investment.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Author Correction: Cell cycle and p53 gate the direct conversion of human fibroblasts to dopaminergic neurons
-**저자**: Houbo Jiang, Zhimin Xu, Ping Zhong, Yong Ren, Gaoyang Liang, Haley A. Schilling, Zihua Hu, Yi Zhang, Xiaomin Wang, Shengdi Chen, Zhen Yan, Jian Feng · **게재일**: 2026-10-09 · [원문 링크](https://www.nature.com/articles/s41467-026-77919-w)
-
-**Abstract (EN)**: Nature Communications, Published online: 09 October 2026; doi:10.1038/s41467-026-77919-w Author Correction: Cell cycle and p53 gate the direct conversion of human fibroblasts to dopaminergic neurons
+**Abstract (EN)**: Nature Communications, Published online: 11 October 2026; doi:10.1038/s41467-026-78616-4 A method developed to directly measure fungal melanin in soil, reveals a strong link between melanin and soil carbon and providing evidence for its role in long-term carbon stabilization
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### pH-responsive manganese carboxymethyl chitosan hydrogel releases pesticide to promote rice tillering and suppress root-parasitic weeds
-**저자**: Ali Dai, Zhiguo Zheng, Ronghao Wu, Dengke Ma, Junyan Xu, You Mo, Liusheng Duan, Weiming Tan · **게재일**: 2026-10-09 · [원문 링크](https://www.nature.com/articles/s41467-026-78320-3)
+### In situ reduction-driven formation of sub-nanometer alternating heterostructures
+**저자**: Yuan Huang, Zhenyu Ren, Yijian Gao, Haoyang Li, Hai Xiao, Qingda Liu, Xun Wang · **게재일**: 2026-10-11 · [원문 링크](https://www.nature.com/articles/s41467-026-78575-w)
 
-**Abstract (EN)**: Nature Communications, Published online: 09 October 2026; doi:10.1038/s41467-026-78320-3 Parasitic weeds can threaten crop production. Here the authors describe a pH-responsive hydrogel that releases a strigolactone inhibitor to promote rice tillering and suppress parasitic weed germination.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Environmentally Relevant Concentrations of Nanomaterials Drive Photochemical Production of Reactive Species and Pollutant Degradation in Surface Waters
-**저자**: Joshua Quinn, Aidan McClure, Pierre Herckes, Paul Westerhoff · **게재일**: 2026-10-09 · [원문 링크](https://www.nature.com/articles/s41467-026-78433-9)
-
-**Abstract (EN)**: Nature Communications, Published online: 09 October 2026; doi:10.1038/s41467-026-78433-9 Environmentally relevant nanomaterial concentrations can rival dissolved organic matter in driving pollutant transformation under sunlight or UV-based water treatment.
+**Abstract (EN)**: Nature Communications, Published online: 11 October 2026; doi:10.1038/s41467-026-78575-w Sub-nanometer heterostructures offer opportunities to tune interfacial reactivity, but their precise construction remains challenging. Here, the authors report alternating Ni/NiMoO₄ heterostructures that promote hydrogen evolution and sustain durable high-current electrolysis.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Genome architecture drives antifungal resistance in Candida auris
-**저자**: Anuradha Chowdhary, Nityendra Shukla, Neeraj Chauhan · **게재일**: 2026-10-09 · [원문 링크](https://www.nature.com/articles/s41467-026-78280-8)
+### Asymmetric bloom lengthening drives high-latitude ocean chlorophyll accumulation imbalance
+**저자**: Zhenhua Zhang, Peng Chen, Cedric Jamet, Siqi Zhang, Kun Shi, Delu Pan · **게재일**: 2026-10-11 · [원문 링크](https://www.nature.com/articles/s41467-026-78603-9)
 
-**Abstract (EN)**: Nature Communications, Published online: 09 October 2026; doi:10.1038/s41467-026-78280-8 Antifungal resistance often results from mutations in drug target genes. However, Narayanan et al. show that segmental duplication and supernumerary chromosomes also contribute to resistance in the emerging fungal pathogen Candida auris. The work expands the genetic basis of antifungal resistance and redefines the mutation-centric paradigm.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
----
-
-## Nucleic Acids Research
-
-### An intrinsically disordered domain of transcription terminator Rho governs genome-wide Rho utilization (Rut) site selection in Mycobacterium tuberculosis
-**게재일**: 2026-10-09 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag973/8892736?rss=1)
-
-**Abstract (EN)**: Abstract Rho-dependent transcription termination (RDTT) is crucial for bacterial gene regulation, fitness, and pathogenicity. RDTT relies on the ATP-dependent Rho helicase, which engages nascent transcripts at loosely defined, C &gt; G-biased Rho utilization ( Rut ) sites to dismantle transcription complexes. In Mycobacterium tuberculosis , Rho features a unique, large N-terminal insertion domain (NID) of uncertain function. Using enzymatic Helicase-SELEX screening, we identified 1759 putative Rut sites across the M. tuberculosis genome with wild-type Rho ( Mtb Rho) but only 47 with a NID-deleted variant (ΔNID- Mtb Rho), demonstrating NID’s importance for productive substrate recruitment. The selected Rut sites display an unusual composition and frequently occur upstream of or within coding regions, implying that Mtb Rho plays a broad role in conditional gene regulation. Integration with transcriptomics-defined RNA 3′ ends further highlights the contribution of Mtb Rho to transcriptional plasticity, through both direct termination and downstream regulatory cascades. Complementary RDTT assays, affinity measurements, solution NMR, and cryogenic electron microscopy analyses show that the NID is intrinsically disordered, yet critical for engaging Rut sites with substantial secondary structure. Altogether, our findings provide the first genome-wide map and characterization of Rut sites in a GC-rich pathogen and define the NID as a model intrinsically disordered protein region with a critical mechanistic and functional role in mycobacterial gene expression
+**Abstract (EN)**: Nature Communications, Published online: 11 October 2026; doi:10.1038/s41467-026-78603-9 This study shows that unequal changes in bloom duration between hemispheres contribute to contrasting high-latitude ocean chlorophyll trends, linking asymmetric phytoplankton phenology to marine ecosystem changes under climate warming.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Wavelet-based whole genome doubling aware single-cell copy number calling
-**게재일**: 2026-10-09 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag960/8892726?rss=1)
+### Twisted superconducting quantum diodes for high fidelity anharmonic qubits
+**저자**: Han Zhong, Denis Kochan, Igor Žutić, Yingying Wu · **게재일**: 2026-10-10 · [원문 링크](https://www.nature.com/articles/s41467-026-78376-1)
 
-**Abstract (EN)**: Abstract Advances in single-cell whole genome sequencing enable profiling of the copy number state of thousands of cells with minimal sequencing bias across the genome. The Direct Library Preparation+ technique is a whole genome amplification-free single-cell whole genome sequencing method that achieves high throughput by fragmenting each cell’s genome and ligating sequencing adapters using a modified Tn5 transposase, and sequencing to &lt;0.1× coverage. Despite recent advances in experimental approaches, data analysis of single-cell whole genome sequencing lags behind and the existing methods are not optimized for the analysis of frozen samples with variable DNA preservation. Furthermore, existing tools predominantly rely on read depth ratio in predefined genomic bins to call copy number, making whole genome duplication unidentifiable. To address this, we introduce Songbird, a single-cell whole genome sequencing copy number caller that is whole genome duplication sensitive, and outperforms existing tools both in breakpoint identification and true copy number detection. We demonstrate that Songbird is robust down to very low coverage, adaptable to a variety of genome versions (hg19, hg38, hs.1), and is extensible to other single-cell whole genome sequencing methods that rely on Tn5 tagmentation to fragment the genome.
+**Abstract (EN)**: Nature Communications, Published online: 10 October 2026; doi:10.1038/s41467-026-78376-1 Superconducting diodes can provide nonreciprocal elements for superconducting and quantum circuits, but the role of diode efficiency in quantum-device performance remains unclear. Here, the authors demonstrate an enhanced superconducting diode effect in twisted NbSe2 and show that even a moderate degree of nonreciprocity is sufficient to stabilize anharmonic qubit circuits.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Somatosensory cortex shapes perceptual decision bias via the superior colliculus
+**저자**: Alice Y. Nam, Jiwook Shin, Morgan Tenney, Baihe Zhang, Y. Kate Hong · **게재일**: 2026-10-10 · [원문 링크](https://www.nature.com/articles/s41467-026-78331-0)
+
+**Abstract (EN)**: Nature Communications, Published online: 10 October 2026; doi:10.1038/s41467-026-78331-0 The authors show that, when detecting the presence of tactile stimuli, mouse primary somatosensory cortex shapes perceptual decisions through the midbrain superior colliculus, primarily by shifting decision bias rather than the ability to detect the stimulus.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
