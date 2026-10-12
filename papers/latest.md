@@ -1,4 +1,4 @@
-# 📚 일일 논문 다이제스트 — 2026-10-11 (KST)
+# 📚 일일 논문 다이제스트 — 2026-10-12 (KST)
 
 **수집 저널 수**: 2개 · **논문 수**: 10편
 
@@ -49,6 +49,20 @@
 
 ## Nature Communications
 
+### Plant invasions are associated with lower community stability at multiple spatial scales
+**저자**: Rongxu Shan, Mingyan Hu, Zilong Ma · **게재일**: 2026-10-12 · [원문 링크](https://www.nature.com/articles/s41467-026-78617-3)
+
+**Abstract (EN)**: Nature Communications, Published online: 12 October 2026; doi:10.1038/s41467-026-78617-3 Plant invasions can threaten ecosystems by making plant communities less stable over time. The study shows that invasions reduce stability from local to metacommunity scales by eroding functional diversity and favoring fast-growing strategies.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Targeting MDA5 induces immunogenic cell death and promotes anti-tumor immunity
+**저자**: Zhitong Niu, Bing Cheng, Yue Jiang, Yingzhen Weng, Qian Xiao, Guojie Long, Chaoying Wei, Qiufeng Liu, Jinxin Chen, Xiaofeng Wen, Yufeng Chen, Panpan Wang, Yan Huang, Jing Tan, Weidong Pan, Ronghua Zhang, Qiang Yu, Xiaojian Wu, Wenyu Wang · **게재일**: 2026-10-12 · [원문 링크](https://www.nature.com/articles/s41467-026-78587-6)
+
+**Abstract (EN)**: Nature Communications, Published online: 12 October 2026; doi:10.1038/s41467-026-78587-6 RNA sensors have been linked to antitumor immune responses. Here, based on results of in vivo CRISPR screens, the authors propose the RNA sensor MDA5 as a regulator of immune evasion, showing that its targeting induces immunogenic cell death and anti tumor immunity.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
 ### A method quantifying soil melanin to understand fungal impacts on soil carbon stability
 **저자**: Sylwia Adamczyk, Bartosz Adamczyk · **게재일**: 2026-10-11 · [원문 링크](https://www.nature.com/articles/s41467-026-78616-4)
 
@@ -56,31 +70,17 @@
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### In situ reduction-driven formation of sub-nanometer alternating heterostructures
-**저자**: Yuan Huang, Zhenyu Ren, Yijian Gao, Haoyang Li, Hai Xiao, Qingda Liu, Xun Wang · **게재일**: 2026-10-11 · [원문 링크](https://www.nature.com/articles/s41467-026-78575-w)
+### Intensification of near-inertial currents in the Atlantic Ocean over the past two decades
+**저자**: Yuhang Zheng, Xiaoming Zhai, David P. Stevens, Wei Wu, Wenhao Gong, Yan Du · **게재일**: 2026-10-11 · [원문 링크](https://www.nature.com/articles/s41467-026-78555-0)
 
-**Abstract (EN)**: Nature Communications, Published online: 11 October 2026; doi:10.1038/s41467-026-78575-w Sub-nanometer heterostructures offer opportunities to tune interfacial reactivity, but their precise construction remains challenging. Here, the authors report alternating Ni/NiMoO₄ heterostructures that promote hydrogen evolution and sustain durable high-current electrolysis.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Asymmetric bloom lengthening drives high-latitude ocean chlorophyll accumulation imbalance
-**저자**: Zhenhua Zhang, Peng Chen, Cedric Jamet, Siqi Zhang, Kun Shi, Delu Pan · **게재일**: 2026-10-11 · [원문 링크](https://www.nature.com/articles/s41467-026-78603-9)
-
-**Abstract (EN)**: Nature Communications, Published online: 11 October 2026; doi:10.1038/s41467-026-78603-9 This study shows that unequal changes in bloom duration between hemispheres contribute to contrasting high-latitude ocean chlorophyll trends, linking asymmetric phytoplankton phenology to marine ecosystem changes under climate warming.
+**Abstract (EN)**: Nature Communications, Published online: 11 October 2026; doi:10.1038/s41467-026-78555-0 Ocean drifter observations reveal that Atlantic near-inertial currents intensified by almost 4% per decade during 2003–2022. This intensification is primarily driven by changes in wind forcing associated with mesoscale weather systems.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Twisted superconducting quantum diodes for high fidelity anharmonic qubits
-**저자**: Han Zhong, Denis Kochan, Igor Žutić, Yingying Wu · **게재일**: 2026-10-10 · [원문 링크](https://www.nature.com/articles/s41467-026-78376-1)
+### HCV incidence and prevalence trends among people who use drugs in France 2004 to 2023
+**저자**: Chiara E. Sabbatini, Yann Le Strat, Christophe Bonaldi, Cécile Brouard, Martin Audran, Leïla Saboni, Jean-Baptiste Richard, Amélie David, Catherine Gaudy-Graffin, Stéphane Chevaliez, Francis Barin, Karl Stefic, Marie Jauffret-Roustide · **게재일**: 2026-10-11 · [원문 링크](https://www.nature.com/articles/s41467-026-78598-3)
 
-**Abstract (EN)**: Nature Communications, Published online: 10 October 2026; doi:10.1038/s41467-026-78376-1 Superconducting diodes can provide nonreciprocal elements for superconducting and quantum circuits, but the role of diode efficiency in quantum-device performance remains unclear. Here, the authors demonstrate an enhanced superconducting diode effect in twisted NbSe2 and show that even a moderate degree of nonreciprocity is sufficient to stabilize anharmonic qubit circuits.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Somatosensory cortex shapes perceptual decision bias via the superior colliculus
-**저자**: Alice Y. Nam, Jiwook Shin, Morgan Tenney, Baihe Zhang, Y. Kate Hong · **게재일**: 2026-10-10 · [원문 링크](https://www.nature.com/articles/s41467-026-78331-0)
-
-**Abstract (EN)**: Nature Communications, Published online: 10 October 2026; doi:10.1038/s41467-026-78331-0 The authors show that, when detecting the presence of tactile stimuli, mouse primary somatosensory cortex shapes perceptual decisions through the midbrain superior colliculus, primarily by shifting decision bias rather than the ability to detect the stimulus.
+**Abstract (EN)**: Nature Communications, Published online: 11 October 2026; doi:10.1038/s41467-026-78598-3 Authors show in 2013-2023 France saw a substantial reduction in hepatitis C virus prevalence and incidence among people who use drugs. Widespread treatment and harm reduction drove the decline, bringing France closer to WHO 2030 elimination targets.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
