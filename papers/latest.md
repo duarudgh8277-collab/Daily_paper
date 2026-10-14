@@ -1,52 +1,53 @@
-# 📚 일일 논문 다이제스트 — 2026-10-13 (KST)
+# 📚 일일 논문 다이제스트 — 2026-10-14 (KST)
 
-**수집 저널 수**: 7개 · **논문 수**: 18편
+**수집 저널 수**: 8개 · **논문 수**: 21편
 
 > 영문 초록은 RSS 원본입니다. Claude Code 에서 `/translate-digest` 로 한국어 요약을 채워 넣으세요.
 
 ## 목차
 - [Nature](#nature) (5편)
 - [Nature Genetics](#nature-genetics) (1편)
-- [Nature Methods](#nature-methods) (1편)
-- [Nature Human Behaviour](#nature-human-behaviour) (4편)
-- [Molecular Psychiatry](#molecular-psychiatry) (1편)
+- [Nature Neuroscience](#nature-neuroscience) (1편)
+- [Nature Machine Intelligence](#nature-machine-intelligence) (1편)
+- [Nature Methods](#nature-methods) (2편)
 - [Biological Psychiatry](#biological-psychiatry) (5편)
+- [Nature Communications](#nature-communications) (5편)
 - [Nucleic Acids Research](#nucleic-acids-research) (1편)
 
 ## Nature
 
-### Award-winning microscopy image disqualified over AI use
-**저자**: Rachel Fieldhouse · **게재일**: 2026-10-12 · [원문 링크](https://www.nature.com/articles/d41586-026-03240-7)
+### Preserve research data for tomorrow’s AI-enabled integrity checks
+**저자**: Qingde Shi, Jinlei Nie, Zhaowei Kong · **게재일**: 2026-10-13 · [원문 링크](https://www.nature.com/articles/d41586-026-03244-3)
 
-**Abstract (EN)**: Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-03240-7 The incident has prompted discussions about the use of artificial intelligence in scientific imagery.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Author Correction: Timing and trajectory of BCR::ABL1 -driven chronic myeloid leukaemia
-**저자**: Aleksandra E. Kamizela, Daniel Leongamornlert, Nicholas Williams, Xin Wang, Kudzai Nyamondo, Kevin Dawson, Michael Spencer Chapman, Jing Guo, Joe Lee, Karim Mane, Kate Milne, Anthony R. Green, Timothy Chevassut, Peter J. Campbell, Patrick T. Ellinor, Brian J. P. Huntly, E. Joanna Baxter, Jyoti Nangalia · **게재일**: 2026-10-12 · [원문 링크](https://www.nature.com/articles/s41586-026-11253-5)
-
-**Abstract (EN)**: Nature, Published online: 12 October 2026; doi:10.1038/s41586-026-11253-5 Author Correction: Timing and trajectory of BCR::ABL1 -driven chronic myeloid leukaemia
+**Abstract (EN)**: Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03244-3 Preserve research data for tomorrow’s AI-enabled integrity checks
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Keep medical doctors in academia — without them, health-care research will suffer
-**저자**: Daniyal J. Jafree, Mingze Sun, Gordon W. Stewart, Áine Burns, Muzlifah Haniffa, Rupert Beale, Charles Swanton, Reza Motallebzadeh · **게재일**: 2026-10-12 · [원문 링크](https://www.nature.com/articles/d41586-026-03225-6)
+### Atomic-scale spin sensing of a 2D d-wave altermagnet via helical tunneling
+**저자**: Zhuying Wang, Shuikang Yu, Xingkai Cheng, Xiaoyu Xiao, Wanru Ma, Yitian Ma, Feixiong Quan, Hongxi Song, Kunming Zhang, Yunmei Zhang, Wenhao Liu, Priti Yadav, Haohao Sheng, Aifeng Wang, Xiangbiao Shi, Zhijun Wang, Qian Niu, Yang Gao, Bin Xiang, Junwei Liu, Zhenyu Wang, Xianhui Chen · **게재일**: 2026-10-13 · [원문 링크](https://www.nature.com/articles/s41586-026-11257-1)
 
-**Abstract (EN)**: Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-03225-6 Better career support and more funding stability is needed to retain this invaluable group of scientists.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Economics Nobel awarded for work on stabilizing economies in crisis
-**저자**: Philip Ball · **게재일**: 2026-10-12 · [원문 링크](https://www.nature.com/articles/d41586-026-03251-4)
-
-**Abstract (EN)**: Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-03251-4 Laureates share award that builds on the theories that contributed to governments intervening during the COVID-19 pandemic.
+**Abstract (EN)**: Nature, Published online: 13 October 2026; doi:10.1038/s41586-026-11257-1 Atomic-scale spin sensing of a 2D d-wave altermagnet via helical tunneling
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Beyond the solvent fog: watching molecules dance in the crowd
-**저자**: Kathryn Froese, Germán Sciaini · **게재일**: 2026-10-12 · [원문 링크](https://www.nature.com/articles/d41586-026-02970-y)
+### Decentralized AI needs more evidence on energy use
+**저자**: Deepak Kushawaha · **게재일**: 2026-10-13 · [원문 링크](https://www.nature.com/articles/d41586-026-03245-2)
 
-**Abstract (EN)**: Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-02970-y A technique called time-resolved X-ray liquidography has been used to shed precision light on the steps involved in a classic chemical reaction.
+**Abstract (EN)**: Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03245-2 Decentralized AI needs more evidence on energy use
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Selective, Catalytic Oxidation of Polyethylene Surfaces
+**저자**: Cristian P. Woroch, Liana Klivansky, Declan P. McCarthy, Heidi Miao, Zachary Fink, Xiaobing Zuo, Christopher Guthrie, Cheng Wang, Brett A. Helms, John F. Hartwig · **게재일**: 2026-10-13 · [원문 링크](https://www.nature.com/articles/s41586-026-11255-3)
+
+**Abstract (EN)**: Nature, Published online: 13 October 2026; doi:10.1038/s41586-026-11255-3 Selective, Catalytic Oxidation of Polyethylene Surfaces
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Lead-tainted teeth reveal medieval mines’ unequal toll
+**게재일**: 2026-10-13 · [원문 링크](https://www.nature.com/articles/d41586-026-03236-3)
+
+**Abstract (EN)**: Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03236-3 Burials in the United Kingdom’s Peak District, one of Europe’s largest lead-production regions in centuries past, hint at social inequality.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -54,10 +55,32 @@
 
 ## Nature Genetics
 
-### Micronuclear ecDNA constrains tumor cell fitness and is associated with favorable patient survival
-**저자**: Lotte Brückner, Robin Xu, Jun Tang, Aditi Gnanasekar, Alexander Herrmann, Ivy Tsz-Lo Wong, Shu Zhang, Fengyu Tu, Madison Pilon, Alexander Kukalev, Katharina Pardon, Olga Sidorova, Joshua Atta, Qinghao Yu, Giulia Montuori, Davide Pradella, Mila Ilić, Kentaro Suina, Marco Novais-Cruz, Sarah Kaltenbach, Denise Treue, Mădălina Giurgiu-Kraljič, Sergej Herzog, Ann-Sophie Hollinger, Nadine Wittstruck, Martina Fernandez, Nicole Wolozyn, Finnja Becker, Varvara-Rigina Louma, Xiaowei Yan, Rachel Schmargon, Jan R. Dörr, David Gamlin, Annika Lehmann, Dennis Gürgen, Matthias Richter, Frank Dubois, Fabrizio Simeoni, Betheney R. Pennycook, Alastair Hamilton, Ralph K. Lindemann, Courtney Dawes, Gabriel Balmus, Barbara Hero, Matthias Fischer, Vineet Bafna, Roel Verhaak, Geoffrey Wahl, Yang Liu, Richard P. Koche, Stamatis Papathanasiou, René Medema, Bastiaan Spanjaard, Andrea Ventura, Ana Pombo, Weini Huang, Monika Scheer, Benjamin Werner, Howard Y. Chang, Paul S. Mischel, Anton G. Henssen · **게재일**: 2026-10-12 · [원문 링크](https://www.nature.com/articles/s41588-026-02782-w)
+### Clonal heterogeneity in human pancreatic ductal adenocarcinoma and its impact on tumor progression
+**저자**: Despoina Kalfakakou, Daniel C. Cameron, Emily A. Kawaler, Motoyuki Tsuda, Lidong Wang, Qi Su, Sungsik Kim, Elektra Manolakos, Xiaohong Jing, Cristina Hajdu, Dylan L. Tamayo, Yoona Shim, Amanda Ackermann, Daniel Weissinger, Hayley Zimny, Rosmel Hernandez, Matthew Beier, Dacia Dimartino, Peter Meyn, Kalina Rice, Shanmugapriya Selvaraj, Cynthia Loomis, Adriana Heguy, Amanda W. Lund, Hannah Carter, Rosalie C. Sears, Theodore H. Welling, Igor Dolgalev, Aristotelis Tsirigos, Diane M. Simeone · **게재일**: 2026-10-13 · [원문 링크](https://www.nature.com/articles/s41588-026-02779-5)
 
-**Abstract (EN)**: Nature Genetics, Published online: 12 October 2026; doi:10.1038/s41588-026-02782-w Single-micronucleus sequencing and live-cell imaging of cancer cells, as well as analyses of biopsies from patients with neuroblastoma, reveal that ecDNA in micronuclei limits tumor cell fitness and is associated with patient survival.
+**Abstract (EN)**: Nature Genetics, Published online: 13 October 2026; doi:10.1038/s41588-026-02779-5 This study uses single-cell RNA sequencing and spatial transcriptomics of pancreatic ductal adenocarcinoma tumors to investigate tumor heterogeneity and clonal evolution, providing a valuable resource for this aggressive cancer.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+---
+
+## Nature Neuroscience
+
+### Author Correction: T cell-mediated microglial activation triggers myelin pathology in a mouse model of amyloidosis
+**저자**: Shreeya Kedia, Hao Ji, Ruoqing Feng, Peter Androvic, Lena Spieth, Lu Liu, Jonas Franz, Hanna Zdiarstek, Katrin Perez Anderson, Cem Kaboglu, Qian Liu, Nicola Mattugini, Fatma Cherif, Danilo Prtvar, Ludovico Cantuti-Castelvetri, Arthur Liesz, Martina Schifferer, Christine Stadelmann, Sabina Tahirovic, Ozgun Gokce, Mikael Simons · **게재일**: 2026-10-13 · [원문 링크](https://www.nature.com/articles/s41593-026-02502-x)
+
+**Abstract (EN)**: Nature Neuroscience, Published online: 13 October 2026; doi:10.1038/s41593-026-02502-x Author Correction: T cell-mediated microglial activation triggers myelin pathology in a mouse model of amyloidosis
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+---
+
+## Nature Machine Intelligence
+
+### An all-in-one foundation model for multimodal medical image restoration and enhancement
+**저자**: Luyang Cao, Zhijian Wu, Jian Zhang, Lei Qi, Yang Gao, Hairong Zheng, Yefeng Zheng, Yinghuan Shi · **게재일**: 2026-10-13 · [원문 링크](https://www.nature.com/articles/s42256-026-01310-z)
+
+**Abstract (EN)**: Nature Machine Intelligence, Published online: 13 October 2026; doi:10.1038/s42256-026-01310-z Cao et al. present AMIFound, a foundation model that unifies medical image restoration across seven imaging modalities, delivering robust enhancement across diverse degradations and preserving clinically relevant information for diagnosis.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -65,53 +88,17 @@
 
 ## Nature Methods
 
-### Early-career balancing act: training, moving, relationships and language learning
-**저자**: Vivien Marx · **게재일**: 2026-10-12 · [원문 링크](https://www.nature.com/articles/s41592-026-03267-8)
+### The companion website
+**저자**: Andreas Bueckle, Matthias Stahl, Kelly Krause, Torsten Möller, Helena Klara Jambor · **게재일**: 2026-10-13 · [원문 링크](https://www.nature.com/articles/s41592-026-03276-7)
 
-**Abstract (EN)**: Nature Methods, Published online: 12 October 2026; doi:10.1038/s41592-026-03267-8 These early career scientists in Europe share challenges and advice about finding the ‘right’ lab and lab–life blend.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
----
-
-## Nature Human Behaviour
-
-### Responsibilism and culture
-**저자**: Adam B. Cohen, Amiryah N. Toves · **게재일**: 2026-10-12 · [원문 링크](https://www.nature.com/articles/s41562-026-02616-z)
-
-**Abstract (EN)**: Nature Human Behaviour, Published online: 12 October 2026; doi:10.1038/s41562-026-02616-z Previous research has widely associated East Asian cultures with higher levels of collectivism, which is often measured through self-report scales that emphasize warmth and prosociality towards all people. Talhelm et al. developed a responsibilism scale that captures duties and responsibilities in close relationships.
+**Abstract (EN)**: Nature Methods, Published online: 13 October 2026; doi:10.1038/s41592-026-03276-7 How biologists can make the most of supplementary materials for impact.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Recognizing Indigenous peoples
-**저자**: Raymond I. Orr · **게재일**: 2026-10-12 · [원문 링크](https://www.nature.com/articles/s41562-026-02619-w)
+### Near-infrared photochromic miniprotein enables photoacoustic molecular imaging of acute inflammation and intracellular antigens
+**저자**: Olena S. Oliinyk, Yirui Xu, Jinhuan Luo, Kateryna O. Tokarchuk, Kyrylo Yu. Manoilov, Josie van de Klashorst, Matthew P. Eyring, Mu-en Wang, Ming Chen, Pengfei Song, John W. Hickey, Junjie Yao, Vladislav V. Verkhusha · **게재일**: 2026-10-13 · [원문 링크](https://www.nature.com/articles/s41592-026-03255-y)
 
-**Abstract (EN)**: Nature Human Behaviour, Published online: 12 October 2026; doi:10.1038/s41562-026-02619-w Settler states increasingly offer Indigenous peoples symbolic recognition, such as land acknowledgements, instead of political power or resources, yet the effects of these gestures are untested. Peyton and McNamee’s experiments in the USA and Australia find that land acknowledgements raise awareness of Indigenous peoples but reduce interest in learning more.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Both selfish and prosocial actors distort their impact on others, but selfish-serving spin seems to spread
-**게재일**: 2026-10-12 · [원문 링크](https://www.nature.com/articles/s41562-026-02584-4)
-
-**Abstract (EN)**: Nature Human Behaviour, Published online: 12 October 2026; doi:10.1038/s41562-026-02584-4 From consumers buying fair-trade products to policy makers funding science, people often do not know exactly how their actions will affect others. We show that selfish and prosocial actors alike may distort their impact in self-serving ways, but selfish-serving distortions catch on more readily than prosocial-serving distortions and increase followers’ selfishness.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Simulated responses from large language models are weak proxies for human economic preferences across 74 countries
-**저자**: Fadong Chen, Qijun Wang, Lei Wang, Sudeep Bhatia · **게재일**: 2026-10-12 · [원문 링크](https://www.nature.com/articles/s41562-026-02611-4)
-
-**Abstract (EN)**: Nature Human Behaviour, Published online: 12 October 2026; doi:10.1038/s41562-026-02611-4 Simulating a global survey of economic preferences across 74 countries, this study shows that large language models reproduce some demographic patterns in human preferences but fail to capture cultural differences, especially in lower-income countries.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
----
-
-## Molecular Psychiatry
-
-### Correction: “Increasing dopamine synthesis capacity in the dorsal striatum and tonic acetylcholine: implications for the new muscarinic agents in the treatment of schizophrenia”
-**저자**: Darryl Eyles, Zilong Du, Xiaoying Cui, James P. Kesby · **게재일**: 2026-10-12 · [원문 링크](https://www.nature.com/articles/s41380-026-03923-7)
-
-**Abstract (EN)**: Molecular Psychiatry, Published online: 12 October 2026; doi:10.1038/s41380-026-03923-7 Correction: “Increasing dopamine synthesis capacity in the dorsal striatum and tonic acetylcholine: implications for the new muscarinic agents in the treatment of schizophrenia”
+**Abstract (EN)**: Nature Methods, Published online: 13 October 2026; doi:10.1038/s41592-026-03255-y A small, photoswitchable and genetically encodable protein operating in the near-infrared window is reported for photoacoustic tomography applications.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -119,10 +106,24 @@
 
 ## Biological Psychiatry
 
-### Excitation-Inhibition Balance and Fronto-Limbic Connectivity Distinguish TMS Treatment Outcomes in Refractory Depression
-**저자**: Davide Momi, Zheng Wang, Mohammad P. Oveisi, Kevin Kadak, Sorenza P. Bastiaens, Jennifer I. Lissemore, Yoshihiro Noda, Jonathan Downar, Fidel Vila Rodriguez, Rebecca Strafella, Zafiris J. Daskalakis, Christoph Zrenner, Reza Zomorrodi, Camarin E. Rolle, Manish Saggar, Nolan Williams, Corey J. Keller, Daniel M. Blumberger, Daphne Voineskos, John D. Griffiths · **게재일**: 2026-10-12 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01591-X/fulltext?rss=yes)
+### Neural Circuits of Social Behavior in Autism Spectrum Disorder: From Mechanism to Intervention
+**저자**: Kally C. O’Reilly Sparks, Ernest V. Pedapati · **게재일**: 2026-10-13 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01609-4/fulltext?rss=yes)
 
-**Abstract (EN)**: Intermittent theta burst stimulation (iTBS) targeting the left dorsolateral prefrontal cortex (DLPFC) is effective for treatment-resistant depression, but outcomes remain variable. The neurophysiological mechanisms underlying response remain poorly understood, limiting precision neuromodulation.
+**Abstract (EN)**: Difficulties in social communication and interaction are core diagnostic features of autism spectrum disorder (ASD), yet interventions targeting these difficulties have modest and variable effects. Understanding mechanistically distinct contributions to social behaviors may identify new therapeutic opportunities.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Genetic architecture and risk of suicide attempt across neurodevelopmental and psychiatric conditions
+**저자**: Anna Starnawska, Trine Tollerup Nielsen, Jakob Grove, Juan Cordero-Solorzano, Jonas Bybjerg-Grauholm, Psychiatric Genomics Consortium Autism Spectrum Disorder Working Group, Elizabeth C. Corfield, Richard J.L. Anney, Anna R. Docherty, Anders D. Børglum, Ditte Demontis · **게재일**: 2026-10-13 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01608-2/fulltext?rss=yes)
+
+**Abstract (EN)**: Suicide attempt (SA) is prevalent among individuals with neurodevelopmental and psychiatric conditions, yet similarities and differences in the genetic architecture of SA across these conditions remain unclear.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Erratum to: Triple Interactions Between the Environment, Brain, and Behavior in Children: An ABCD Study
+**게재일**: 2026-10-13 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01574-X/fulltext?rss=yes)
+
+**Abstract (EN)**: Erratum to: “Triple Interactions Between the Environment, Brain, and Behavior in Children: An ABCD Study,” by Zhi et al. (Biol Psychiatry 2024; 95:828–838); https://doi.org/10.1016/j.biopsych.2023.12.019.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -140,17 +141,42 @@
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Subscribers Page
-**게재일**: 2026-11-01 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01526-X/fulltext?rss=yes)
+---
 
-**Abstract (EN)**: (초록이 제공되지 않았습니다.)
+## Nature Communications
+
+### A nanosystem manipulates angiocrine signaling for cardioprotection in male mice by relocalizing endothelial exosomes
+**저자**: Di Jiang, Ruixuan He, Bowen Yang, Jianlin Shi · **게재일**: 2026-10-14 · [원문 링크](https://www.nature.com/articles/s41467-026-78706-3)
+
+**Abstract (EN)**: Nature Communications, Published online: 14 October 2026; doi:10.1038/s41467-026-78706-3 Acute myocardial ischemia induces the release of endothelial exosomes with cardioprotective effect. Here, the authors show that a nanosystem relocalizes circulating endothelial exosomes to ischemic myocardium, increasing local exposure and preserving cardiac function
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Editorial Board Page
-**게재일**: 2026-11-01 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01525-8/fulltext?rss=yes)
+### Integrated multi-omics identifies distinct immune signatures with diagnostic and therapeutic implications in immune checkpoint inhibitor-induced myocarditis
+**저자**: Shi-Long Zhang, Qing-Qing Cai, Jian Zhang, Yuan Liu, Hao Lu, Ye-Rui Zhang, Yu-Chen Xu, Hai-Xiang Peng, Hui-Yong Chen, Yan Wang, Lei-Lei Cheng, Jun-Bo Ge · **게재일**: 2026-10-14 · [원문 링크](https://www.nature.com/articles/s41467-026-77262-0)
 
-**Abstract (EN)**: (초록이 제공되지 않았습니다.)
+**Abstract (EN)**: Nature Communications, Published online: 14 October 2026; doi:10.1038/s41467-026-77262-0 Immune checkpoint inhibitor (ICI)-induced myocarditis is a rare side effect of ICI therapy. Here the authors use multi-omics approaches to characterize the immune cells and mediators involved and find monocytes and ISG15+ CD8+ T cells as well as an 8-protein panel to better distinguish ICI-myocarditis.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Author Correction: Engineered CRISPR-OsCas12f1 and RhCas12f1 with robust activities and expanded target range for genome editing
+**저자**: Xiangfeng Kong, Hainan Zhang, Guoling Li, Zikang Wang, Xuqiang Kong, Lecong Wang, Mingxing Xue, Weihong Zhang, Yao Wang, Jiajia Lin, Jingxing Zhou, Xiaowen Shen, Yinghui Wei, Na Zhong, Weiya Bai, Yuan Yuan, Linyu Shi, Yingsi Zhou, Hui Yang · **게재일**: 2026-10-13 · [원문 링크](https://www.nature.com/articles/s41467-026-78550-5)
+
+**Abstract (EN)**: Nature Communications, Published online: 13 October 2026; doi:10.1038/s41467-026-78550-5 Author Correction: Engineered CRISPR-OsCas12f1 and RhCas12f1 with robust activities and expanded target range for genome editing
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Population-resolved single-emitter spectroscopy
+**저자**: Jonah R. Horowitz, Oliver J. Tye, Oliver M. Nix, Shaun Tan, Hogeun Chang, Ji Hyun Min, Heejae Chung, Taehyung Kim, Moungi G. Bawendi · **게재일**: 2026-10-13 · [원문 링크](https://www.nature.com/articles/s41467-026-78155-y)
+
+**Abstract (EN)**: Nature Communications, Published online: 13 October 2026; doi:10.1038/s41467-026-78155-y Traditional methods struggle to quantify the optical heterogeneity in nanomaterials. Here the authors develop a new spectroscopic tool that rapidly extracts trends in single-particle spectra and apply it to ZnSeTe nanocrystals, revealing the origin of their low color purity.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Reinforcement learning guided robotic platform that investigates and discovers asymmetric reactions
+**저자**: Patryk Klochowicz, Ahmad F. Kassir, Chandrakanta Parida, Jarosław M. Granda · **게재일**: 2026-10-13 · [원문 링크](https://www.nature.com/articles/s41467-026-78271-9)
+
+**Abstract (EN)**: Nature Communications, Published online: 13 October 2026; doi:10.1038/s41467-026-78271-9 Autonomous robotic platforms have accelerated chemical discovery but remain limited in exploring asymmetric reaction landscapes with unknown stereochemical outcomes. Here, the authors report a deep reinforcement learning-guided robotic workflow that autonomously discovers highly enantioselective catalytic reactions through simulation-trained decision-making.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
