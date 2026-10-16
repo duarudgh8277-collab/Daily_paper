@@ -1,67 +1,91 @@
-# 📚 일일 논문 다이제스트 — 2026-10-15 (KST)
+# 📚 일일 논문 다이제스트 — 2026-10-16 (KST)
 
-**수집 저널 수**: 11개 · **논문 수**: 34편
+**수집 저널 수**: 7개 · **논문 수**: 29편
 
 > 영문 초록은 RSS 원본입니다. Claude Code 에서 `/translate-digest` 로 한국어 요약을 채워 넣으세요.
 
 ## 목차
-- [Nature](#nature) (5편)
-- [Nature Genetics](#nature-genetics) (1편)
-- [Nature Neuroscience](#nature-neuroscience) (2편)
+- [Science](#science) (5편)
+- [Cell](#cell) (5편)
+- [Nature Neuroscience](#nature-neuroscience) (5편)
 - [Nature Computational Science](#nature-computational-science) (1편)
-- [Nature Methods](#nature-methods) (3편)
-- [Cell Genomics](#cell-genomics) (5편)
-- [Nature Human Behaviour](#nature-human-behaviour) (1편)
-- [Molecular Psychiatry](#molecular-psychiatry) (1편)
 - [Biological Psychiatry](#biological-psychiatry) (5편)
 - [Nature Communications](#nature-communications) (5편)
-- [Nucleic Acids Research](#nucleic-acids-research) (5편)
+- [Nucleic Acids Research](#nucleic-acids-research) (3편)
 
-## Nature
+## Science
 
-### Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds
-**저자**: Hayato Fujimoto, Masayuki Mizutani, Kazuya Imachi, Teruki Nishioka, Reona Ikeda, Mamoru Tobisu · **게재일**: 2026-10-14 · [원문 링크](https://www.nature.com/articles/s41586-026-11242-8)
+### An elegy for the unsung world-builders
+**저자**: Mary Ellen Hannibal · **게재일**: 2026-10-15 · [원문 링크](https://www.science.org/doi/abs/10.1126/science.aek0152?af=R)
 
-**Abstract (EN)**: Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11242-8 Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### This is why butterflies are so hard to catch
-**저자**: Nick Petrić Howe · **게재일**: 2026-10-14 · [원문 링크](https://www.nature.com/articles/d41586-026-03301-x)
-
-**Abstract (EN)**: Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03301-x High-speed camera footage reveals the visual tricks butterflies use to evade predators.
+**Abstract (EN)**: Science, Volume 394, Issue 6821, Page 278-278, October 2026.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Biomedical engineering is growing rapidly, but will it help patients?
-**저자**: Simon Baker · **게재일**: 2026-10-14 · [원문 링크](https://www.nature.com/articles/d41586-026-03202-z)
+### Fear the bioengineered future
+**저자**: Gregory J. Miller · **게재일**: 2026-10-15 · [원문 링크](https://www.science.org/doi/abs/10.1126/science.aem4081?af=R)
 
-**Abstract (EN)**: Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03202-z Assimilating the latest technology into health systems is a key challenge facing the field.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Author Correction: Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride
-**저자**: Chien-Chih Tseng, Chang-Hsun Huang, Jui-Cheng Kao, Jui-Han Fu, Aowen Li, Ryo Ishikawa, Seong Rae Cho, Chenxi Lei, Kai Qi, Chih-Zong Deng, Po-Yu Yang, Cheng-Tang Pan, Wei-Chun Chen, Ming-Chung Wu, Fong-Zhi Chen, Yu-Wei Lin, Yu-Chieh Lo, Ya-Lun Ho, Kosuke Nagashio, Yi-Chia Chou, Naoya Shibata, Chun-Wei Pao, Vincent Tung · **게재일**: 2026-10-14 · [원문 링크](https://www.nature.com/articles/s41586-026-11267-z)
-
-**Abstract (EN)**: Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11267-z Author Correction: Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride
+**Abstract (EN)**: Science, Volume 394, Issue 6821, Page 279-279, October 2026.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Growing plane and ship traffic degrade the air of western North America
-**게재일**: 2026-10-14 · [원문 링크](https://www.nature.com/articles/d41586-026-03239-0)
+### Gate-tunable chiral spin mode in WSe2/WS2 moiré superlattices
+**저자**: Zhexu Shan, Wenjian Su, Kenji Watanabe, Takashi Taniguchi, Shiyao Zhu, Yuanfeng Xu, Yanhao Tang · **게재일**: 2026-10-15 · [원문 링크](https://www.science.org/doi/abs/10.1126/science.adq6530?af=R)
 
-**Abstract (EN)**: Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03239-0 Pollution from transport across the Pacific Ocean is raising ozone levels above a region whose own emissions have dropped.
+**Abstract (EN)**: Science, Volume 394, Issue 6821, Page 316-320, October 2026.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### A pair of chitosan receptors confer broad-spectrum fungal resistance
+**저자**: Keyi Huang, Jingni Wu, Yu Cao, Yingying Cao, Zhongji Pu, Aoshen Xu, Wenzhao Wang, Xue Zhou, Ming Li, Min Zhang, Yuhua Wang, Jinbiao Ma, Yulin Du, Qin Wang, Yingqiao Wan, Shangyu Gao, Dacheng Wang, Guangzheng Sun, Qin Gu, Huan Chen, Guosheng Xiong, Heng Yin, Yiwen Deng, Wensheng Zhao, Zhengguang Zhang, Shengben Li, Xiquan Gao, Sun Tae Kim, Gang Li, Baolei Jia, Jijie Chai, Kenichi Tsuda, Zheng Qing Fu, Yiming Wang · **게재일**: 2026-10-15 · [원문 링크](https://www.science.org/doi/abs/10.1126/science.ady7647?af=R)
+
+**Abstract (EN)**: Science, Volume 394, Issue 6821, Page 291-297, October 2026.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Regulation of target gene expression by chromatin-associated protein-coding transcripts in plants
+**저자**: Lu Han, Yuxiang Yuan, Yujie Liu, Yan Li, Yijun Qi · **게재일**: 2026-10-15 · [원문 링크](https://www.science.org/doi/abs/10.1126/science.adz4903?af=R)
+
+**Abstract (EN)**: Science, Volume 394, Issue 6821, October 2026.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
 ---
 
-## Nature Genetics
+## Cell
 
-### Author Correction: Histone H3 proline 16 hydroxylation regulates mammalian gene expression
-**저자**: Xijuan Liu, Jun Wang, Joshua A. Boyer, Weida Gong, Shuai Zhao, Ling Xie, Qiong Wu, Cheng Zhang, Kanishk Jain, Yiran Guo, Javier Rodriguez, Mingjie Li, Hidetaka Uryu, Chengheng Liao, Lianxin Hu, Jin Zhou, Xiaobing Shi, Yi-Hsuan Tsai, Qin Yan, Weibo Luo, Xian Chen, Brian D. Strahl, Alex von Kriegsheim, Qi Zhang, Gang Greg Wang, Albert S. Baldwin, Qing Zhang · **게재일**: 2026-10-14 · [원문 링크](https://www.nature.com/articles/s41588-026-02828-z)
+### Milking the niche: Microbial control of neonatal hematopoiesis
+**저자**: Dan Corral, Yasmine Belkaid · **게재일**: 2026-10-15 · [원문 링크](https://www.cell.com/cell/fulltext/S0092-8674(26)01079-2?rss=yes)
 
-**Abstract (EN)**: Nature Genetics, Published online: 14 October 2026; doi:10.1038/s41588-026-02828-z Author Correction: Histone H3 proline 16 hydroxylation regulates mammalian gene expression
+**Abstract (EN)**: In this issue of Cell, Howard et al. reveal how the milk glycoprotein osteopontin shapes the neonatal microbiome to regulate hematopoiesis, promoting dendritic cell development and protection from severe respiratory infection. These findings uncover a maternal milk-microbiota pathway linking early-life nutrition to immune development and long-term disease susceptibility.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Cellular scaling laws in the mammalian brain
+**저자**: Fei Chen, Evan Z. Macosko · **게재일**: 2026-10-15 · [원문 링크](https://www.cell.com/cell/fulltext/S0092-8674(26)01017-2?rss=yes)
+
+**Abstract (EN)**: This perspective argues that our brains do not operate as a single system; instead, there are two systems, where one is a copy-paste “learning” engine that scales by duplicating the same modules and the other is a bespoke “steering” system that scales by inventing entirely new cell types for every drive and reflex. This split between systems could reshape how we treat addiction and depression and how we build AI.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Charting the silent variation within us
+**저자**: Jacey R. Pridgen, Margaret A. Goodell · **게재일**: 2026-10-15 · [원문 링크](https://www.cell.com/cell/fulltext/S0092-8674(26)01187-6?rss=yes)
+
+**Abstract (EN)**: Every human is a mosaic of trillions of subtly different genomes. This commentary highlights the SMaHT Network’s benchmarking papers and body-wide map of somatic mosaicism and discusses what this newly measurable variation means for development, aging, and disease.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Comprehensive benchmarking of somatic mutation detection by the SMaHT Network
+**저자**: The Somatic Mosaicism across Human Tissues Network · **게재일**: 2026-10-15 · [원문 링크](https://www.cell.com/cell/fulltext/S0092-8674(26)01135-9?rss=yes)
+
+**Abstract (EN)**: Benchmarking by the Somatic Mosaicism across Human Tissues Network demonstrates that advances in sequencing and analysis now enable systematic and comprehensive discovery of somatic mutations across diverse mutation types in non-cancerous tissues and across the genome from telomere to telomere.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Somatic epimutations cap genetic determinism in the human diploid chromatin epigenome
+**저자**: Mitchell R. Vollger, Elliott G. Swanson, Shane J. Neph, Benjamin J. Mallory, Danilo Dubocanin, Ching-Huang Ho, Yong-Han Hank Cheng, Jane Ranchalis, Katherine M. Munson, Adriana E. Sedeno-Cortes, Devaraja G. Mudeppa, William E. Fondrie, Stephanie C. Bohaczuk, Maxwell A. Dippel, Yizi Mao, Nancy L. Parmalee, William T. Harvey, Youngjun Kwon, Gage H. Garcia, Kendra Hoekzema, Jeffrey G. Meyer, Mine Cicek, Evan E. Eichler, William S. Noble, Daniela M. Witten, James T. Bennett, John P. Ray, Andrew B. Stergachis · **게재일**: 2026-10-15 · [원문 링크](https://www.cell.com/cell/fulltext/S0092-8674(26)01137-2?rss=yes)
+
+**Abstract (EN)**: FIRE is a long-read Fiber-seq method that resolves chromatin accessibility along individual DNA molecules on each parental chromosome, enabling a comprehensive assessment of the diploid epigenome. FIRE reveals that the HLA locus harbors the densest haplotype-selective chromatin in immune cells and resolves regulatory principles of escape from X inactivation. It also uncovers pervasive somatic epimutations, mitotically stable and non-genetically mediated chromatin changes that cap genetic determinism in the human epigenome.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -69,17 +93,38 @@
 
 ## Nature Neuroscience
 
-### Ring attractor networks go full circle
-**저자**: Francesca Mastrogiuseppe, Srdjan Ostojic · **게재일**: 2026-10-14 · [원문 링크](https://www.nature.com/articles/s41593-026-02394-x)
+### 5-HT 2A receptors in layer 5 pyramidal neurons mediate the neuroplastic but not the hallucinogenic effects of psilocybin
+**저자**: Jacob J. Baker, Emily Kogan, Shaorong Ma, Ju Lu, Yi Zuo · **게재일**: 2026-10-15 · [원문 링크](https://www.nature.com/articles/s41593-026-02490-y)
 
-**Abstract (EN)**: Nature Neuroscience, Published online: 14 October 2026; doi:10.1038/s41593-026-02394-x Clark et al. demonstrate that heterogeneous data-driven models implement head-direction selectivity through the same dynamical principles as classical ring networks. In doing so, the authors reconcile biological realism with theoretical simplicity, unifying existing frameworks and broadening the space of connectivity structures to be searched in data.
+**Abstract (EN)**: Nature Neuroscience, Published online: 15 October 2026; doi:10.1038/s41593-026-02490-y Psilocybin promotes and stabilizes new connections between neurons in the mouse cerebral cortex, especially after stress. Baker et al. show that 5-HT2A receptor signaling in layer 5 pyramidal neurons mediates this effect but is not required for a mouse behavioral proxy of hallucinations.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Symmetries and continuous attractors in disordered neural circuits
-**저자**: David G. Clark, L. F. Abbott, Haim Sompolinsky · **게재일**: 2026-10-14 · [원문 링크](https://www.nature.com/articles/s41593-026-02452-4)
+### A half-center oscillator regulates sleep pressure
+**저자**: Peter S. Hasenhuetl, Raffaele Sarnataro, Eleftheria Vrontou, H. Olof Rorsman, Clifford B. Talbot, Ruth Brain, Gero Miesenböck · **게재일**: 2026-10-15 · [원문 링크](https://www.nature.com/articles/s41593-026-02431-9)
 
-**Abstract (EN)**: Nature Neuroscience, Published online: 14 October 2026; doi:10.1038/s41593-026-02452-4 Head-direction cells are far more disorderly than classical continuous-attractor models allow. Clark et al. show that this disorder is nevertheless compatible with these models and that the underlying connectivity matrix hides a circular symmetry.
+**Abstract (EN)**: Nature Neuroscience, Published online: 15 October 2026; doi:10.1038/s41593-026-02431-9 Hasenhuetl et al. show that neurons innervating the dorsal fan-shaped body of Drosophila form a half-center oscillator, a circuit motif typically found in central pattern generators for locomotion. Here, this circuit generates slow-wave activity for the regulation of sleep.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### An aging-sensitive secreted phospholipase confers neuroprotection and cognitive resilience
+**저자**: Cinzia Vicidomini, Travis D. Goode, Ruilin Yu, Iyanah Mehta, Kathleen M. McAvoy, Connor H. Beveridge, Caitlin E. Randolph, Sanjay N. Iyer, Matheus B. Victor, Noelle Leary, Liam Evans, Michael J. Steinbaugh, Zon Weng Lai, Marina C. Lyon, Manuel Rico Fernández San Silvestre, Giorgia Tosoni, Dilara Ayyildiz, Shannan Ho Sui, Kei Yamamoto, Makoto Murakami, Evgenia Salta, Li-Huei Tsai, Gaurav Chopra, Amar Sahay · **게재일**: 2026-10-15 · [원문 링크](https://www.nature.com/articles/s41593-026-02465-z)
+
+**Abstract (EN)**: Nature Neuroscience, Published online: 15 October 2026; doi:10.1038/s41593-026-02465-z This study identifies a secreted phospholipase in the hippocampal dentate gyrus that mediates an aging-sensitive compensatory mechanism promoting cognitive resilience and neuroprotection.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Spatiotemporal AI-based modeling of gene regulation and variant effects in the developing human brain using Seal
+**저자**: Yun Hao, Christopher Y. Park, Chandra L. Theesfeld, Olga G. Troyanskaya · **게재일**: 2026-10-15 · [원문 링크](https://www.nature.com/articles/s41593-026-02470-2)
+
+**Abstract (EN)**: Nature Neuroscience, Published online: 15 October 2026; doi:10.1038/s41593-026-02470-2 Seal is an artificial intelligence framework that predicts the effects of regulatory variants in 802 brain cell states, revealing spatiotemporal gene regulation and pinpointing cell types and developmental stages associated with neuropsychiatric conditions.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Periventricular gradient pathology is linked to ependymal reactivity and cell adhesion disruption in multiple sclerosis
+**저자**: Adam M. R. Groh, Elia Afanasiev, Risavarshni Thevakumaran, Finn Creeggan, Liam Callahan-Martin, Maxime Bigotte, Moein Yaqubi, Joshua Gertsvolf, Junze Pei, Hayden Wu, Judith de Vos, Maurice C. G. Aalders, Stephanie Zandee, Alexandre Prat, David A. Rudko, Jo Anne Stratton · **게재일**: 2026-10-15 · [원문 링크](https://www.nature.com/articles/s41593-026-02461-3)
+
+**Abstract (EN)**: Nature Neuroscience, Published online: 15 October 2026; doi:10.1038/s41593-026-02461-3 This study identifies ependymal dysfunction as a mechanism linking inflammatory cerebrospinal fluid to increased ventricular permeability and periventricular pathology in multiple sclerosis.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -87,96 +132,10 @@
 
 ## Nature Computational Science
 
-### HDOCK-Multimer: improved structure prediction of large protein complexes by integrating docking and combinatorial assembly
-**저자**: Xuan Yao, Yifan Ya, Hao Li, Sheng-You Huang · **게재일**: 2026-10-14 · [원문 링크](https://www.nature.com/articles/s43588-026-01062-1)
+### Hybrid modeling for improved structure prediction of large protein complexes
+**게재일**: 2026-10-15 · [원문 링크](https://www.nature.com/articles/s43588-026-01067-w)
 
-**Abstract (EN)**: Nature Computational Science, Published online: 14 October 2026; doi:10.1038/s43588-026-01062-1 This study presents HDOCK-Multimer, a general framework for structure prediction of large protein complexes by integrating ab initio docking and combinatorial assembly, substantially outperforming state-of-the-art methods.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
----
-
-## Nature Methods
-
-### Integrating sex as a biological variable into one’s science
-**저자**: Vivien Marx · **게재일**: 2026-10-14 · [원문 링크](https://www.nature.com/articles/s41592-026-03266-9)
-
-**Abstract (EN)**: Nature Methods, Published online: 14 October 2026; doi:10.1038/s41592-026-03266-9 Addressing sex-related variation might seem like an experimental or data analysis time-sink. It’s not.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### LoL-align: sensitive and fast probabilistic protein structure alignment
-**저자**: Lasse Reifenrath, Michel van Kempen, Gyuri Kim, Soo Hyun Kim, Mohammadreza Radnezhad, Cameron L. M. Gilchrist, Milot Mirdita, Martin Steinegger, Johannes Söding · **게재일**: 2026-10-14 · [원문 링크](https://www.nature.com/articles/s41592-026-03249-w)
-
-**Abstract (EN)**: Nature Methods, Published online: 14 October 2026; doi:10.1038/s41592-026-03249-w LoL-align is a probabilistic, distance-based protein structure alignment algorithm that iteratively optimizes a local log-odds score, achieving higher sensitivity for remote homologs and better alignment quality than available methods.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### MassNet: billion-scale AI-ready mass spectral corpus empowering scalable deep learning in proteomics
-**저자**: Jun A., Xiang Zhang, Xiaofan Zhang, Jiaqi Wei, Te Zhang, Yamin Deng, Pu Liu, Zongxiang Nie, Yiwen Yu, Yi Chen, Nanqing Dong, Zhiqiang Gao, Siqi Sun, Tiannan Guo · **게재일**: 2026-10-14 · [원문 링크](https://www.nature.com/articles/s41592-026-03247-y)
-
-**Abstract (EN)**: Nature Methods, Published online: 14 October 2026; doi:10.1038/s41592-026-03247-y This Article presents MassNet, a large-scale AI-ready corpus of 1.5 billion MS/MS spectra spanning 35 species, paired with a standardized storage format called Mass Spectrometry DDA Tensor (MSDT). Built on this resource, XuanjiNovo is a nonautoregressive transformer for de novo peptide sequencing that substantially outperforms previous methods.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
----
-
-## Cell Genomics
-
-### It’s been 5 years of Cell Genomics, and we’re celebrating!
-**저자**: Laura M. Zahn · **게재일**: 2026-10-14 · [원문 링크](https://www.cell.com/cell-genomics/fulltext/S2666-979X(26)00256-9?rss=yes)
-
-**Abstract (EN)**: It’s amazing how time flies. When I joined Cell Genomics in April 2022, shortly after its launch, the journal had just begun its publishing journey. In an editorial, I invited readers to join us at “the home for the genome.” In preparation for this anniversary, I’ve had a chance to reflect on my years as editor-in-chief. As the journal has grown, I have been gratified to see papers we’ve published receive recognition in the form of presentations at top conferences, discussions on social media, and positive feedback from researchers in the genetics and genomics community.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Deep learning uncovers hidden power of low-affinity motifs
-**저자**: Grace Bower, Evgeny Z. Kvon · **게재일**: 2026-10-14 · [원문 링크](https://www.cell.com/cell-genomics/fulltext/S2666-979X(26)00254-5?rss=yes)
-
-**Abstract (EN)**: Low-affinity transcription factor binding sites are functionally important but difficult to map and mechanistically poorly understood. In this issue of Cell Genomics, Weilert et al. leverage sequence-to-function deep learning models to systematically map low-affinity pioneer factor binding sites in mouse embryonic stem cells and reveal how these sites contribute to chromatin opening through soft-syntax nucleosomal cooperativity.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Establishing a genomic lab during COVID-19: A perspective from Institut Pasteur in Côte d’Ivoire
-**저자**: Bérenger Aristide Ako Ako, Stanislas Egomli Assohoun, Bernadette Flore Tchepé Diplo, Tata Gniré Safiatou Coulibaly, Jean-René Quassi Acquah, André Offianan Touré, Hervé Albérique Adjé Kadjo, Carole Valérie Gbonon, Joseph Allico Djaman, Mireille Dosso · **게재일**: 2026-10-14 · [원문 링크](https://www.cell.com/cell-genomics/fulltext/S2666-979X(26)00247-8?rss=yes)
-
-**Abstract (EN)**: Africa bears a disproportionate burden of epidemic threats, exemplified by COVID-19. Drawing on lessons from the pandemic, we describe how Institut Pasteur de Côte d’Ivoire transitioned from limited capacity to established expertise in genomic surveillance. This institutional strengthening provides a strategic blueprint for enhancing Africa’s resilience against emerging health threats.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Voices from contributors to Cell Genomics
-**저자**: Mélanie Courtot, Yukinori Okada, Hae Kyung Im, Vardhman Rakyan, John Doench, Jayne Hehir-Kwa, Steven J.M. Jones, Gael Cristofari, Alison Motsinger-Reif, Segun Fatumo, Evan Eichler, Christine R. Beck, Michael C. Schatz · **게재일**: 2026-10-14 · [원문 링크](https://www.cell.com/cell-genomics/fulltext/S2666-979X(26)00258-2?rss=yes)
-
-**Abstract (EN)**: We asked a global cohort of authors and reviewers of manuscripts published in the past 5 years at Cell Genomics to tell us about their specific research. We then asked them to reflect upon the current state of their respective field and what they foresee or would like to see changing and growing over the next 5 years.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Twelve voices from China: On publishing, community, and how the field of genomics is developing
-**저자**: Jian Yang, Yong Zhang, Siyang Liu, Yan Zheng, Gangqiao Zhou, Shu-Jin Luo, Hongxia Ma, Chaoyang Sun, Kai Ye, Y.M. Dennis Lo, Xiaoyue Wang, Lei Wang · **게재일**: 2026-10-14 · [원문 링크](https://www.cell.com/cell-genomics/fulltext/S2666-979X(26)00255-7?rss=yes)
-
-**Abstract (EN)**: To mark 5 years of Cell Genomics, we asked authors across China to reflect on their research and the field of genomics. Together, these voices reflect on their findings, publishing, belonging to a community, and what shape the field’s next 5 years should take.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
----
-
-## Nature Human Behaviour
-
-### Petition style changes with AI writing support but outcomes do not improve
-**게재일**: 2026-10-14 · [원문 링크](https://www.nature.com/articles/s41562-026-02579-1)
-
-**Abstract (EN)**: Nature Human Behaviour, Published online: 14 October 2026; doi:10.1038/s41562-026-02579-1 In 2023, Change.org introduced an artificial intelligence (AI)-supported petition-drafting tool to their platform. With access to this tool, users’ petitions changed substantially, and their texts became more similar to one another. At the same time, overall petition outcomes did not improve, which shows the limits of AI integration into online advocacy communities.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
----
-
-## Molecular Psychiatry
-
-### Attention deficit hyperactivity disorder: transition to psychotic disorders
-**저자**: Anita Thapar, Charlotte A. Dennison, Ali Kandeğer, Michael J. Owen · **게재일**: 2026-10-14 · [원문 링크](https://www.nature.com/articles/s41380-026-03926-4)
-
-**Abstract (EN)**: Molecular Psychiatry, Published online: 14 October 2026; doi:10.1038/s41380-026-03926-4 Attention deficit hyperactivity disorder: transition to psychotic disorders
+**Abstract (EN)**: Nature Computational Science, Published online: 15 October 2026; doi:10.1038/s43588-026-01067-w An automated framework, HDOCK-Multimer (HDM), is developed that integrates ab initio docking and combinatorial assembly for the structure prediction of large protein complexes. Across three benchmarks, HDM demonstrates increased accuracy and robustness in modeling large protein assemblies, compared with state-of-the-art assembly and deep learning-based methods.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -223,38 +182,38 @@
 
 ## Nature Communications
 
-### Electronic tuning of dynamic imine bonds enables programmable pore gating in metal–organic frameworks
-**저자**: Meng Qiao, Youcong Li, Shengcun Chen, Sirui Liu, Yu-Hao Gu, Dong Zhang, Yifan Liu, Lei Gao, Mengting Chang, Xing Zhang, Shuai Yuan · **게재일**: 2026-10-15 · [원문 링크](https://www.nature.com/articles/s41467-026-78657-9)
+### Structural basis for loop-dependent inhibition by AcrIIC1 anti-CRISPR proteins
+**저자**: Shen Wang, Zhiyu Zhang, Chenyu Luan, Cheng Zhu, Chang Liu, Wenling Li, Qianfan Wang, Xiaoqian Liu, Haitao Yang, Yunjie Xiao, Zefang Wang · **게재일**: 2026-10-16 · [원문 링크](https://www.nature.com/articles/s41467-026-78817-x)
 
-**Abstract (EN)**: Nature Communications, Published online: 15 October 2026; doi:10.1038/s41467-026-78657-9 Guided by electronic effects, this study programs the dynamics of reversible imine bonds in metal-organic frameworks, enabling adaptive pore opening for efficient drug loading and controlled release.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Aberrant one-carbon metabolism and ancestral genetics underlie edematous severe acute malnutrition
-**저자**: Natasha C. Lie, Yixing Han, Qing Li, Aarti Jajoo, Jared Redmond, Aparna Haldipur, Solome Zewdu, Emilyn Banfield, Shanker Swaminathan, Sharon Howell, Orgen Brown, Roa Sadat, Nancy J. Hall, Kwesi Marshall, Katharina V. Schulze, Thaddaeus May, Marvin E. Reid, Carolyn Taylor-Bryan, Mark J. Manary, Indi Trehan, Mamana Mbiyavanga, Wisdom A. Akurugu, Colin A. McKenzie, Dhriti Sengupta, Elizabeth G. Atkinson, Ananyo Choudhury, Neil A. Hanchard · **게재일**: 2026-10-15 · [원문 링크](https://www.nature.com/articles/s41467-026-74239-x)
-
-**Abstract (EN)**: Nature Communications, Published online: 15 October 2026; doi:10.1038/s41467-026-74239-x Edematous malnutrition in children has unclear causes. Here, the authors show that genetic variation at one‑carbon metabolism genes influences disease risk through homocysteine‑related pathways and ancestry‑linked effects in affected populations.
+**Abstract (EN)**: Nature Communications, Published online: 16 October 2026; doi:10.1038/s41467-026-78817-x Anti-CRISPR proteins inhibit bacterial CRISPR immunity, but how auxiliary structural elements enhance inhibition is unclear. Here, authors show that an extended AcrIIC1 loop supports HNH-domain engagement and modulates sgRNA positioning and R-loop formation to strengthen Cas9 inhibition.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Surface carbonation governs olivine reactivity for rapid CO 2 mineralization
-**저자**: Zihua Shao, Yunfeng Liang, Gyuhwan Jo, Keisuke Nakamura, Takeshi Tsuji · **게재일**: 2026-10-14 · [원문 링크](https://www.nature.com/articles/s41467-026-78548-z)
+### Market Integration Pathways for Enhanced Geothermal Systems in Europe
+**저자**: Lukas Franken, Elisabeth Zeyen, Orestis Angelidis, Tom Brown, Daniel Friedrich · **게재일**: 2026-10-16 · [원문 링크](https://www.nature.com/articles/s41467-026-77893-3)
 
-**Abstract (EN)**: Nature Communications, Published online: 14 October 2026; doi:10.1038/s41467-026-78548-z The authors explain the role of reactivity contrast between Ca2+ and Mg2+ in olivine group silicates for CO2 removal and show that surface reactions with CO2 accelerate mineral dissolution, helping elucidate rapid, permanent carbon storage in rocks.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Enhancing ω-transaminase catalysis of bulky substrates guided by binding mechanism
-**저자**: Haidong Teng, Haoran Yu, Zhehang Xu, Lanxin Xiao, Xinghao Yuan, Lirong Yang, Jianping Wu, Gang Xu · **게재일**: 2026-10-14 · [원문 링크](https://www.nature.com/articles/s41467-026-78636-0)
-
-**Abstract (EN)**: Nature Communications, Published online: 14 October 2026; doi:10.1038/s41467-026-78636-0 This study combines enhanced sampling with experiments to reveal how bulky substrates enter and bind to ω-transaminases. Distal-site engineering balanced tunnel access and binding stability, yielding 106-fold activity and >99% selectivity.
+**Abstract (EN)**: Nature Communications, Published online: 16 October 2026; doi:10.1038/s41467-026-77893-3 The authors map how enhanced geothermal systems could enter a carbon-neutral European energy market: district heating sustains deployment at today’s drilling costs, while cost reductions of around 60% would unlock far larger electricity markets.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### A South Atlantic atmospheric river dipole as a key precursor of Amazon wildfires
-**저자**: Shiyue Zhang, Wenhao Dong, Deliang Chen · **게재일**: 2026-10-14 · [원문 링크](https://www.nature.com/articles/s41467-026-78572-z)
+### Hydroxy artificial water channels enable ultraselective reverse osmosis membranes for N -nitrosamine removal in water reuse
+**저자**: Zhiwei Qiu, Jiansuxuan Chen, Chuyang Y. Tang, Ruobin Dai, Zhiwei Wang · **게재일**: 2026-10-16 · [원문 링크](https://www.nature.com/articles/s41467-026-78721-4)
 
-**Abstract (EN)**: Nature Communications, Published online: 14 October 2026; doi:10.1038/s41467-026-78572-z This study identifies a South Atlantic atmospheric river dipole as an early warning signal for Amazon wildfires, linking shifts in moisture transport to hotter, drier conditions and increased fire activity in the region.
+**Abstract (EN)**: Nature Communications, Published online: 16 October 2026; doi:10.1038/s41467-026-78721-4 Low N-nitrosodimethylamine (NDMA) rejection by reverse osmosis membrane threatens the quality of permeate. Here, the authors created a membrane with hydroxy artificial water channels, improving water permeance and NDMA rejection for safer water reuse.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Precision RNAi for fibrodysplasia ossificans progressiva in mice using a combinatorial unimolecular allele selective approach
+**저자**: Yeon-Suk Yang, Katherine Y. Gross, David Cooper, Sachin Chaugule, Mi-Jeong Kim, Christopher Dahlke, Emma Mayer, Eric M. Kercher, Ji Woong Kim, Thomas Ormsby, Nozomi Yamada, Jillian Caiazzi, Samuel O. Jackson, Mohamad Omar Rachid, Benjamin F. Aronson, Dimas Echiverria, Hassan H. Fakih, Ken Yamada, Francis Y. Lee, Anastasia Khvorova, Julia F. Alterman, Jae-Hyuck Shim · **게재일**: 2026-10-16 · [원문 링크](https://www.nature.com/articles/s41467-026-78738-9)
+
+**Abstract (EN)**: Nature Communications, Published online: 16 October 2026; doi:10.1038/s41467-026-78738-9 Fibrodysplasia ossificans progressiva progressively transforms muscle and connective tissues into bone. Here, researchers developed a targeted siRNA therapy that blocks the mutant receptor and inflammation, greatly reducing abnormal bone formation in mice.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Revisiting genome-guided RNA localization in bacteria
+**저자**: Roy Jacobson, Zohar Persky, Yogev Adler, Daniel Dar · **게재일**: 2026-10-15 · [원문 링크](https://www.nature.com/articles/s41467-026-78703-6)
+
+**Abstract (EN)**: Nature Communications, Published online: 15 October 2026; doi:10.1038/s41467-026-78703-6 Genome organization has been previously proposed to dictate mRNA localization in bacteria. Here, the authors use spatial transcriptomic analysis to show that the genomic effect involves only a minority of transcripts, mainly weakly translated and unstable mRNAs.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -262,38 +221,24 @@
 
 ## Nucleic Acids Research
 
-### Structural basis of assembly-dependent activation of the MAD3–MAD4 nuclease in the Pseudomonas aeruginosa MADS defense system
-**게재일**: 2026-10-14 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1001/8915705?rss=1)
+### The MODNAP benchmark set for modeling ribose-based modified nucleic acid and nucleic acid–protein complexes: a case study with AlphaFold 3
+**게재일**: 2026-10-15 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag999/8916839?rss=1)
 
-**Abstract (EN)**: Abstract The methylation-associated defense system (MADS) is a bacterial antiphage immune system that cooperates with CRISPR–Cas systems to restrict phage infection. Within MADS, the MAD3–MAD4 module has been proposed to function as an ATPase–nuclease module related to the OLD nuclease family, but the molecular basis of its assembly and function remains unknown. Here, we combined cryo-electron microscopy, X-ray crystallography, biochemical assays, and mutagenesis to elucidate the architecture and assembly mechanism of the MAD3–MAD4 complex. We found that MAD3 and MAD4 assemble into a stable 2:2 heterotetramer. Structural and biochemical analyses revealed that MAD3 alone lacks detectable ATPase activity, whereas MAD4 is insoluble when expressed alone. Assembly of the MAD3–MAD4 complex induces a conformational rearrangement in which MAD3 adopts an ATPase-competent dimeric conformation, while MAD4 is stabilized through intersubunit interactions. This heterotetrameric assembly exhibits both ATPase and DNA cleavage activities. Overall, our findings reveal the molecular basis of MAD3–MAD4 heterotetramer assembly and provide the first structural and biochemical insights into the function of the MAD3–MAD4 module within the MADS defense system.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### HURDLER: a cloning method to overcome length limits in designed repeat proteins
-**게재일**: 2026-10-14 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag988/8915704?rss=1)
-
-**Abstract (EN)**: Abstract The number of internal repeat modules remains a major limiting factor in the construction and functional exploration of long repeat proteins. As a solution, we present High-Utility Recursive Directional Ligation for Extended Repeat proteins (HURDLER)—a modular cloning strategy combining codon optimization, seamless insertion of restriction sites, and modified recursive directional ligation. It presents a very robust technique to clone DNA for large repeat proteins, which may also contain non-repetitive parts, with high fidelity requiring a minimal number of individual cloning steps. Using HURDLER, we cloned designed armadillo repeat proteins with up to 85 internal modules, corresponding to &gt;3700 residues. The method also generates intermediate variants with defined numbers of internal repeats, enabling systematic investigation of how the number of modules influences protein structure and function. HURDLER thereby provides a reliable solution to overcome restrictions in the overall number of internal modules used in the construction of very long repeat proteins. Such proteins are increasingly utilized as building blocks in macromolecular protein assemblies with defined structures.
+**Abstract (EN)**: Abstract Modified nucleic acids play important roles in biology and biotechnology. However, their chemical and structural diversity as well as effects on nucleic acid structure and intermolecular interactions remain incompletely characterized. The performance of structure prediction and co-folding algorithms for modeling modified nucleic acids and nucleic acid–protein complexes has also not been evaluated. Here, we systematically analyze ribose-based modified nucleotides present in structures deposited in the Protein Data Bank. Modified nucleotides are primarily localized to the nucleobase, where they exhibit chemical and structural diversity shaped by molecular size, topological shape descriptors, and polarity-related properties. We develop MODNAP, the first curated dataset of experimentally determined structures containing modified nucleotides. Using MODNAP, we benchmark AlphaFold 3 on 1039 nucleic acid and nucleic acid–protein complex structures spanning a range of nucleotide modifications, tertiary folds, and biological functions. AlphaFold 3 achieves success rates exceeding 80% at an RMSD threshold of 2.5 Å. However, its accuracy in positioning modified nucleotides is variable and decreases for structures not explicitly represented in training. PoseBusters analysis reveals frequent intramolecular validity failures, primarily due to non-ideal ribose ring geometries. Together, these results establish MODNAP as a resource for evaluating and improving structure prediction methods for modified nucleic acids.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Attribute Network-based Ranking (ANeR) identifies conserved translational fingerprints of M-phase
-**게재일**: 2026-10-14 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag970/8915702?rss=1)
+### Chemically stabilized long antisense oligonucleotides perturb RNA exosome function
+**게재일**: 2026-10-15 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag990/8916838?rss=1)
 
-**Abstract (EN)**: Abstract Entry into M-phase requires mRNA translation, but whether mitotic and meiotic divisions share a conserved translational programme and which newly synthesized proteins promote Cdk1 activation remain unclear. We developed Attribute Network-based Ranking (ANeR), a multi-objective network-based method that ranks mRNAs according to their proximity to a training group across heterogeneous two-condition omics datasets. Applied to 30 datasets covering mitotic and meiotic divisions, ANeR identified a conserved M-phase translational fingerprint. Benchmarking ANeR predictions against independent mitotic datasets, together with experimental validation in Xenopus oocytes, confirmed that ANeR prioritizes proteins whose accumulation increases during both mitotic and meiotic M-phases. Application of ANeR to the meiotic translational programme identified Fam76b and Cdca3 as previously unrecognized translationally activated regulators required for timely Cdk1 activation, demonstrating that ANeR can uncover new regulators of meiotic M-phase. Analysis of the oocyte translational programme established how broadly CPE/PAS regulatory rules apply, identified transcripts that do not conform to these rules, and experimentally validated their translational activation. Together, these findings establish that vertebrate mitotic and meiotic transitions share a conserved programme of translationally regulated transcripts and demonstrate that ANeR can identify new regulators of cell division. Broadly, ANeR provides a flexible framework for investigating diverse biological questions using a collection of two-condition datasets.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### RiboBA: a bias-aware probabilistic framework for robust ORF identification across diverse ribosome profiling protocols
-**게재일**: 2026-10-14 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag969/8915332?rss=1)
-
-**Abstract (EN)**: Abstract By mapping ribosome-protected fragments genome-wide, ribosome profiling (Ribo-seq) has uncovered extensive translation beyond conventional coding sequences, revealing non-canonical ORFs (ncORFs) with roles in diverse biological processes. However, robust ncORF identification remains challenging when Ribo-seq datasets exhibit attenuated periodicity. Protocol-induced biases during library construction is an important contributor to this loss, yet most ORF callers do not explicitly model these distortions. Here, we present RiboBA, a bias-aware probabilistic framework for robust ORF identification from Ribo-seq data. RiboBA combines a generative module that jointly infers protocol-induced biases and codon-level ribosome occupancy with a supervised module that identifies translated ORFs and initiation sites from the bias-adjusted profiles. In simulations with known P-site positions, RiboBA improved exact nucleotide- and codon-level P-site assignment relative to a conventional fixed-offset approach. Across simulations and diverse empirical Ribo-seq datasets, together with orthogonal immunopeptidomics evidence, RiboBA accurately recovers protocol-induced parameters and improves ncORF identification, with pronounced advantages for RNase I libraries with attenuated periodicity, and for MNase and nuclease P1 datasets, while maintaining competitive runtimes. In a Drosophila case study, RiboBA identified candidate ncORFs with coding potential, including recurrent upstream translation in ThrRS and Mettl2 , linking ncORF translation to threonine-related translational regulation.
+**Abstract (EN)**: Abstract The interaction with intracellular proteins shapes the pharmacology and toxicity of RNA drugs like gapmers and siRNAs. Here, we identify the RNA exosome as a modification-sensitive interaction partner of long, chemically stabilized, single-stranded RNA drugs. Using proximity biotinylation proteomics, we observe preferential binding of the catalytic exosome subunits DIS3 and EXOSC10 to oligonucleotides stabilized by 2′-ribose modifications and phosphorothioate linkages. RNA drug binding correlates with exosome impairment as measured by dose-dependent stabilization of promoter upstream transcripts and accumulation of ribosomal RNA processing intermediates leading to reduced cell viability. Consistent with structural requirements for substrate threading through the exosome channel, oligonucleotides longer than 24 nucleotides can impair exosome function. Systematic variation of ribose and backbone chemistry reveals that exosome inhibition is highly sensitive to the spatial arrangement of chemical modifications and can be mitigated by incorporation of bulky 2′-MOE residues or alternative internucleoside linkages like mesyl phosphoramidate. In contrast to the clinically established RNA drug modalities, class-specific liabilities of emerging ADAR-recruiting oligonucleotides remain poorly understood. Importantly, we demonstrate that ADAR-recruiting oligonucleotides can be designed that preserve editing activity while minimizing exosome interference. These findings illuminate critical variables that must be considered in the safer design of next-generation RNA base editing therapeutics.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### A tripartite RpoS-CRP-cAMP-Cra circuit orchestrates metabolic reprogramming during stress adaptation
-**게재일**: 2026-10-14 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag982/8915331?rss=1)
+### Correction to ‘Transcriptome-wide analysis of Arabidopsis DICER-LIKE1 RNA substrates’
+**게재일**: 2026-10-15 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag872/8916837?rss=1)
 
-**Abstract (EN)**: Abstract The alternative sigma factor RpoS (σ S ) governs stress adaptation in many bacterial clades, yet how it coordinates stress responses with metabolic demands remains poorly understood. Thus, by integrating RNA-seq, ChIP-seq, and physiological and molecular assays, we redefined the RpoS regulon in Escherichia coli , expanding it to 667 genes and demonstrating that metabolic genes unexpectedly predominate over stress-response targets. RpoS directly drives a massive metabolic reprogramming event: it activates glycolytic and sugar transport genes while simultaneously repressing the trichloroacetic acid cycle and oxidative phosphorylation. This metabolic pivot is finely tuned by a novel RpoS-CRP-cAMP-Cra tripartite circuit to balance energy efficiency with survival during stationary phase. Furthermore, we provide a mechanistic framework for RpoS-mediated bidirectional regulation rooted in σ S -factor competition, where transcriptional efficiency in the absence of RpoS dictates the regulatory mode: highly efficient promoters are repressed by RpoS displacement, whereas weak promoters are activated. This study advances our understanding of transcriptional precision during bacterial adaptation and offers an architectural blueprint for synthetic metabolic engineering.
+**Abstract (EN)**: This is a correction to: Nicolas G Bologna, Alexis Sarazin, Gregory Schott, Antoine Bouet, Natalia P Achkar, Belen Moro, Florence Jay, Uciel Chorostecki, Emanuel A Devers, Olivier Voinnet, Transcriptome-wide analysis of Arabidopsis DICER-LIKE1 RNA substrates, Nucleic Acids Research , Volume 54, Issue 3, 10 February 2026, gkaf1434, https://doi.org/10.1093/nar/gkaf1434
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
