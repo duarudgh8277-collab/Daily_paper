@@ -1,12 +1,12 @@
-# 📚 일일 논문 다이제스트 — 2026-10-18 (KST)
+# 📚 일일 논문 다이제스트 — 2026-10-19 (KST)
 
-**수집 저널 수**: 2개 · **논문 수**: 10편
+**수집 저널 수**: 2개 · **논문 수**: 8편
 
 > 영문 초록은 RSS 원본입니다. Claude Code 에서 `/translate-digest` 로 한국어 요약을 채워 넣으세요.
 
 ## 목차
 - [Biological Psychiatry](#biological-psychiatry) (5편)
-- [Nature Communications](#nature-communications) (5편)
+- [Nature Communications](#nature-communications) (3편)
 
 ## Biological Psychiatry
 
@@ -49,38 +49,24 @@
 
 ## Nature Communications
 
-### Breaking water-structure constraints by Hofmeister effects in interfacial polymerization for polyamide membranes
-**저자**: Qingchen Tang, Hao Chen, Yu Chen, Hanyu Wu, Xingwang Meng, Wu Jin, Panjia Jiang, Yizhou Zhang, Xunda Feng · **게재일**: 2026-10-17 · [원문 링크](https://www.nature.com/articles/s41467-026-78649-9)
+### Solvent heterogeneity regulates assembly pathways in supramolecular polymerization
+**저자**: Goutam Ghosh, Jim Bachmann, Marvin Nyenhuis, Timo Krüger, Zulema Fernández, João Paulo Coelho, Antonia Albers, Max Köyer, Nikos Doltsinis, Gustavo Fernández · **게재일**: 2026-10-18 · [원문 링크](https://www.nature.com/articles/s41467-026-78525-6)
 
-**Abstract (EN)**: Nature Communications, Published online: 17 October 2026; doi:10.1038/s41467-026-78649-9 Water structures govern the behaviour of solutes across aqueous bulk and interfacial environments. Here the authors use weakly hydrated anions to reshape hydration in the bulk and at interfaces, thereby regulating amine monomer partitioning and interfacial transport while suppressing acyl chloride hydrolysis during polyamide-forming interfacial polymerization.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Spatially resolving isomeric trisaccharides on surfaces with Orbitrap-SIMS
-**저자**: Margaret Moloney, Richard Paterson, Bin Yan, Anya Eyres, Clare L. Newell, Jean-Luc Vorng, Alexander Pirkl, John F. Watts, Ian S. Gilmore, Gustavo F. Trindade · **게재일**: 2026-10-17 · [원문 링크](https://www.nature.com/articles/s41467-026-78604-8)
-
-**Abstract (EN)**: Nature Communications, Published online: 17 October 2026; doi:10.1038/s41467-026-78604-8 Structural isomers can be difficult to distinguish and map by mass alone. This study shows that Orbitrap-SIMS can separate and image isomeric sugars directly on surfaces, offering a new route to study complex biomolecules.
+**Abstract (EN)**: Nature Communications, Published online: 18 October 2026; doi:10.1038/s41467-026-78525-6 Supramolecular polymers often require solvent mixtures for their preparation but their impact on supramolecular polymerization remains poorly understood. Here, the authors demonstrate that solvent heterogeneity biases assembly pathways in supramolecular polymerization, with the extent of this effect determined by monomer structure.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Optical-handedness-driven enantioselective synthesis and programmable chirality encoding of covalent organic frameworks
-**저자**: Taewoong Kim, Jaewon Kim, Joohee Oh, Seungyoon Kang, Song Gyun Kim, Jee Hyeon Kim, Min Su Han, Young Yong Kim, Chanho Pak, Jeong-Eun Park, Hyunseob Lim · **게재일**: 2026-10-17 · [원문 링크](https://www.nature.com/articles/s41467-026-78524-7)
+### Bacteroides–Escherichia interactions contribute to colonization resistance against Clostridioides difficile
+**저자**: Achuthan Ambat, Naomi Iris van den Berg, Francisco Zorrilla, Shruti Menon, Abhijit Maji, Tanim Islam, Arianna Basile, Sudeep Ghimire, Lajos Kalmar, Kiran R. Patil, Joy Scaria · **게재일**: 2026-10-18 · [원문 링크](https://www.nature.com/articles/s41467-026-78132-5)
 
-**Abstract (EN)**: Nature Communications, Published online: 17 October 2026; doi:10.1038/s41467-026-78524-7 Covalent organic frameworks (COFs) typically require chiral precursors or catalysts to achieve asymmetry. Here, the authors report the enantioselective synthesis of chemically chiral COFs using circularly polarized light as the sole chiral director.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Brassinosteroids improve nitrogen utilization by antagonizing BIN2-mediated SnRK1 activation
-**저자**: Lianmei Yao, Jinyang Lyu, Yan Qiao, Guolan Zheng, Shurui Liu, Na Sun, Honglei Wang, Wouter Smagghe, Jelle Van Leene, Min Fan, Chao Han, Ming-Yi Bai · **게재일**: 2026-10-17 · [원문 링크](https://www.nature.com/articles/s41467-026-78906-x)
-
-**Abstract (EN)**: Nature Communications, Published online: 17 October 2026; doi:10.1038/s41467-026-78906-x Brassinosteroids are widely used in agriculture, but their modes of action remain incompletely understood. Here, the authors show that brassinosteroids inhibit BIN2, leading to KIN10 degradation and activation of gene expression and nitrogen assimilation enzymes.
+**Abstract (EN)**: Nature Communications, Published online: 18 October 2026; doi:10.1038/s41467-026-78132-5 Here the authors demonstrate that interactions between Bacteroides and Escherichia shape resistance to Clostridioides difficile and identify ecological and metabolic signatures with the potential to guide microbiome-based therapies.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Size-dependent catalysis of Ru nanoparticles for selective reductive amination of PET plastic
-**저자**: Zuyi Zhang, Yawen Shi, Shengbo Zhang, Junyang Wang, Chen Meng, Xinyi Niu, Xinyong Diao, Na Ji · **게재일**: 2026-10-17 · [원문 링크](https://www.nature.com/articles/s41467-026-78873-3)
+### Molecular architecture of Cryptococcus cell walls reveals species-specific chitosan-dependent remodeling
+**저자**: Ankur Ankur, Rajendra Upadhya, Mahsa Doosti, Davis Ferreira, Sara E. Miller, Li Xie, Ivan Hung, Jennifer K. Lodge, Tuo Wang · **게재일**: 2026-10-18 · [원문 링크](https://www.nature.com/articles/s41467-026-78940-9)
 
-**Abstract (EN)**: Nature Communications, Published online: 17 October 2026; doi:10.1038/s41467-026-78873-3 Turning waste plastic into valuable chemicals requires precise control of competing reactions. This study shows that tuning ruthenium particle size enables selective conversion of polyethylene terephthalate into p-xylylenediamine.
+**Abstract (EN)**: Nature Communications, Published online: 18 October 2026; doi:10.1038/s41467-026-78940-9 This study reveals distinct cell-wall organization in two pathogenic Cryptococcus species, revealing that chitosan loss triggers species-specific structural remodeling that may influence host interactions.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
