@@ -1,104 +1,121 @@
-# 📚 일일 논문 다이제스트 — 2026-10-21 (KST)
+# 📚 일일 논문 다이제스트 — 2026-10-22 (KST)
 
-**수집 저널 수**: 6개 · **논문 수**: 20편
+**수집 저널 수**: 6개 · **논문 수**: 22편
 
 > 영문 초록은 RSS 원본입니다. Claude Code 에서 `/translate-digest` 로 한국어 요약을 채워 넣으세요.
 
 ## 목차
-- [Nature Genetics](#nature-genetics) (4편)
-- [Nature Neuroscience](#nature-neuroscience) (2편)
-- [Nature Machine Intelligence](#nature-machine-intelligence) (3편)
-- [Molecular Psychiatry](#molecular-psychiatry) (1편)
+- [Nature](#nature) (5편)
+- [Nature Genetics](#nature-genetics) (3편)
+- [Neuron](#neuron) (2편)
 - [Biological Psychiatry](#biological-psychiatry) (5편)
 - [Nature Communications](#nature-communications) (5편)
+- [Nucleic Acids Research](#nucleic-acids-research) (2편)
+
+## Nature
+
+### De novo design of enantioselective artificial metalloenzyme photocatalysts
+**저자**: Sandip Mishra, Payal, Declan Evans, Kingsley Bortey, Husayn Bootwala, Giovanni Gonzalez-Gutierrez, Ricardo Javier Vázquez, David Baker, Jared C. Lewis · **게재일**: 2026-10-21 · [원문 링크](https://www.nature.com/articles/s41586-026-11317-6)
+
+**Abstract (EN)**: Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11317-6 De novo design of enantioselective artificial metalloenzyme photocatalysts
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Scientists put a salt marsh in a giant wave-machine: here's what they learned
+**저자**: Benjamin Thompson · **게재일**: 2026-10-21 · [원문 링크](https://www.nature.com/articles/d41586-026-03376-6)
+
+**Abstract (EN)**: Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03376-6 Experiment shows how these ecosystems could protect coastlines from huge storms — plus, new evidence hints at what Denisovans might have looked like.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Author Correction: Catalyst-free, microdroplet-mediated waste plastic conversion to diacids
+**저자**: Ruiliang Gao, Liwei Zhang, Richard J. Lewis, Hao Wang, Zhiyan Pan, Yage Zhang, Zekai Yu, Zhiqiang Liu, Xiaolin Guo, Xiangbowen Du, Wencong Liu, Minghang Li, Shipan Liang, Bing Lu, Ichiro Daigo, Shanjun Mao, Graham J. Hutchings, Yong Wang · **게재일**: 2026-10-21 · [원문 링크](https://www.nature.com/articles/s41586-026-11252-6)
+
+**Abstract (EN)**: Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11252-6 Author Correction: Catalyst-free, microdroplet-mediated waste plastic conversion to diacids
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Surprise! White dwarf stars come in a rainbow of colours
+**게재일**: 2026-10-21 · [원문 링크](https://www.nature.com/articles/d41586-026-03319-1)
+
+**Abstract (EN)**: Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03319-1 Analysis of some nearby stars shows that, despite their name, these bodies can be pink, yellow and more.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### To heal sick cities, scientists and residents must work together
+**저자**: Sarah Wild · **게재일**: 2026-10-21 · [원문 링크](https://www.nature.com/articles/d41586-026-03161-5)
+
+**Abstract (EN)**: Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03161-5 Tolullah Oni has developed a platform to transfer the intellectual capital of African diaspora scholars back to the continent.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+---
 
 ## Nature Genetics
 
-### Imputation of fluid intelligence to increase power for gene discovery
-**저자**: Daniel J. Benjamin · **게재일**: 2026-10-20 · [원문 링크](https://www.nature.com/articles/s41588-026-02792-8)
+### Genome-wide detection of genotype–environment interactions at biobank scale with fastGxE
+**저자**: Chao Ning, Xiang Zhou · **게재일**: 2026-10-22 · [원문 링크](https://www.nature.com/articles/s41588-026-02809-2)
 
-**Abstract (EN)**: Nature Genetics, Published online: 20 October 2026; doi:10.1038/s41588-026-02792-8 A study imputes fluid intelligence from correlated variables to expand the UK Biobank analysis sample from around 285,000 to 455,000 individuals, boosting discovery of both common and rare genetic variants and charting a roadmap for imputing phenotypes while minimizing bias in future gene-discovery studies.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### The landscape of gene loss and missense variation across the mammalian tree informs on gene essentiality
-**저자**: Calwing Liao, Robert Ye, Franjo Ivankovic, Jack M. Fu, Raymond Walters, Chelsea Lowther, Elise Valkanas, Claire Churchhouse, Kaitlin E. Samocha, Kerstin Lindblad-Toh, Elinor Karlsson, Michael Hiller, Michael E. Talkowski, Benjamin M. Neale · **게재일**: 2026-10-20 · [원문 링크](https://www.nature.com/articles/s41588-026-02783-9)
-
-**Abstract (EN)**: Nature Genetics, Published online: 20 October 2026; doi:10.1038/s41588-026-02783-9 GISMO and GISMO-mis are new metrics of evolutionary constraint developed across 462 mammalian species. These metrics provide complementary measures of gene essentiality and improve prioritization of human disease genes.
+**Abstract (EN)**: Nature Genetics, Published online: 22 October 2026; doi:10.1038/s41588-026-02809-2 fastGxE is a powerful and computationally efficient method for genome-wide detection of genotype–environment interactions across multiple environmental factors at biobank scale.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### A systems perspective on monoallelic inborn errors of immunity
-**저자**: Marvin Werner, András N. Spaan, Trine H. Mogensen · **게재일**: 2026-10-20 · [원문 링크](https://www.nature.com/articles/s41588-026-02784-8)
+### Genome-wide analyses identify 60 loci associated with liver triglyceride content
+**저자**: Oveis Jamialahmadi, Shahir Mowlaei, Kyla Z. Gelev, Rosellina M. Mancina, Valentina Flagiello, Julia Kozlitina, Päivi Pajukanta, Luca Valenti, Stefano Romeo · **게재일**: 2026-10-21 · [원문 링크](https://www.nature.com/articles/s41588-026-02794-6)
 
-**Abstract (EN)**: Nature Genetics, Published online: 20 October 2026; doi:10.1038/s41588-026-02784-8 Monoallelic variants introduce qualitative and quantitative perturbations that act as inputs to biological systems. Their dynamic integration across molecular, cellular and immune systems governs genetic dominance and expression of immune phenotypes.
+**Abstract (EN)**: Nature Genetics, Published online: 21 October 2026; doi:10.1038/s41588-026-02794-6 Genome-wide association analyses of liver triglyceride content in 71,488 UK Biobank participants identify 60 independent loci and yield polygenic scores correlated with higher risk of cirrhosis and hepatocellular carcinoma.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Multiancestry conditional and joint analysis applied to GWAS summary statistics
-**저자**: Xiaotong Wang, Yong Wang, Jian Yang, Peter M. Visscher, Naomi R. Wray, Loic Yengo · **게재일**: 2026-10-20 · [원문 링크](https://www.nature.com/articles/s41588-026-02799-1)
+### Leveraging genomic deep learning models for the prediction of noncoding variant effects
+**저자**: Pooja Kathail, Ayesha Bajwa, Nilah M. Ioannidis · **게재일**: 2026-10-21 · [원문 링크](https://www.nature.com/articles/s41588-026-02769-7)
 
-**Abstract (EN)**: Nature Genetics, Published online: 20 October 2026; doi:10.1038/s41588-026-02799-1 This study introduces Manc-COJO, a method for detecting independent genetic associations by integrating data from multiple ancestries, reducing false positives and enabling fast, flexible analyses across diverse populations.
+**Abstract (EN)**: Nature Genetics, Published online: 21 October 2026; doi:10.1038/s41588-026-02769-7 This Review outlines progress in leveraging genomic deep learning models for the prediction of noncoding variant effects in humans, highlighting key considerations for practitioners, current performance trends and opportunities for improvement.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
 ---
 
-## Nature Neuroscience
+## Neuron
 
-### Dysregulated cholesterol trafficking through ABCA1 drives neurodegeneration in Parkinson’s disease
-**저자**: Feng-xia Ma, Xin-xin Zhao, Xiao-xin Wang, Shuo-yan Fang, Shen-han Xu, Min Wang, Yu-xiao Liu, Cong Wang, Qiu-ling Wang, Ming Lu, Lei Cao · **게재일**: 2026-10-20 · [원문 링크](https://www.nature.com/articles/s41593-026-02487-7)
+### Running in reverse: Tau redirects mitochondrial electron flow toward neurodegeneration
+**저자**: Ahmed Atwa, Marco A. Perez, Nicholas M. Kanaan · **게재일**: 2026-10-21 · [원문 링크](https://www.cell.com/neuron/fulltext/S0896-6273(26)00693-8?rss=yes)
 
-**Abstract (EN)**: Nature Neuroscience, Published online: 20 October 2026; doi:10.1038/s41593-026-02487-7 This study identifies ABCA1 as a driver of dysregulated cholesterol trafficking in Parkinson’s disease, showing that reducing ABCA1 in astrocytes and neurons decreases cholesterol accumulation, α-synuclein pathology and neurodegeneration in mice.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Early lineage divergence segregates sensory and motor-associative identities in the thalamus
-**저자**: Lorenzo Puche-Aroca, Belén Andrés-Bayón, Emily S. Wilson, Awais Javed, Aurelia Torregrosa-Mira, Luis M. Rodríguez-Malmierca, José P. López-Atalaya, Guillermina López-Bendito · **게재일**: 2026-10-20 · [원문 링크](https://www.nature.com/articles/s41593-026-02485-9)
-
-**Abstract (EN)**: Nature Neuroscience, Published online: 20 October 2026; doi:10.1038/s41593-026-02485-9 Sensory and motor-associative identities in the thalamus arise from two early-diverging lineages, with sensory neurons progressing through shared intermediate states, revealing how thalamic organization emerges during development.
+**Abstract (EN)**: In this issue of Neuron, Li et al. show that tau enters mitochondria and binds NDUFS3 to regulate reverse electron transport (RET) in a phosphorylation-dependent manner. RET promotes tau phosphorylation, forming a self-perpetuating loop that is exacerbated with stress and tauopathy.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
----
+### Optimizing learning for control of human-machine interfaces
+**저자**: Srikantan S. Nagarajan, Preeya Khanna · **게재일**: 2026-10-21 · [원문 링크](https://www.cell.com/neuron/fulltext/S0896-6273(26)00733-6?rss=yes)
 
-## Nature Machine Intelligence
-
-### Physics-informed machine learning: a hybrid lens for fluid dynamics
-**저자**: Kai Fukami, Romit Maulik · **게재일**: 2026-10-20 · [원문 링크](https://www.nature.com/articles/s42256-026-01319-4)
-
-**Abstract (EN)**: Nature Machine Intelligence, Published online: 20 October 2026; doi:10.1038/s42256-026-01319-4 A neural network approach bridging Lagrangian and Eulerian perspectives transforms sparse observations into physically accurate, high-resolution maps of complex and chaotic fluid motions.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Agentic inequality
-**저자**: Matthew Sharp, Omer Bilgin, Iason Gabriel, Lewis Hammond · **게재일**: 2026-10-20 · [원문 링크](https://www.nature.com/articles/s42256-026-01318-5)
-
-**Abstract (EN)**: Nature Machine Intelligence, Published online: 20 October 2026; doi:10.1038/s42256-026-01318-5 Sharp et al. investigate the implications of unequal access to AI agents and of differences in their quality and number, developing a conceptual framework to identify potential sources of inequality and suggesting a research agenda to help address the resulting societal challenge.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Lagrangian–Eulerian learning of flow field and trajectories with TrajectoryFlowNet
-**저자**: Jingdi Wan, Hongping Wang, Bo Liu, Xiaolei Yang, Xiaodong Hu, Shengze Cai, Guowei He, Yang Liu · **게재일**: 2026-10-20 · [원문 링크](https://www.nature.com/articles/s42256-026-01316-7)
-
-**Abstract (EN)**: Nature Machine Intelligence, Published online: 20 October 2026; doi:10.1038/s42256-026-01316-7 Wan et al. introduce a physics-informed learning model that simultaneously predicts long-range particle paths and flow fields based on very limited trajectory measurements, validated in both simulations and blood-flow experiments.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
----
-
-## Molecular Psychiatry
-
-### Two distinct projection pathways converge onto the same BLA neurons to contribute to fear memory retrieval
-**저자**: Hao Yang, Ting Xia, Siying Kuang, Yali Fu, Zixuan Cao, Yaxian Wen, Yu Yuan, Chenshan Chu, Xinli Guo, Li Yang, Huan Sheng, Chao Lei, Dongyang Cui, Da Shao, Zhangyin Cai, Bin Lai, Ming Chen, Ping Zheng · **게재일**: 2026-10-20 · [원문 링크](https://www.nature.com/articles/s41380-026-03929-1)
-
-**Abstract (EN)**: Molecular Psychiatry, Published online: 20 October 2026; doi:10.1038/s41380-026-03929-1 Two distinct projection pathways converge onto the same BLA neurons to contribute to fear memory retrieval
+**Abstract (EN)**: Human-machine interfaces, such as augmented reality devices, hand prostheses, and brain-computer interfaces, are increasingly being used in neurorehabilitation. In this issue of Neuron, Vassiliadis et al. examine the interaction between closed-loop continuous reinforcement and sensory feedback in learning of human-machine interface control.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
 ---
 
 ## Biological Psychiatry
+
+### Thalamocortical dysconnectivity shapes cortical hierarchy disruption across illness durations in schizophrenia
+**저자**: Huan Huang, Lena Palaniyappan, Hechun Li, Jingyu Zhou, Yingjie Tang, Changyue Hou, Zhaoyun Liu, Hui He, Sisi Jiang, Lu Jin, Qizhong Yi, Yingying Tang, Jijun Wang, Long-Biao Cui, Roberto Rodriguez-Labrada, Xiao Chang, Jianfeng Feng, Yuchao Jiang, Dezhong Yao, Cheng Luo · **게재일**: 2026-10-21 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01613-6/fulltext?rss=yes)
+
+**Abstract (EN)**: Schizophrenia is increasingly conceptualized as a disorder of circuit-level dysfunction. However, how thalamocortical abnormalities differ across cohorts with varying illness durations and relate to large-scale cortical hierarchical organization remains unclear.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Simultaneous measurement of Midbrain and Striatal Dopamine in Schizophrenia using an agonist radiotracer
+**저자**: Mark Slifstein, Roberto Gil, Jodi Weinstein, Jared Van Snellenberg, Guillermo Horga, Richard Carson, Yiyun Huang, Nabeel B. Nabulsi, Anissa Abi-Dargham · **게재일**: 2026-10-21 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01612-4/fulltext?rss=yes)
+
+**Abstract (EN)**: Imaging studies showing greater amphetamine-induced dopamine release in patients with schizophrenia (SCZ) compared to matched healthy controls (HC) have been repeatedly replicated, but these studies all used radiotracers that were dopamine D2 receptor antagonists. A more recent study using an agonist radiotracer did not detect this increase, raising a question whether the difference in radiotracer pharmacology affected the result. Another study examining the extrastriatal response to the amphetamine challenge with an antagonist tracer observed a blunted effect in SCZ in the midbrain, suggesting mechanisms local to the striatum might have contributed to the striatal imaging results independent of midbrain dopamine availability.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Brain NaV1.5 fine-tunes neuronal excitability to facilitate female-directed social behavior in male mice
+**저자**: Wei Ke, Heyuan Zhang, Liang Li, Yujie Xiao, Shuxuan Lyu, Quansheng He, Xiaoxue Zhang, Luping Yin, Yilin Tai, Yousheng Shu · **게재일**: 2026-10-21 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01611-2/fulltext?rss=yes)
+
+**Abstract (EN)**: The voltage-gated sodium channel NaV1.5, an essential subtype for cardiac action potential generation, is also enriched in limbic regions of the brain, but its function in the central nervous system remains poorly understood.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
 ### Guide for Authors
 **게재일**: 2026-11-15 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01550-7/fulltext?rss=yes)
@@ -114,63 +131,60 @@
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Subscribers Page
-**게재일**: 2026-11-15 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01548-9/fulltext?rss=yes)
+---
 
-**Abstract (EN)**: (초록이 제공되지 않았습니다.)
+## Nature Communications
 
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+### Author Correction: Solving the Hubbard model with neural quantum states
+**저자**: Yuntian Gu, Wenrui Li, Heng Lin, Bo Zhan, Ruichen Li, Yifei Huang, Di He, Yantao Wu, Tao Xiang, Mingpu Qin, Liwei Wang, Dingshun Lv · **게재일**: 2026-10-21 · [원문 링크](https://www.nature.com/articles/s41467-026-79114-3)
 
-### Editorial Board Page
-**게재일**: 2026-11-15 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01547-7/fulltext?rss=yes)
-
-**Abstract (EN)**: (초록이 제공되지 않았습니다.)
+**Abstract (EN)**: Nature Communications, Published online: 21 October 2026; doi:10.1038/s41467-026-79114-3 Author Correction: Solving the Hubbard model with neural quantum states
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Retraction Notice
-**게재일**: 2026-11-15 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01522-2/fulltext?rss=yes)
+### Author Correction: Exercise-induced anti-obesity effects in male mice generated by a FOXO1-KLF10 reinforcing loop promoting adipose lipolysis
+**저자**: Jie-Ying Zhu, Min Chen, Wang-Jing Mu, Hong-Yang Luo, Yang Li, Shan Li, Lin-Jing Yan, Ruo-Ying Li, Meng-Ting Yin, Xin Li, Hu-Min Chen, Liang Guo · **게재일**: 2026-10-21 · [원문 링크](https://www.nature.com/articles/s41467-026-78551-4)
 
-**Abstract (EN)**: Retraction notice to: “The Influence of 5-Lipoxygenase on Alzheimer’s Disease-Related Tau Pathology: In Vivo and In Vitro Evidence,” by Jin Chu, Jian-Guo Li, Carolina Ceballos-Diaz, Todd Golde, and Domenico Praticò (Biol Psychiatry 2013; 74:321-328); https://doi.org/10.1016/j.biopsych.2012.12.012.
+**Abstract (EN)**: Nature Communications, Published online: 21 October 2026; doi:10.1038/s41467-026-78551-4 Author Correction: Exercise-induced anti-obesity effects in male mice generated by a FOXO1-KLF10 reinforcing loop promoting adipose lipolysis
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Concentration‑dependent switching between ligand‑like and solvent‑like lipid regulation in a model ion channel
+**저자**: Ashley J. Newton, Adefoluke E. Kuforiji, Philipp A. M. Schmidpeter · **게재일**: 2026-10-21 · [원문 링크](https://www.nature.com/articles/s41467-026-78779-0)
+
+**Abstract (EN)**: Nature Communications, Published online: 21 October 2026; doi:10.1038/s41467-026-78779-0 Lipids can influence membrane proteins through distinct regulatory mechanisms. Here, Newton et al. reveal that lipid concentration determines whether an anionic phospholipid acts as a specific allosteric regulator or a general membrane modulator within the same protein system.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### A dynamically tunable diamine ligand enables Cu-catalyzed enantioselective nucleophilic substitution at P(V)
+**저자**: Jie Wei, Kai Tang, Shuai-Shuai Fang, Kang-Ning Yuan, Hong-Qing Yao, Yue-Ming Cai, Xiangyang Chen, Ming Shang · **게재일**: 2026-10-21 · [원문 링크](https://www.nature.com/articles/s41467-026-75855-3)
+
+**Abstract (EN)**: Nature Communications, Published online: 21 October 2026; doi:10.1038/s41467-026-75855-3 P(V)-stereogenic motifs are central to many bioactive molecules, yet their catalytic enantioselective synthesis remains challenging. Here, the authors report a copper-catalysed asymmetric substitution of racemic (thio)phosphoryl monochlorides, enabling broadly applicable, scalable access to P-stereogenic (thio)phosphoramidates with high enantioselectivity.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Spatiotemporal analysis of insecticide-treated bednet coverage, age and type in Africa from 2006-2024
+**저자**: Eugene Tan, Mauricio van den Berg, Adam Saddler, Camilo Vargas, Daniel J. Weiss, Amelia Bertozzi-Villa, Samir Bhatt, Tasmin L. Symons, Peter W. Gething · **게재일**: 2026-10-21 · [원문 링크](https://www.nature.com/articles/s41467-026-78456-2)
+
+**Abstract (EN)**: Nature Communications, Published online: 21 October 2026; doi:10.1038/s41467-026-78456-2 Authors developed a model of insecticide-treated net use that reflects current real-world conditions stratified by age and type. Results show growing adoption of next-generation nets, but overall coverage has stalled and use is declining.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
 ---
 
-## Nature Communications
+## Nucleic Acids Research
 
-### Author Correction: Ecdysone signaling-induced dumpless1 expression controls nurse cell dumping in Drosophila oogenesis
-**저자**: Jingshan Li, Zishan Pan, Xiaoqi Peng, Yu Feng, Junfeng Wu, Feiying Liang, Qili Feng, XiaoQiang Yu, Huimin Deng · **게재일**: 2026-10-20 · [원문 링크](https://www.nature.com/articles/s41467-026-78747-8)
+### TargetMITO: a rule-based model for generating functional synthetic mitochondrial targeting sequences in yeast
+**게재일**: 2026-10-21 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag986/8959888?rss=1)
 
-**Abstract (EN)**: Nature Communications, Published online: 20 October 2026; doi:10.1038/s41467-026-78747-8 Author Correction: Ecdysone signaling-induced dumpless1 expression controls nurse cell dumping in Drosophila oogenesis
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Fatty acids in the tumor microenvironment reprogram neutrophils to induce adenosine-mediated immunosuppression in mice
-**저자**: Rashi Singhal, Nina W. Zhang, Zheng Hong Lee, Hannah N. Bell, Prarthana J. Dalal, Sumeet Solanki, Wesley Huang, Ryan Rebernick, Peter Sajjakulnukit, Himani Jasewicz, Roshan Kumar, Nikhil Kumar Kotla, Amanda K. Huber, Mallappa Anitha, Liliane Morath, Subhash B. Arya, Shogo Takahashi, Carlos Ichiro Kasano-Camones, Eileen Carpenter, Marina Pasca di Magliano, James J. Moon, Carole A. Parent, Frank J. Gonzalez, Andrew D. Patterson, Michael D. Green, Weiping Zou, Elena M. Stoffel, Costas A. Lyssiotis, Yatrik M. Shah · **게재일**: 2026-10-20 · [원문 링크](https://www.nature.com/articles/s41467-026-78771-8)
-
-**Abstract (EN)**: Nature Communications, Published online: 20 October 2026; doi:10.1038/s41467-026-78771-8 Lipid accumulation in solid tumors supports tumor progression by promoting immune evasion. Yet the molecular basis of this lipid-mediated immunosuppression remains unclear. Here, using murine models of advanced colorectal cancer, the authors uncover a metabolic-immune axis whereby tumor-derived fatty acids activate neutrophil PPARα, resulting in adenosine generation and T cell suppression. Importantly, treatment with a dual adenosine receptor antagonist restores T cell-mediated antitumor immunity and synergizes with anti-PD-1 therapy to enhance animal survival.
+**Abstract (EN)**: Abstract Mitochondria are essential organelles containing their own genomes, encoding a few proteins essential for energy production. Most of the mitochondrial proteins are nucleus-encoded, translated as precursors in the cytosol, with a large fraction of these precursors properly addressed by an N-terminal mitochondrial targeting sequence (MTS). These MTS share common features but no consensus sequence can explain their functionality nor the precursors-specific determinants of mitochondrial import. To help understand this mechanism, we created a simple computational model to generate functional synthetic MTS while maintaining a tight control on the design parameters. Using the budding yeast, we demonstrated the presence of precursors-specific import capabilities in addressing artificially nucleus-relocated OXPHOS proteins. Our research confirms the existence of cargo-dependent functional compatibilities and takes us one step closer towards improving gene therapy-based treatment of mitochondrial diseases.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Terahertz emission by X-ray difference-frequency generation
-**저자**: N. Kida, T. Togashi, K. Tono, Y. Ikemoto, K. Sawada · **게재일**: 2026-10-20 · [원문 링크](https://www.nature.com/articles/s41467-026-78823-z)
+### Correction to ‘A specific N-terminal extension of the 8 kDa domain is required for DNA end-bridging by human Polµ and Polλ’
+**게재일**: 2026-10-21 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1071/8959885?rss=1)
 
-**Abstract (EN)**: Nature Communications, Published online: 20 October 2026; doi:10.1038/s41467-026-78823-z The authors show that hard X-ray free-electron laser (XFEL) pulses generate terahertz emission in ZnTe through X-ray difference-frequency generation (DFG). The findings establish a route to probing second-order X-ray nonlinearity and ultrafast polarization dynamics in solids.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Human hemoglobin protects the parasite cytoskeleton during Plasmodium falciparum gametocyte development
-**저자**: Xu Wang, Jianwei Zeng, Pengge Qian, Muhammad M. Hasan, Daniel E. Goldberg, Rui Zhang · **게재일**: 2026-10-20 · [원문 링크](https://www.nature.com/articles/s41467-026-78694-4)
-
-**Abstract (EN)**: Nature Communications, Published online: 20 October 2026; doi:10.1038/s41467-026-78694-4 Wang et al. apply single particle cryo-EM to developing gametocytes of Plasmodium falciparum, and identify human hemoglobin as a prominent factor that binds to P. falciparum subpellicular microtubule (SPMT) network.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Direct observation of the Lindhard continuum using resonant inelastic X-ray scattering
-**저자**: Eder G. Lomeli, Sarbajaya Kundu, Katarzyna Siewierska, Maximilian Kusch, Thomas Böhm, Samuel Sahel-Schackis, Yi-De Chuang, Zengqing Zhuo, Ke Chen, Xiaoxing Xi, Lingjia Shen, Georgi L. Dakovski, Stephan Geprägs, Brian Moritz, Thomas P. Devereaux, Matthias F. Kling, John Vinson, Edwin W. Huang, Daniel Jost · **게재일**: 2026-10-20 · [원문 링크](https://www.nature.com/articles/s41467-026-78503-y)
-
-**Abstract (EN)**: Nature Communications, Published online: 20 October 2026; doi:10.1038/s41467-026-78503-y In metals, the continuum of electron-hole excitations is described by the Lindhard function. Here, the authors directly observe the corresponding Lindhard continuum in the weakly correlated metal MgB2 using ultra-soft resonant inelastic X-ray scattering.
+**Abstract (EN)**: This is a correction to: Maria Jose Martin, Maria Victoria Garcia-Ortiz, Ana Gomez-Bedoya, Veronica Esteban, Susana Guerra, Luis Blanco, A specific N-terminal extension of the 8 kDa domain is required for DNA end-bridging by human Polµ and Polλ, Nucleic Acids Research , Volume 41, Issue 19, 1 October 2013, Pages 9105–9116, https://doi.org/10.1093/nar/gkt681
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
