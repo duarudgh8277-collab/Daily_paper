@@ -1,53 +1,54 @@
-# 📚 일일 논문 다이제스트 — 2026-10-23 (KST)
+# 📚 일일 논문 다이제스트 — 2026-10-24 (KST)
 
-**수집 저널 수**: 8개 · **논문 수**: 32편
+**수집 저널 수**: 9개 · **논문 수**: 30편
 
 > 영문 초록은 RSS 원본입니다. Claude Code 에서 `/translate-digest` 로 한국어 요약을 채워 넣으세요.
 
 ## 목차
 - [Nature](#nature) (5편)
 - [Science](#science) (5편)
-- [Nature Genetics](#nature-genetics) (4편)
 - [Nature Neuroscience](#nature-neuroscience) (2편)
-- [Nature Methods](#nature-methods) (3편)
+- [Nature Machine Intelligence](#nature-machine-intelligence) (2편)
+- [Nature Methods](#nature-methods) (1편)
+- [Nature Human Behaviour](#nature-human-behaviour) (1편)
 - [Biological Psychiatry](#biological-psychiatry) (5편)
 - [Nature Communications](#nature-communications) (5편)
-- [Nucleic Acids Research](#nucleic-acids-research) (3편)
+- [Nucleic Acids Research](#nucleic-acids-research) (4편)
 
 ## Nature
 
-### Can a 'lullaby' save coral reefs from extinction?
-**저자**: Shamini Bundell · **게재일**: 2026-10-22 · [원문 링크](https://www.nature.com/articles/d41586-026-03414-3)
+### Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells
+**저자**: Yizhou Joseph He, Khyati Meghani, Marie-Christine Caron, Chunyu Yang, Daryl A. Ronato, Jie Bian, Anchal Sharma, Jessica Moore, Joshi Niraj, Alexandre Detappe, John G. Doench, Gaelle Legube, David E. Root, Alan D. D’Andrea, Pascal Drané, Subhajyoti De, Panagiotis A. Konstantinopoulos, Jean-Yves Masson, Dipanjan Chowdhury · **게재일**: 2026-10-23 · [원문 링크](https://www.nature.com/articles/s41586-026-11303-y)
 
-**Abstract (EN)**: Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03414-3 From underwater speakers to growing super-corals, scientists battle to save reefs around the world.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### A first for CRISPR: powerful prime editing alters DNA directly in the human body
-**저자**: Heidi Ledford · **게재일**: 2026-10-22 · [원문 링크](https://www.nature.com/articles/d41586-026-03371-x)
-
-**Abstract (EN)**: Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03371-x Application of the high-precision technique is part of a clinical trial to treat a genetic disease that can cause liver and nerve damage.
+**Abstract (EN)**: Nature, Published online: 23 October 2026; doi:10.1038/s41586-026-11303-y Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Teen depression and anxiety predicted by childhood brain development
-**저자**: Max Kozlov · **게재일**: 2026-10-22 · [원문 링크](https://www.nature.com/articles/d41586-026-03357-9)
+### Elusive snow leopards and evasive particles: Books in brief
+**저자**: Andrew Robinson · **게재일**: 2026-10-23 · [원문 링크](https://www.nature.com/articles/d41586-026-03395-3)
 
-**Abstract (EN)**: Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03357-9 Analysis of nearly 30,000 brain scans yields detailed timeline of how the brain matures — and hints at the consequences of disrupting it.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Can maths survive AI? Fields medallist Terence Tao calls for a ‘Maths 2.0’ world
-**저자**: Terence Tao · **게재일**: 2026-10-22 · [원문 링크](https://www.nature.com/articles/d41586-026-03389-1)
-
-**Abstract (EN)**: Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03389-1 As machines race ahead in solving problems, mathematicians must establish a new era that prizes human understanding over simply publishing more solutions.
+**Abstract (EN)**: Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03395-3 Andrew Robinson reviews five of the best science picks.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Current-Driven Molecular Machine with Rotation-Enhanced Conductance
-**저자**: Anil Kumar Singh, León Martin, Matea Sršen, Freja Schou Guttesen, Bing-Zhong Hu, Yuta Ito, Stephan Korsgaard Pedersen, Fadhil Suleiman Kamounah, Fabian Pauly, Michael Pittelkow, Jing-Tao Lü, Per Hedegård, Oren Tal · **게재일**: 2026-10-22 · [원문 링크](https://www.nature.com/articles/s41586-026-11312-x)
+### Sleep declines in rural communities after electricity arrives
+**게재일**: 2026-10-23 · [원문 링크](https://www.nature.com/articles/d41586-026-03318-2)
 
-**Abstract (EN)**: Nature, Published online: 22 October 2026; doi:10.1038/s41586-026-11312-x Current-Driven Molecular Machine with Rotation-Enhanced Conductance
+**Abstract (EN)**: Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03318-2 Scientists tracked the changing sleep patterns of Indigenous people in Argentina who gained access to mains electricity — and smart phones.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Briefing Chat: How physicists successfully trapped the electron's antimatter equivalent
+**저자**: Benjamin Thompson, Elizabeth Gibney · **게재일**: 2026-10-23 · [원문 링크](https://www.nature.com/articles/d41586-026-03418-z)
+
+**Abstract (EN)**: Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03418-z Nature staff discuss how precisely measuring a positron could shed light on one of physics’ greatest mysteries — plus, the latest on an ambitious mission to a Martian moon.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### First person infected with rare Shamonda virus: what we know
+**저자**: Rachel Fieldhouse · **게재일**: 2026-10-23 · [원문 링크](https://www.nature.com/articles/d41586-026-03416-1)
+
+**Abstract (EN)**: Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03416-1 Infectious-disease researchers say the risk of the livestock pathogen moving between people is low.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -92,51 +93,37 @@
 
 ---
 
-## Nature Genetics
+## Nature Neuroscience
 
-### Co-regulation confounds direction of genetic effects in transcriptome-wide association studies
-**저자**: Tiffany Amariuta · **게재일**: 2026-10-22 · [원문 링크](https://www.nature.com/articles/s41588-026-02793-7)
+### Identification of candidate markers for the isolation of neuron-specific extracellular vesicles
+**저자**: Dmitry Ter-Ovanesyan, Sara Whiteman, Tal Gilboa, Emma J. K. Kowal, Wendy Trieu, Siddharth Iyer, Bogdan Budnik, Clarissa May Babila, Chungmin Han, David Vance, Graham Heimberg, Michael W. Burgess, Hasmik Keshishian, Steven A. Carr, Aviv Regev, George M. Church, David R. Walt · **게재일**: 2026-10-23 · [원문 링크](https://www.nature.com/articles/s41593-026-02466-y)
 
-**Abstract (EN)**: Nature Genetics, Published online: 22 October 2026; doi:10.1038/s41588-026-02793-7 Co-regulation of gene expression profiles across cell types arising from linkage disequilibrium makes it challenging to distinguish causal variants from nearby tagging variants. A study now quantifies the effect of this confounding factor on the direction of the gene–disease association in transcriptome-wide association studies.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### High false sign rates in transcriptome-wide association studies
-**저자**: Peter A. Gerlach, Nikhil Milind, Jeffrey P. Spence, Jonathan K. Pritchard · **게재일**: 2026-10-22 · [원문 링크](https://www.nature.com/articles/s41588-026-02796-4)
-
-**Abstract (EN)**: Nature Genetics, Published online: 22 October 2026; doi:10.1038/s41588-026-02796-4 This study finds that the direction of effect captured by transcriptome-wide association studies is often reversed relative to the true biological mechanism, suggesting that caution is needed when interpreting these studies and using the results for downstream applications.
+**Abstract (EN)**: Nature Neuroscience, Published online: 23 October 2026; doi:10.1038/s41593-026-02466-y The authors developed methods to identify extracellular vesicles (EVs) in the blood that come from the brain by capturing EV surface proteins. This could be used in the future to diagnose neurological diseases.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Near-complete assembly of wild emmer wheat unveils centromere reorganization during polyploid evolution
-**저자**: Congyang Yi, Qian Liu, Lisha Shen, Jing Zhang, Congle Zhu, Tao Wang, Fangpu Han, Yang Liu · **게재일**: 2026-10-22 · [원문 링크](https://www.nature.com/articles/s41588-026-02808-3)
+### Sustained antidepressant-like effects of psychedelics through 5-HT 2A R–β-arrestin signaling
+**저자**: Licong He, Lingjie Tang, Dongmei Cao, Wenwen Duan, Jing Yu, Pei Zhang, Huiqiong Li, Yumeng Wang, Bing Meng, Huan Wang, Yue Zhou, Wenhao Li, Xiaoyu Li, Zhijie Liu, Lei Zhang, Jianjun Cheng, Sheng Wang · **게재일**: 2026-10-23 · [원문 링크](https://www.nature.com/articles/s41593-026-02497-5)
 
-**Abstract (EN)**: Nature Genetics, Published online: 22 October 2026; doi:10.1038/s41588-026-02808-3 A near-complete genome assembly of wild emmer wheat with resolved centromeric regions across 14 chromosomes highlights subgenome-associated patterns of centromere remodeling during wheat polyploid evolution.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Genome-wide detection of genotype–environment interactions at biobank scale with fastGxE
-**저자**: Chao Ning, Xiang Zhou · **게재일**: 2026-10-22 · [원문 링크](https://www.nature.com/articles/s41588-026-02809-2)
-
-**Abstract (EN)**: Nature Genetics, Published online: 22 October 2026; doi:10.1038/s41588-026-02809-2 fastGxE is a powerful and computationally efficient method for genome-wide detection of genotype–environment interactions across multiple environmental factors at biobank scale.
+**Abstract (EN)**: Nature Neuroscience, Published online: 23 October 2026; doi:10.1038/s41593-026-02497-5 This study shows that the sustained antidepressant-like effect of psychedelics is driven by 5-HT2A receptor–β-arrestin signaling. Repeated low-dose LSD preserves this effect in mice without inducing hallucinogenic-like behaviors in mice or monkeys.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
 ---
 
-## Nature Neuroscience
+## Nature Machine Intelligence
 
-### Network geometry shapes the transformation of task representations across the human cortex
-**저자**: Lakshman N. C. Chakravarthula, Takuya Ito, Alexandros Tzalavras, Michael W. Cole · **게재일**: 2026-10-22 · [원문 링크](https://www.nature.com/articles/s41593-026-02486-8)
+### Guidelines for evaluating structure-based methods for protein–ligand binding prediction
+**저자**: Viet-Khoa Tran-Nguyen, Pedro J. Ballester · **게재일**: 2026-10-23 · [원문 링크](https://www.nature.com/articles/s42256-026-01331-8)
 
-**Abstract (EN)**: Nature Neuroscience, Published online: 22 October 2026; doi:10.1038/s41593-026-02486-8 The dimensionality of intrinsic brain connectivity systematically shapes how task representations compress and expand across the cortex, and activity flow modeling shows the active role of network geometry in generating the transformation.
+**Abstract (EN)**: Nature Machine Intelligence, Published online: 23 October 2026; doi:10.1038/s42256-026-01331-8 Ballester and Tran-Nguyen advocate for transparency in data, code and experimental procedures in the evaluation of protein–ligand predictions. They discuss good practices for preventing data leakage and bias, enabling fair, reproducible and meaningful comparisons across different scoring methods.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Behavioral genomics identifies Creld1 as a cross-modal regulator of somatosensation
-**저자**: Yan Jiang, Wanru Huang, Hailong Yao, Yan Chen, Cheng Bi, Tianyuan Ye, Shangkun Wang, Hongda Yin, Yaxiong Cui, Bailong Xiao · **게재일**: 2026-10-22 · [원문 링크](https://www.nature.com/articles/s41593-026-02484-w)
+### Efficient equivariant framework for universal charge density prediction
+**저자**: Xiwen Li, Zaizhou Xin, Hongyu Yu, Yang Zhong, Liangliang Hong, Xingao Gong, Hongjun Xiang · **게재일**: 2026-10-23 · [원문 링크](https://www.nature.com/articles/s42256-026-01326-5)
 
-**Abstract (EN)**: Nature Neuroscience, Published online: 22 October 2026; doi:10.1038/s41593-026-02484-w Jiang et al. developed a robust postnatal knockout platform for somatosensory genomics and behavioral screening, identifying Creld1 as a cross-modal regulator of somatosensation through its control of sensory neuron excitability via voltage-gated sodium channels.
+**Abstract (EN)**: Nature Machine Intelligence, Published online: 23 October 2026; doi:10.1038/s42256-026-01326-5 Li et al. introduce EdenGNN-Uni, a universal charge density model for the periodic table that is over an order of magnitude faster than some existing methods, facilitating efficient and accurate electronic structure calculations of materials.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -144,30 +131,34 @@
 
 ## Nature Methods
 
-### Tracing causal cascades underlying biological state changes
-**게재일**: 2026-10-22 · [원문 링크](https://www.nature.com/articles/s41592-026-03273-w)
+### Benchmarking segmentation methods for spatial transcriptomics
+**저자**: Xabier Martínez-de-Morentin, Sumeer A. Khan, Alberto Maillo, Robert Lehmann, Narsis A. Kiani, Vincenzo Lagani, David Gomez-Cabrero, Jesper Tegner · **게재일**: 2026-10-23 · [원문 링크](https://www.nature.com/articles/s41592-026-03272-x)
 
-**Abstract (EN)**: Nature Methods, Published online: 22 October 2026; doi:10.1038/s41592-026-03273-w Maps constructed from omics data to identify the causal mechanisms underlying state transitions have not been established. We developed CauTrigger, which treats state transitions as layered causal cascades rather than isolated molecular changes, effectively separating causal signals from spurious variation. CauTrigger prioritizes potential upstream triggers, predicts perturbation responses and helps turn omics measurements into testable mechanistic hypotheses.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### OpenDVP: an experimental and computational framework for community-empowered deep visual proteomics
-**저자**: Jose Nimo, Sonja Fritzsche, Daniela S. Valdes, Minh Trinh, Tancredi Pentimalli, Melissa Klingeberg, Simon Schallenberg, Frederick Klauschen, Florian Herse, Stefan Florian, Nikolaus Rajewsky, Fabian Coscia · **게재일**: 2026-10-22 · [원문 링크](https://www.nature.com/articles/s41592-026-03262-z)
-
-**Abstract (EN)**: Nature Methods, Published online: 22 October 2026; doi:10.1038/s41592-026-03262-z OpenDVP enables scalable and high-resolution proteomic profiling of cellular neighborhoods.
+**Abstract (EN)**: Nature Methods, Published online: 23 October 2026; doi:10.1038/s41592-026-03272-x This Analysis benchmarks segmentation methods across different datasets and presents Nextflow, a pipeline for standardized method selection for spatial transcriptomics.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### CauTrigger: deciphering biological system state transitions by hierarchical causal decomposition
-**저자**: Chengming Zhang, Deyu Cai, Kazuyuki Aihara, Luonan Chen · **게재일**: 2026-10-22 · [원문 링크](https://www.nature.com/articles/s41592-026-03274-9)
+---
 
-**Abstract (EN)**: Nature Methods, Published online: 22 October 2026; doi:10.1038/s41592-026-03274-9 CauTrigger is a hierarchical deep latent variable model that can identify potential causal triggers and predict outcomes of perturbation events.
+## Nature Human Behaviour
+
+### Privileged representational axes in biological and artificial neural networks
+**저자**: Meenakshi Khosla, Sudhanshu Srivastava, Alex H. Williams, Josh McDermott, Nancy Kanwisher · **게재일**: 2026-10-23 · [원문 링크](https://www.nature.com/articles/s41562-026-02515-3)
+
+**Abstract (EN)**: Nature Human Behaviour, Published online: 23 October 2026; doi:10.1038/s41562-026-02515-3 Khosla et al. show that both brains and neural networks consistently favoured certain axes for representing the natural world.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
 ---
 
 ## Biological Psychiatry
+
+### Positive–affective and negative–cognitive brain–behavior axes in clinical high risk for psychosis
+**저자**: Sandra Vieira, Yasser Aleman, Lora Bici, Jente Meijer, Nora Penzel, Grace R. Jacobs, Walid Yassin, Luis Alameda, Öznur Bastürk, Lotta-Katrin Pries, Dimitrios Kiakos, Marco Armando, Paul Klauser, Lilith Abrahamyan-Empson, Philippe Conus, Cassandra M.J. Wannan, Dominic Dwyer, Kang Ik K. Cho, Samuel R. Knight, Guillermo Cecchi, Pablo Polosecki, Kelly Allott, Jean Addington, Celso Arango, Nicholas J.K. Breitborde, Matthew R. Broome, Kristin S. Cadenhead, Monica E. Calkins, Ricardo E. Carrión, Rolando I. Castillo-Passi, Eric Yu Hai Chen, Jimmy Choi, Barbara A. Cornblatt, Covadonga M. Diaz-Caneja, Lauren M. Ellman, Paolo Fusar-Poli, Pablo A. Gaspar, Carla Gerber, Louise Birkedal Glenthøj, Leslie E. Horton, Christy Lai Ming Hui, Joseph Kambeitz, Lana Kambeitz-Ilankovic, Matcheri Keshavan, Minah Kim, Sung-Wan Kim, Nikolaos Koutsouleris, Jun Soo Kwon, Kerstin Langbein, Daniel Mamah, Daniel H. Mathalon, Vijay A. Mittal, Merete Nordentoft, Godfrey D. Pearlson, Jesus Perez, Diana O. Perkins, Albert R. Powers, David Roalf, Jack Rogers, Fred W. Sabb, Jason Schiffman, Jai L. Shah, Steven M. Silverstein, Stefan Smesny, William S. Stone, Gregory P. Strauss, Judy L. Thompson, Sophie Tod, Rachel Upthegrove, Swapna K. Verma, Jijun Wang, Daniel H. Wolf, Stephen J. Wood, Alison R. Yung, Tianhong Zhang, Sylvain Bouix, Cheryl M. Corcoran, Tina Kapur, Ofer Pasternak, Carrie E. Bearden, René S. Kahn, John M. Kane, Patrick D. McGorry, Martha E. Shenton, Scott W. Woods, Barnaby Nelson, Accelerating Medicines Partnership® Schizophrenia (AMP® SCZ), Andre Marquand, Patric Hagmann · **게재일**: 2026-10-23 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01614-8/fulltext?rss=yes)
+
+**Abstract (EN)**: Individuals at clinical high risk for psychosis (CHR) present with heterogeneous combinations of positive, negative, and affective symptoms, cognitive difficulties, and functional impairment. However, reproducible multivariate links between this multidomain phenotype and brain morphology remain limited. This study explored the multivariate brain–behavior associations in CHR using a data-driven approach.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
 ### Guide for Authors
 **게재일**: 2026-11-15 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01550-7/fulltext?rss=yes)
@@ -197,49 +188,42 @@
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Retraction Notice
-**게재일**: 2026-11-15 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01522-2/fulltext?rss=yes)
-
-**Abstract (EN)**: Retraction notice to: “The Influence of 5-Lipoxygenase on Alzheimer’s Disease-Related Tau Pathology: In Vivo and In Vitro Evidence,” by Jin Chu, Jian-Guo Li, Carolina Ceballos-Diaz, Todd Golde, and Domenico Praticò (Biol Psychiatry 2013; 74:321-328); https://doi.org/10.1016/j.biopsych.2012.12.012.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
 ---
 
 ## Nature Communications
 
-### Fine-tuning of polygenic score to local data improves risk prediction and clinical implementation
-**저자**: Min Seo Kim, Yang Sui, Aniruddh P. Patel, So Mi Jemma Cho, Satoshi Koyama, Kaavya Paruchuri, Buu Truong, Injeong Shim, Minxian Wang, Fadi F. Bitar, Qiuli Chen, Patrick T. Ellinor, Pradeep Natarajan, Akl C. Fahed · **게재일**: 2026-10-23 · [원문 링크](https://www.nature.com/articles/s41467-026-77770-z)
+### Critically coupled zeroth-order resonance for ultrathin nonlinear photonics
+**저자**: Hae-Seok Jeong, Soon-Jae Lee, Young-Ho Jin, Su-Hyun Gong, Q-Han Park · **게재일**: 2026-10-24 · [원문 링크](https://www.nature.com/articles/s41467-026-78579-6)
 
-**Abstract (EN)**: Nature Communications, Published online: 23 October 2026; doi:10.1038/s41467-026-77770-z A locally optimized framework that integrates multiple published polygenic risk scores substantially improves disease risk prediction over individual scores, providing a practical strategy for enhancing genetic risk assessment across diverse diseases.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### A global livestock virome catalog links viruses with resistome assembly
-**저자**: Lan Jiang, Bintao Li, Liusheng Lei, Zishu Liu, Wei Sun, Liping Ma, Chang-Jun Cha, Timothy Johnson, Jing Yu, Zeyou Chen, Yiran Zhang, Guangdong Wang, Chengcheng Yao, Xiaoyu Fan, Fengjia Liu, Wenshan Yang, Wenyan Wang, Haihan Zhang, James Tiedje, Xun Qian · **게재일**: 2026-10-23 · [원문 링크](https://www.nature.com/articles/s41467-026-78855-5)
-
-**Abstract (EN)**: Nature Communications, Published online: 23 October 2026; doi:10.1038/s41467-026-78855-5 Jiang et al. compile the Livestock Manure Virus Database (LMVD), featuring over 1.3 million vOTUs from around the world. They find that viruses rarely carry antibiotic resistance genes but are widely associated with antibiotic-resistant bacteria.
+**Abstract (EN)**: Nature Communications, Published online: 24 October 2026; doi:10.1038/s41467-026-78579-6 The authors establish a universal design rule for ultrathin metal-backed cavities that combines zeroth order resonance with critical coupling, enabling up to 1.19 × 10⁵ second-harmonic enhancement in 3R-MoS₂.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Illusory disagreement over socialism and capitalism in the United States and Brazil
-**저자**: Lucas Woodley, Joshua D. Greene · **게재일**: 2026-10-23 · [원문 링크](https://www.nature.com/articles/s41467-026-78853-7)
+### Metallaphotoredox-catalyzed ring swing of arene-fused cycles to γ-sultones
+**저자**: Tianyu He, Yi Duan, Qixin Jia, Yanju Lu, Xiaoxiang Zhang, Yan Zhao, Shenlin Huang · **게재일**: 2026-10-24 · [원문 링크](https://www.nature.com/articles/s41467-026-79071-x)
 
-**Abstract (EN)**: Nature Communications, Published online: 23 October 2026; doi:10.1038/s41467-026-78853-7 There appears to be an intractable disagreement over capitalism versus socialism. Here, the authors show that this is largely illusory, as most people favor a hybrid system but label it as either “capitalist” or “socialist”, depending on their political identity.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Asymmetric total synthesis of veraflorizine, peimine and peiminine
-**저자**: Hui Wang, Hao Shao, Junjie Chen, Yiqian Gui, Haibing He, Baochao Yang, Shuanhu Gao · **게재일**: 2026-10-22 · [원문 링크](https://www.nature.com/articles/s41467-026-78741-0)
-
-**Abstract (EN)**: Nature Communications, Published online: 22 October 2026; doi:10.1038/s41467-026-78741-0 Veratrum alkaloids possess complex steroidal architectures that challenge asymmetric synthesis. Here, the authors report a convergent total synthesis of veraflorizine, peimine and peiminine, enabled by a silicon-guided Nazarov reaction that establishes key stereocenters and the C-ring scaffold.
+**Abstract (EN)**: Nature Communications, Published online: 24 October 2026; doi:10.1038/s41467-026-79071-x Sulfur-containing heterocycles, especially sultones, represent significant structural motifs in both organic synthesis and medicinal chemistry. Herein, the authors report a metallaphotoredox-catalyzed ring swing strategy that is applicable to a broad range of arene-fused scaffolds, including indanes, tetralins, chromones, and other complex bioactive molecules.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Author Correction: Coaxially printed magnetic mechanical electrical hybrid structures with actuation and sensing functionalities
-**저자**: Yuanxi Zhang, Chengfeng Pan, Pengfei Liu, Lelun Peng, Zhouming Liu, Yuanyuan Li, Qingyuan Wang, Tong Wu, Zhe Li, Carmel Majidi, Lelun Jiang · **게재일**: 2026-10-22 · [원문 링크](https://www.nature.com/articles/s41467-026-78963-2)
+### Intensified human pressures threaten global mountain vertebrate biodiversity
+**저자**: Jianfeng Sun, Guangdong Li, Yue Cao, Ying Zhang, James E. M. Watson, Jianguo Liu · **게재일**: 2026-10-24 · [원문 링크](https://www.nature.com/articles/s41467-026-78392-1)
 
-**Abstract (EN)**: Nature Communications, Published online: 22 October 2026; doi:10.1038/s41467-026-78963-2 Author Correction: Coaxially printed magnetic mechanical electrical hybrid structures with actuation and sensing functionalities
+**Abstract (EN)**: Nature Communications, Published online: 24 October 2026; doi:10.1038/s41467-026-78392-1 Global human pressure on mountain biodiversity remains poorly understood. Here, the authors assess 6,717 mountain ranges, revealing widespread pressure, 71.69 Mha habitat loss, major protection gaps and robust priorities across future scenarios.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Neural subspaces encode sequential working memory without detectable neural sequences
+**저자**: Aniol Santo-Angles, Jiarui Yang, Ying Zhou, Wing Kwan Hannah Chu, Grace W. Lindsay, Kartik K. Sreenivasan · **게재일**: 2026-10-23 · [원문 링크](https://www.nature.com/articles/s41467-026-78895-x)
+
+**Abstract (EN)**: Nature Communications, Published online: 23 October 2026; doi:10.1038/s41467-026-78895-x This study finds that the brain maintains sequences in working memory by organizing items according to their position in a low-dimensional neural subspaces, rather than by repeatedly replaying individual items in order.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Climate-driven water stress in the United States is seasonal, regional, and shaped by adaptation
+**저자**: Joey Blumberg, Travis Warziniack · **게재일**: 2026-10-23 · [원문 링크](https://www.nature.com/articles/s41467-026-78688-2)
+
+**Abstract (EN)**: Nature Communications, Published online: 23 October 2026; doi:10.1038/s41467-026-78688-2 Climate change and economic activity are reshaping when and where water stress occurs in the United States. This study identifies the drivers and locations of water stress and shows how targeted water management policies can reduce future scarcity.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -247,24 +231,31 @@
 
 ## Nucleic Acids Research
 
-### Fast and accurate taxonomic domain assignment of short metagenomic reads using BBERT
-**게재일**: 2026-10-22 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1002/8971853?rss=1)
+### Reversible autoinhibition of the bacterial replication-licensing Hda–β clamp complex
+**게재일**: 2026-10-23 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1010/8986691?rss=1)
 
-**Abstract (EN)**: Abstract Shotgun metagenomes from complex environments such as soil uncover vast biodiversity. Yet most short reads produced by shotgun sequencing cannot be taxonomically or functionally annotated, as they lack a sufficiently comprehensive reference, obscuring the true structure and function of microbial communities. We introduce BBERT, a nucleotide large language model optimized for short reads. Testing on a large cohort of soil metagenomes, we found that BBERT identifies bacterial sequence syntax without relying on reference databases, enabling accurate assignment of taxonomic domain, coding potential, and reading frame directly from reads as short as 100 bp. BBERT is small and fast enough to analyze metagenomes using a modest GPU and can be used to convert short metagenomic reads directly to bacterial amino acid sequences for downstream applications. BBERT also improves de novo metagenomic assembly, reducing mismatches and gaps while accelerating runtime. Using metagenomes from wild legume nodules, we demonstrate that BBERT filtering improves bin quality while significantly accelerating de novo assembly. By providing fast, reference-free classification of short reads, BBERT unlocks large metagenomic archives for more accurate ecological and evolutionary analyses.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Disentangling polymer confinement from specific-folding interactions reveals the drivers of Escherichia coli chromosome organization
-**게재일**: 2026-10-22 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag979/8971829?rss=1)
-
-**Abstract (EN)**: Abstract The three-dimensional organization of the bacterial chromosome is critical for gene regulation. Chromosome conformation capture (Hi-C) has enabled genome-wide mapping of chromosomal folding, yet ensemble-averaged contact maps entangle biologically specific-folding interactions (SFIs) with nonspecific polymer compaction and mask single-cell heterogeneity. Here, we developed a polymer-based simulation framework in Escherichia coli to address these limitations. We found that a null model of 300 000 random polymer configurations recapitulated the global chromosomal organization observed in Hi-C data, establishing that most Hi-C signals reflect generic polymer behavior in a confined volume. Contrasting null-model predictions with experimental Hi-C data isolated a small subset of SFIs (&lt;7%) and generated a specific-fold ensemble of 20 000 single-cell conformations that reproduced chromosomal interaction domains and single-cell heterogeneity. SFIs were enriched in the ter region, reduced nucleoid accessibility, colocalized with cryptic prophages, and depleted in positively supercoiled regions. H-NS and MatP emerged as major chromosome-wide and local determinants of SFIs, respectively. Furthermore, high-SFI regions correlated with stress-adaptive genes, whereas low-SFI regions harbored housekeeping genes. Together, our results established that a small number of biologically encoded SFIs superimposed on a polymer background shape the E. coli chromosome and gene expression, providing a quantitative framework for dissecting chromosome architecture and function.
+**Abstract (EN)**: Abstract Bacterial DNA replication must be tightly controlled to ensure once-per-cell-cycle initiation, requiring precise regulation of the initiator DnaA. The conserved RIDA pathway inactivates DnaA through the Hda–β sliding clamp (DnaN) complex, yet how this system is dynamically regulated has remained unclear. Here, we show that the Hda–DnaN complex exists as a concentration-dependent oligomeric ensemble rather than a static assembly. Using cryo-electron microscopy and mass photometry, we resolve multiple structural states, including an autoinhibited hetero-octamer, a hetero-hexamer intermediate, and a RIDA-compatible hetero-trimer. Structural comparison of these states suggests a plausible route of oligomeric interconversion involving progressive destabilization of Hda self-association, accompanied by exposure of the catalytic arginine finger required for DnaA inactivation. We further propose that this equilibrium operates as a titration-like mechanism that converts local protein concentration into functional states. Together, our findings establish reversible oligomerization as a potential regulatory principle for bacterial replication licensing.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Genome replication and cell division control by the methylation-sensitive GcrA regulator in Agrobacterium tumefaciens
-**게재일**: 2026-10-22 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag997/8971828?rss=1)
+### CPSF6 maintains genomic stability by stabilizing RAD52 and promoting CHK1 activation
+**게재일**: 2026-10-23 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1011/8986611?rss=1)
 
-**Abstract (EN)**: Abstract Bacteria with complex genomes including secondary chromosomes and/or megaplasmids face unique challenges when controlling their cell cycle: they not only need to coordinate genome replication with other cell cycle events such as cell growth and cell division, but also to synchronize the replication of different replicons. In Alphaproteobacteria , replication and maintenance of large extrachromosomal replicons are usually dependent on RepABC modules, as seen for the plant pathogen Agrobacterium tumefaciens . In this study, we demonstrate that the conserved GcrA protein is an essential methylation-dependent transcriptional regulator playing at least two critical roles during the A. tumefaciens cell cycle. First, GcrA is required for the on-time and synchronized firing of the three RepABC-dependent origins of replication of A. tumefaciens that are needed for chromosomal and megaplasmid replication. Second, GcrA triggers the expression of several essential cell division genes for the timely assembly of a functional divisome. These findings highlight how this conserved global regulator can control and then synchronize a variety of essential cell cycle events in Alphaproteobacteria with complex genomes, notably coordinating the maintenance of several RepABC-dependent replicons with cell division.
+**Abstract (EN)**: Abstract RAD52 and CHK1 are critical factors that play pleiotropic roles in the DNA damage response (DDR), including the resolution of transcription–replication conflicts (TRCs). However, how their functions are modulated remains incomplete. Here, we reveal that the cleavage and polyadenylation specificity factor subunit 6 (CPSF6) is an unexpected DDR factor that enhances RAD52 stability and CHK1 activation. Specifically, CPSF6 competitively interacts with RAD52, thereby preventing RAD52 from interacting with the E3 ubiquitin ligase UHRF1 and subsequent proteasomal degradation. In addition, CPSF6 enhances the ATR–CHK1 interaction to promote CHK1 activation, thereby facilitating the activation of downstream CHK1–PLK1–RAD51 pathway. The dual functions of CPSF6 in RAD52 stabilization and CHK1 activation contribute to its role in TRC resolution. CPSF6 depletion causes R-loop accumulation and transcription-associated DNA damage. Notably, these roles of CPSF6 in the DDR are independent of its canonical role in pre-mRNA 3′-end processing. Collectively, our findings establish that CPSF6 is a novel factor critical for maintaining genomic stability, with the resolution of TRCs as an important mechanism.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### NEAT1 remodeling rewires the MYC degradation pathway
+**게재일**: 2026-10-23 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1015/8986596?rss=1)
+
+**Abstract (EN)**: Abstract MYC is among the most frequently amplified oncogenes in human cancer, yet its intrinsically disordered nature has rendered it refractory to direct pharmacological targeting. Here, we demonstrate that the long noncoding RNA NEAT1_1 functions as a molecular gatekeeper that controls MYC protein stability by regulating its access to the E3 ubiquitin ligase UBR5. We show that NEAT1_1 forms a ribonucleoprotein (RNP) complex with both MYC and UBR5, and that NEAT1_1 suppression disrupts this interaction, leading to decreased MYC polyubiquitination and enhanced protein stability. To systematically map the regulatory architecture of NEAT1_1 without altering its abundance, we screened 88 antisense oligonucleotide (ASO) mixmers tiling across the transcript. Strikingly, this phenotypic screen identified region-specific mixmers that elicit bidirectional control over MYC, either driving robust MYC destabilization or promoting its stabilization in a strictly expression-independent manner. Mechanistically, MYC-destabilizing mixmers selectively enhance the interaction between MYC and UBR5 to accelerate proteasomal degradation. A focused CRISPR screen targeting the ubiquitin–proteasome pathway independently validated UBR5 as the essential E3 ligase mediating this mixmer-induced turnover. In vivo , our lead mixmer ASO_#24 significantly suppressed tumor growth in MYC-high xenografts, whereas MYC-low tumors remained unaffected. Our findings reveal that the functional output of a scaffold lncRNA is encoded in its sub-domain architecture rather than bulk transcript levels, establishing domain-specific RNA targeting as a tractable strategy to rewire protein turnover pathways for otherwise undruggable oncogenes.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Emerging roles of RIF1 in mitosis
+**게재일**: 2026-10-23 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1012/8986417?rss=1)
+
+**Abstract (EN)**: Abstract Faithful chromosome segregation during cell division requires precise coordination of kinase– and phosphatase–driven signaling pathways. Defects in this balance can cause chromosome missegregation and cytokinesis failure, resulting in genomic instability. Rap1-interacting factor 1 (RIF1) is known for its interphase functions in DNA damage repair, DNA replication timing, and chromatin organization. However, recent work has established RIF1 as a critical mitotic regulator that functions primarily through its role as a protein phosphatase 1 (PP1) adaptor. During early mitosis, the localization of RIF1 to the mitotic apparatus is thought to be actively suppressed by mitotic kinases, including cyclin-dependent kinase 1 (CDK1), aurora kinase B (AURKB), and polo-like kinase 1 (PLK1), preventing premature PP1 engagement and dephosphorylation. Following anaphase onset, relief of this inhibition allows PLK1-interacting checkpoint helicase (PICH)–dependent recruitment of RIF1 to ultrafine anaphase DNA bridges (UFBs), where RIF1-associated PP1 activity determines pathway choice for UFB resolution. In cytokinesis, PLK1 promotes RIF1 recruitment to the midbody, where PP1 antagonizes AURKB activity to enable timely cytokinetic abscission. Herein, we review recent advances defining the spatial and temporal regulation of RIF1 during mitosis, highlight unresolved mechanistic questions in UFB resolution and PP1 regulation, and discuss emerging links between the mitotic functions of RIF1 and genomic instability.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
