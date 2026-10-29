@@ -1,52 +1,51 @@
-# 📚 일일 논문 다이제스트 — 2026-10-28 (KST)
+# 📚 일일 논문 다이제스트 — 2026-10-29 (KST)
 
-**수집 저널 수**: 7개 · **논문 수**: 21편
+**수집 저널 수**: 6개 · **논문 수**: 21편
 
 > 영문 초록은 RSS 원본입니다. Claude Code 에서 `/translate-digest` 로 한국어 요약을 채워 넣으세요.
 
 ## 목차
 - [Nature](#nature) (5편)
 - [Nature Genetics](#nature-genetics) (1편)
-- [Nature Neuroscience](#nature-neuroscience) (2편)
-- [Molecular Psychiatry](#molecular-psychiatry) (1편)
+- [Nature Neuroscience](#nature-neuroscience) (1편)
+- [Nature Methods](#nature-methods) (4편)
 - [Biological Psychiatry](#biological-psychiatry) (5편)
 - [Nature Communications](#nature-communications) (5편)
-- [Nucleic Acids Research](#nucleic-acids-research) (2편)
 
 ## Nature
 
-### The Nobel prize in economic science has a serious gender problem
-**저자**: Viola Angelini · **게재일**: 2026-10-27 · [원문 링크](https://www.nature.com/articles/d41586-026-03404-5)
+### Switchable Chlorine Atom Transfer Radical Reactions
+**저자**: Jun Huang, Yu Liu, Wencheng Yan, Guichao Dong, Xinyue Zhang, Hongliang Chen, Shiyi Zhao, Zhou Xu, Chengjian Zhu, Jie Han, Jin Xie · **게재일**: 2026-10-28 · [원문 링크](https://www.nature.com/articles/s41586-026-11348-z)
 
-**Abstract (EN)**: Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03404-5 The Nobel prize in economic science has a serious gender problem
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Methane emissions remain flat even as biggest US oil region opens the tap
-**게재일**: 2026-10-27 · [원문 링크](https://www.nature.com/articles/d41586-026-03388-2)
-
-**Abstract (EN)**: Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03388-2 Output of the greenhouse gas from the Permian Basin has remained near constant over a period during which oil and gas production tripled.
+**Abstract (EN)**: Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11348-z Switchable Chlorine Atom Transfer Radical Reactions
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### AI-hallucinated citations should be treated as research misconduct
-**저자**: Jan Pisek · **게재일**: 2026-10-27 · [원문 링크](https://www.nature.com/articles/d41586-026-03407-2)
+### Back-to-monomer depolymerization of silicones by deoxygenative chlorination
+**저자**: Biping Xu, Tobias Randt, Xiaojie Liu, Zheng-Wang Qu, Stefan Grimme, Hendrik F. T. Klare, Martin Oestreich · **게재일**: 2026-10-28 · [원문 링크](https://www.nature.com/articles/s41586-026-11335-4)
 
-**Abstract (EN)**: Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03407-2 AI-hallucinated citations should be treated as research misconduct
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Short-term academic visits to China could sustain ties
-**저자**: Xiaoqi Zhou · **게재일**: 2026-10-27 · [원문 링크](https://www.nature.com/articles/d41586-026-03405-4)
-
-**Abstract (EN)**: Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03405-4 Short-term academic visits to China could sustain ties
+**Abstract (EN)**: Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11335-4 Back-to-monomer depolymerization of silicones by deoxygenative chlorination
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Making ‘mind pictures’ takes mental effort
-**게재일**: 2026-10-27 · [원문 링크](https://www.nature.com/articles/d41586-026-03276-9)
+### Why did ancient humans avoid this lush paradise
+**저자**: Dan Fox · **게재일**: 2026-10-28 · [원문 링크](https://www.nature.com/articles/d41586-026-03486-1)
 
-**Abstract (EN)**: Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03276-9 How forming internal imagery is amusing but tiring, and the worry induced by lists of chemicals in foods, in this week’s pick from the Nature archive.
+**Abstract (EN)**: Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03486-1 A new expedition into the Rub’ al Khali desert finds no evidence of ancient human settlement.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### This Arabian desert was once a lush paradise. Why did ancient humans avoid it?
+**저자**: Shamini Bundell, Nick Petrić Howe · **게재일**: 2026-10-28 · [원문 링크](https://www.nature.com/articles/d41586-026-03484-3)
+
+**Abstract (EN)**: Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03484-3 Expedition revealed that water wasn’t enough for human settlement — plus, proposals to block sunlight get serious.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Accounting of Africa’s water reveals a management gap
+**저자**: Xu Wang · **게재일**: 2026-10-28 · [원문 링크](https://www.nature.com/articles/d41586-026-03260-3)
+
+**Abstract (EN)**: Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03260-3 A map of Africa’s water demand reveals that the scarcity of water is only part of the problem facing the continent — management is a separate challenge.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -54,10 +53,10 @@
 
 ## Nature Genetics
 
-### The Gujarat Tribal Genome Project (2kTGP)
-**저자**: Nitin B. Shukla, Apurvasinh Puvar, Darshan Dharajiya, Hemang D. Brahmbhatt, Sanman Samova, Devchand Vahoniya, Pravin Patel, Vipul Ramani, Amrutlal Patel, Chaitanya Joshi, Ashish Patel, Madhvi Joshi, Snehal Bagatharia · **게재일**: 2026-10-27 · [원문 링크](https://www.nature.com/articles/s41588-026-02820-7)
+### Population-scale single-nucleus multi-omic profiling of skeletal muscle reveals extensive context-specific genetic regulation
+**저자**: Arushi Varshney, Nandini Manickam, Peter Orchard, Adelaide Tovar, Christa Ventresca, Zhenhao Zhang, Fan Feng, Joseph Mears, Michael R. Erdos, Narisu Narisu, Kirsten Nishino, Vivek Rai, Heather M. Stringham, Anne U. Jackson, Tricia Tamsen, Chao Gao, Mao Yang, Olivia I. Koues, Joshua D. Welch, Charles F. Burant, L. Keoki Williams, Chris Jenkinson, Ralph A. DeFronzo, Luke Norton, Jouko Saramies, Timo A. Lakka, Markku Laakso, Jaakko Tuomilehto, Karen L. Mohlke, Jacob O. Kitzman, Heikki A. Koistinen, Jie Liu, Michael Boehnke, Francis S. Collins, Laura J. Scott, Stephen C. J. Parker · **게재일**: 2026-10-28 · [원문 링크](https://www.nature.com/articles/s41588-026-02786-6)
 
-**Abstract (EN)**: Nature Genetics, Published online: 27 October 2026; doi:10.1038/s41588-026-02820-7 The Gujarat Tribal Genome Project (2kTGP)
+**Abstract (EN)**: Nature Genetics, Published online: 28 October 2026; doi:10.1038/s41588-026-02786-6 Single-nucleus chromatin accessibility and transcriptome maps of human skeletal muscle identify cell-state and context-specific QTLs that colocalize with genome-wide association signals for cardiometabolic traits.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -65,28 +64,42 @@
 
 ## Nature Neuroscience
 
-### Stimulus-specific recruitment of human amygdala neurons predicts episodic memory encoding success
-**저자**: Jiayang Xiao, Jonathan Daume, Yousef Salimpour, Natalia Kurilenko, Clayton Mosher, William S. Anderson, Taufik A. Valiante, Adam N. Mamelak, Ueli Rutishauser · **게재일**: 2026-10-27 · [원문 링크](https://www.nature.com/articles/s41593-026-02493-9)
+### Serotonin signaling enhances phagocytosis by brain macrophages through Htr2b and alleviates brain injury after stroke
+**저자**: Yueman Zhang, Yonghui Chen, Yue Cheng, Ruqi Li, Weijie Chen, Yan Li, Qiuyue Fan, Yuxi Zhou, Tingting Huang, Wanqing Xie, Yunlu Guo, Arthur Liesz, Jieqing Wan, Florent Ginhoux, Peiying Li · **게재일**: 2026-10-28 · [원문 링크](https://www.nature.com/articles/s41593-026-02482-y)
 
-**Abstract (EN)**: Nature Neuroscience, Published online: 27 October 2026; doi:10.1038/s41593-026-02493-9 The study shows that stimulus-specific neurons in the human amygdala determine which experiences become lasting memory, revealing a mechanism that predicts episodic memory formation and may guide future treatments for memory disorders.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Circuit mechanisms for disentangled representations and generalization in the hippocampus
-**저자**: Wenbo Tang, Hongyu Chang, Can Liu, Salma Perez-Hernandez, William Y. Zheng, Jaehyo Park, Lindsay A. Karaba, Azahara Oliva, Antonio Fernandez-Ruiz · **게재일**: 2026-10-27 · [원문 링크](https://www.nature.com/articles/s41593-026-02491-x)
-
-**Abstract (EN)**: Nature Neuroscience, Published online: 27 October 2026; doi:10.1038/s41593-026-02491-x The hippocampus encodes different aspects of experience as disentangled variables, enabling flexible recombination and generalization to new situations. This code is supported by the geometry of population dynamics and cell–assembly interactions.
+**Abstract (EN)**: Nature Neuroscience, Published online: 28 October 2026; doi:10.1038/s41593-026-02482-y The serotonin receptor Htr2b activation enhances lysosome biogenesis and phagocytic clearance of debris to mitigate neuroinflammation and brain injury after stroke. The study proposes a potential monocyte-derived macrophage-targeted immune therapy to improve neurological outcomes after ischemic stroke.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
 ---
 
-## Molecular Psychiatry
+## Nature Methods
 
-### Real-world associations of antipsychotic use with clinical outcomes in schizophrenia: a systematic review and meta-analysis
-**저자**: Honghui Yao, Zixuan Peng, Yue Huang, Renrong Wu · **게재일**: 2026-10-27 · [원문 링크](https://www.nature.com/articles/s41380-026-03949-x)
+### CopilotJ: a conversational multi-agent system for intelligent and efficient bioimage analysis
+**저자**: Zhaoqi Lu, Zexin Yuan, Yan Chen, Zihao Chen, Zhihai Qiu, Haiyun Ren, Lei Sun, Yimin Wang · **게재일**: 2026-10-28 · [원문 링크](https://www.nature.com/articles/s41592-026-03290-9)
 
-**Abstract (EN)**: Molecular Psychiatry, Published online: 27 October 2026; doi:10.1038/s41380-026-03949-x Real-world associations of antipsychotic use with clinical outcomes in schizophrenia: a systematic review and meta-analysis
+**Abstract (EN)**: Nature Methods, Published online: 28 October 2026; doi:10.1038/s41592-026-03290-9 CopilotJ: a conversational multi-agent system for intelligent and efficient bioimage analysis
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Thyra: bridging mass spectrometry imaging and SpatialData for unified multimodal analysis
+**저자**: Theodoros Visvikis, Tim F. E. Hendriks, Wouter-Michiel Vierdag, Luca Marconato, Ron M. A. Heeren, Eva Cuypers · **게재일**: 2026-10-28 · [원문 링크](https://www.nature.com/articles/s41592-026-03305-5)
+
+**Abstract (EN)**: Nature Methods, Published online: 28 October 2026; doi:10.1038/s41592-026-03305-5 Thyra: bridging mass spectrometry imaging and SpatialData for unified multimodal analysis
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Cellular-resolution three-photon ultra-deep imaging (TrUDI) of neuronal population activity at 2-mm depth in the mammalian brain
+**저자**: Kalyan Santra, Kevin Barber, Francesca Logiacco, M. Agustina Frechou, Arash Bellafard, Jyun-you Liou, Alipasha Vaziri · **게재일**: 2026-10-28 · [원문 링크](https://www.nature.com/articles/s41592-026-03251-2)
+
+**Abstract (EN)**: Nature Methods, Published online: 28 October 2026; doi:10.1038/s41592-026-03251-2 TrUDI is an optimized three-photon imaging approach that allows structural and functional imaging of neuroactivity up to a depth of 2 mm in the mouse brain.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Aptamer-mediated multivalent endogenous ADAR1 recruitment for highly efficient RNA editing
+**저자**: Han Zhu, Yang Zhou, Rentang Huang, Yi-Fan Wang, Yusi Hu, Lei Wang, Jia-Hui Jin, Qingqing Ye, Xin Liu, Zhi-Gang Wang, Hai-Yan Xie, Jin Billy Li, Dai-Wen Pang, Shu-Lin Liu · **게재일**: 2026-10-28 · [원문 링크](https://www.nature.com/articles/s41592-026-03284-7)
+
+**Abstract (EN)**: Nature Methods, Published online: 28 October 2026; doi:10.1038/s41592-026-03284-7 The multivalent ADAR1-recruiting RNA editing system (MARRS) is an RNA editing platform that efficiently recruits endogenous ADAR1 to achieve precise adenosine-to-inosine editing. MARRS enables up to 100% editing in vitro and 84% in vivo with high specificity across diverse RNA targets.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -95,37 +108,37 @@
 ## Biological Psychiatry
 
 ### Guide for Authors
-**게재일**: 2026-11-15 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01550-7/fulltext?rss=yes)
+**게재일**: 2026-12-01 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01597-0/fulltext?rss=yes)
 
 **Abstract (EN)**: Biological Psychiatry, founded in 1969, is an official journal of the Society of Biological Psychiatry and the first in the Biological Psychiatry family of journals. Companion titles include Biological Psychiatry: Cognitive Neuroscience and Neuroimaging and Biological Psychiatry: Global Open Science. The Society’s purpose is to promote excellence in scientific research and education in fields that investigate the nature, causes, mechanisms, and treatments of disorders of thought, emotion, and behavior.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
 ### Table of Contents
-**게재일**: 2026-11-15 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01549-0/fulltext?rss=yes)
+**게재일**: 2026-12-01 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01596-9/fulltext?rss=yes)
 
 **Abstract (EN)**: (초록이 제공되지 않았습니다.)
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
 ### Subscribers Page
-**게재일**: 2026-11-15 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01548-9/fulltext?rss=yes)
+**게재일**: 2026-12-01 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01595-7/fulltext?rss=yes)
 
 **Abstract (EN)**: (초록이 제공되지 않았습니다.)
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
 ### Editorial Board Page
-**게재일**: 2026-11-15 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01547-7/fulltext?rss=yes)
+**게재일**: 2026-12-01 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01594-5/fulltext?rss=yes)
 
 **Abstract (EN)**: (초록이 제공되지 않았습니다.)
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Retraction Notice
-**게재일**: 2026-11-15 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01522-2/fulltext?rss=yes)
+### In This Issue
+**게재일**: 2026-12-01 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01572-6/fulltext?rss=yes)
 
-**Abstract (EN)**: Retraction notice to: “The Influence of 5-Lipoxygenase on Alzheimer’s Disease-Related Tau Pathology: In Vivo and In Vitro Evidence,” by Jin Chu, Jian-Guo Li, Carolina Ceballos-Diaz, Todd Golde, and Domenico Praticò (Biol Psychiatry 2013; 74:321-328); https://doi.org/10.1016/j.biopsych.2012.12.012.
+**Abstract (EN)**: Volume 100, Number 11, December 1, 2026
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -133,56 +146,38 @@
 
 ## Nature Communications
 
-### Oncogenic modulation of MAPK signaling in leukemia via SPNS2-driven sphingolipid metabolism and membrane nanodomains remodeling
-**저자**: Gaetano Sodaro, Khansa Saadallah, Swann Bredin, Michel Kahi, Frank Ling, Paul-Arthur Meslin, Hélène Pasquer, Christopher F. Bassil, Jonathan Paz Montoya, Jean Andrea Maillat, Julie Lesieur, Chloé Zédouard, Nario Tomishige, Nina Fenouille, Matthieu Duchmann, Raphaël Itzykson, Arnaud Jacquel, Patrick Auberger, Kris C. Wood, Toshihide Kobayashi, Camille Lobry, Giovanni D’Angelo, Lina Benajiba, Alexandre Puissant · **게재일**: 2026-10-28 · [원문 링크](https://www.nature.com/articles/s41467-026-78821-1)
+### Glacial CO 2 drawdown by plankton metabolic balance
+**저자**: B. B. Cael, Malte F. Jansen, C. Mark Moore, Matthew B. Osman, Jamie D. Wilson · **게재일**: 2026-10-29 · [원문 링크](https://www.nature.com/articles/s41467-026-78422-y)
 
-**Abstract (EN)**: Nature Communications, Published online: 28 October 2026; doi:10.1038/s41467-026-78821-1 Altered lipid metabolism is linked to cancer progression. Here, authors show that loss of sphingosine-1-phosphate transporter SPNS2 accelerates leukemia growth by modulating sphingolipid metabolism and potentiating MAPK signaling.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Supervising the search process produces reliable and generalizable information-seeking agents
-**저자**: Guangzhi Xiong, Qiao Jin, Xiao Wang, Yin Fang, Haolin Liu, Yifan Yang, Fangyuan Chen, Zhixing Song, Dengyu Wang, Minjia Zhang, Zhiyong Lu, Aidong Zhang · **게재일**: 2026-10-28 · [원문 링크](https://www.nature.com/articles/s41467-026-78807-z)
-
-**Abstract (EN)**: Nature Communications, Published online: 28 October 2026; doi:10.1038/s41467-026-78807-z The authors introduce RAG-Gym, a framework for supervising the search process rather than final answers, and Re2Search++, a process-supervised agent that improves multi-hop information seeking. Results show better search queries and stronger out-of-domain generalization.
+**Abstract (EN)**: Nature Communications, Published online: 29 October 2026; doi:10.1038/s41467-026-78422-y In colder waters, plankton respiration slows down more than photosynthesis does, meaning more photosynthetically fixed carbon can sink to the deep ocean. It is estimated that this effect explains about a quarter of the CO2 drop during the last ice age.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Genetic mechanisms underlying the associations between brain structure and mental health
-**저자**: Ke Hu, Xiaohan Tian, Jing Lou, Chaoyue Ding, Tingting Zhang, Hao Zhang, Xiaoguang Zhang, Bing Liu · **게재일**: 2026-10-28 · [원문 링크](https://www.nature.com/articles/s41467-026-79115-2)
+### Updated global estimates of carbon burial in seagrass sediments
+**저자**: Songlin Liu, Hongxue Luo, Sai Gao · **게재일**: 2026-10-28 · [원문 링크](https://www.nature.com/articles/s41467-026-79150-z)
 
-**Abstract (EN)**: Nature Communications, Published online: 28 October 2026; doi:10.1038/s41467-026-79115-2 Brain-wide association studies link brain structure to mental health, but the underlying genetics remain unclear. Here, the authors integrate brain- and genome-wide analyses to identify two brain-mental health modes with distinct genetic architectures.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Early-life bovine respiratory virome analysis reveals phage-driven adaptation and cross-host evolutionary signatures
-**저자**: Yue Wang, Hanbeen Kim, Nilusha Malmuthuge, Mi Zhou, Yanhong Chen, Trevor W. Alexander, Edouard Timsit, Junhu Yao, Guanxiang Liang, Le Luo Guan · **게재일**: 2026-10-28 · [원문 링크](https://www.nature.com/articles/s41467-026-77597-8)
-
-**Abstract (EN)**: Nature Communications, Published online: 28 October 2026; doi:10.1038/s41467-026-77597-8 In this study, the authors use longitudinal metagenomics profiling to show that cattle upper respiratory viromes display age-dependent succession and phage-linked bacterial adaptation during early life, and harbor bovine-derived coronavirus and adenovirus genomes reflecting cross-host evolutionary signatures.
+**Abstract (EN)**: Nature Communications, Published online: 28 October 2026; doi:10.1038/s41467-026-79150-z Seagrass meadows are important blue carbon ecosystems, yet their contribution to global carbon burial remains uncertain due to limited direct measurements. A Nature Communications study provides a more robust assessment of carbon burial in seagrass sediments by compiling a large dataset of directly dated sediment cores and applying a consistent methodology.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Thin-film lithium tantalate for ultraviolet integrated electro-optic modulator
-**저자**: Chupao Lin, Patrick Nenezic, Arno Moerman, Simone Cammarata, Simone Atzeni, Konstantinos Akritidis, Tom Vanackere, Margot Niels, He Li, Valeria Bonito Oliva, Xin Yin, Maximilien Billet, Bart Kuyken · **게재일**: 2026-10-27 · [원문 링크](https://www.nature.com/articles/s41467-026-78862-6)
+### Lipid stoichiometry and biomarkers reflect microbial acclimation and nutrient stress across the Atlantic Ocean
+**저자**: Daniel P. Lowenstein, Henry C. Holm, Helen F. Fredricks, Benjamin A. S. Van Mooy · **게재일**: 2026-10-28 · [원문 링크](https://www.nature.com/articles/s41467-026-79011-9)
 
-**Abstract (EN)**: Nature Communications, Published online: 27 October 2026; doi:10.1038/s41467-026-78862-6 The authors demonstrate a compact electro-optic modulator on thin-film lithium tantalate operating at 375 nm, delivering an 85 mV ⋅ cm VπL, electrical-to-optical-to-electrical bandwidth above 40 GHz, and electrical-to-electrical bandwidth above 67 GHz.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
----
-
-## Nucleic Acids Research
-
-### Microsatellite expansion redirects chromatin modifiers to confer insect resistance to Bt bioinsecticides
-**게재일**: 2026-10-27 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1058/9002629?rss=1)
-
-**Abstract (EN)**: Abstract Microsatellites are highly mutable genomic elements, yet their role in adaptive gene regulation in insects remains poorly understood. Here, we show that a tetranucleotide (ATGT) microsatellite expansion in the promoter of ABCC2 , a key Bacillus thuringiensis (Bt) toxin receptor gene, epigenetically silences its expression and confers resistance to Bt Cry1Ac toxin in Plutella xylostella (L.). Mechanistically, long repeats (≥27 units) in Cry1Ac-resistant strains preferentially recruit the histone methyltransferase E(z), promoting H3K27me2/3 deposition, chromatin compaction, and transcriptional silencing, whereas short repeats in susceptible strains maintain open chromatin through Tip60-mediated H4K5 acetylation. This repeat expansion alone is sufficient to repress ABCC2 , thereby conferring Bt resistance, while repeat length, chromatin state, and associated phenotypes partially revert under relaxed selection. These findings define a previously uncharacterized cis -acting element dynamically orchestrating insecticide resistance-associated gene expression and identify microsatellite-driven chromatin remodeling as a general and plastic regulatory strategy underlying rapid xenobiotic-resistance evolution in insects.
+**Abstract (EN)**: Nature Communications, Published online: 28 October 2026; doi:10.1038/s41467-026-79011-9 In the surface Atlantic Ocean, microbial lipid stoichiometry is highly variable and is linked to phosphate availability. Lipid biomarkers can be used to determine where different microbial clades are experiencing resource scarcity.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Uracil overload triggers global genome instability and dUTPdysgenesis
-**게재일**: 2026-10-27 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1072/9002628?rss=1)
+### Biomimetic hydrophobic gating in MXene polypyrrole–based artificial Ion channels for efficient perchlorate sensing
+**저자**: Jiaxin Xiao, Lingjun Bu, Yangtao Wu, Shiqing Zhou, Sheng Xie, Zebing Zeng · **게재일**: 2026-10-28 · [원문 링크](https://www.nature.com/articles/s41467-026-79217-x)
 
-**Abstract (EN)**: Abstract Uracil accumulation in DNA is a pervasive threat to genomic integrity, yet the global dynamics of how uracil overload drives genome instability remain elusive. Using Saccharomyces cerevisiae strains with attenuated dUTPase ( DUT1 ) expression, we mapped the landscapes of genomic alterations including point mutations, recombination, and aneuploidy. Deletion of the UNG1 suppressed most induced mutations and loss-of-heterozygosity (LOH), identifying base excision repair as the primary driver of genomic alterations, whereas aneuploidy directly depends on the persistence of intact genomic uracil. Mechanistically, beyond localized bypass of static AP sites by translesion synthesis polymerases, the massive influx of uracil lesions induces a repair bottleneck by depleting Ung1 and Apn1. This resource titration, coupled with downstream processing intermediates, primarily drives mutagenesis at heterologous nonthymine positions. Furthermore, persistent static AP sites preferentially stimulate homologous recombination sub-pathway that yield interstitial LOH, whereas Apn1-mediated processing channels recombination toward terminal LOH. Crucially, we define a novel post-zygotic isolation mechanism, dUTPdysgenesis, where parental wild-type Ung1 unleashes an immediate enzymatic shock against a uracil-preloaded genome upon mating, triggering G1-phase chromosomal shattering and mutations. Collectively, this study transitions the paradigm of uracil mutagenesis from localized errors to a global engine of genome instability, bridging nucleotide metabolism, DNA repair kinetics, and speciation barriers.
+**Abstract (EN)**: Nature Communications, Published online: 28 October 2026; doi:10.1038/s41467-026-79217-x Inspired by biological potassium channels, a biomimetic MXene-based ion-channel material enables selective perchlorate sieving and monitoring via hydrophobic gating.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Nonlinear responses induced by inhomogeneous edge states in a centrosymmetric topological insulator
+**저자**: Yitian Guo, Chengxin Jiang, Chenxi Liu, Zhanbo Fang, Yanjun Li, Jingyan Song, Dong Qiu, Kewen Zhang, Huazhan Liu, Hao Hong, Yichao Yan, Shengyuan A. Yang, Yuqiao Zhou, Yang Wang, Jie Xiong, Chao Yang, Jianjun Ying, Hui Zhang, Haomin Wang, Xixiang Zhang, Yan Li, Peng Li · **게재일**: 2026-10-28 · [원문 링크](https://www.nature.com/articles/s41467-026-78979-8)
+
+**Abstract (EN)**: Nature Communications, Published online: 28 October 2026; doi:10.1038/s41467-026-78979-8 Second-order electrical nonlinearity is conventionally thought to originate in crystals with noncentrosymmetric lattices or magnetic order. Here, the authors show another generation paradigm in bulk centrosymmetric, nonmagnetic ZrTe5, arising from an inhomogeneous surface edge-state distribution.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
