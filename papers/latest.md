@@ -1,42 +1,55 @@
-# 📚 일일 논문 다이제스트 — 2026-11-06 (KST)
+# 📚 일일 논문 다이제스트 — 2026-11-07 (KST)
 
-**수집 저널 수**: 11개 · **논문 수**: 34편
+**수집 저널 수**: 10개 · **논문 수**: 30편
 
 > 영문 초록은 RSS 원본입니다. Claude Code 에서 `/translate-digest` 로 한국어 요약을 채워 넣으세요.
 
 ## 목차
-- [Nature](#nature) (3편)
+- [Nature](#nature) (5편)
 - [Science](#science) (5편)
-- [Nature Genetics](#nature-genetics) (3편)
+- [Nature Genetics](#nature-genetics) (5편)
 - [Nature Neuroscience](#nature-neuroscience) (1편)
 - [Nature Machine Intelligence](#nature-machine-intelligence) (1편)
 - [Nature Computational Science](#nature-computational-science) (1편)
-- [Nature Methods](#nature-methods) (5편)
-- [American Journal of Human Genetics](#american-journal-of-human-genetics) (2편)
+- [Nature Methods](#nature-methods) (1편)
+- [Molecular Psychiatry](#molecular-psychiatry) (1편)
 - [Biological Psychiatry](#biological-psychiatry) (5편)
 - [Nature Communications](#nature-communications) (5편)
-- [Nucleic Acids Research](#nucleic-acids-research) (3편)
 
 ## Nature
 
-### Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch
-**저자**: Paolo Di Achille, Lawrence Cai, Jiang Wu, Mingwu Gao, Bhavna Daryani, Jonathan Wang, Utkarsh Khanna, Ho Ko, Anupam Pathak, Mark Malhotra, Shwetak Patel, Jacqueline B. Shreibati, Stephen P. Juraschek, Pramod Rudrapatna, Matthew Thompson, Ming-Zher Poh · **게재일**: 2026-11-05 · [원문 링크](https://www.nature.com/articles/s41586-026-11336-3)
+### Medicinal plants, lessons from mushrooms and the power of smell: Books in brief
+**저자**: Andrew Robinson · **게재일**: 2026-11-06 · [원문 링크](https://www.nature.com/articles/d41586-026-03595-x)
 
-**Abstract (EN)**: Nature, Published online: 05 November 2026; doi:10.1038/s41586-026-11336-3 Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Hydrogen Derivatives Enable Cost-Effective Carbon Neutrality in China
-**저자**: Xinyu Chen, Xinyang Guo, Xi Yang, Jiashuo Li, Michael McElroy · **게재일**: 2026-11-05 · [원문 링크](https://www.nature.com/articles/s41586-026-11351-4)
-
-**Abstract (EN)**: Nature, Published online: 05 November 2026; doi:10.1038/s41586-026-11351-4 Hydrogen Derivatives Enable Cost-Effective Carbon Neutrality in China
+**Abstract (EN)**: Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03595-x Andrew Robinson reviews five of the best science picks.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### The surprising reason women in academia do more parenting than men
-**저자**: Rachel Fieldhouse · **게재일**: 2026-11-05 · [원문 링크](https://www.nature.com/articles/d41586-026-03568-0)
+### Cholera bacterium’s good deed: inspiring a glue with rare properties
+**게재일**: 2026-11-06 · [원문 링크](https://www.nature.com/articles/d41586-026-03630-x)
 
-**Abstract (EN)**: Nature, Published online: 05 November 2026; doi:10.1038/d41586-026-03568-0 Policies designed to keep women in the workforce could be entrenching gendered parenting roles.
+**Abstract (EN)**: Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03630-x An adhesive that binds strongly even under water was inspired by a protein made by a feared pathogen.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Briefing Chat: Meet the snakes that cartwheel away from trouble
+**저자**: Benjamin Thompson, Maren Hunsberger · **게재일**: 2026-11-06 · [원문 링크](https://www.nature.com/articles/d41586-026-03632-9)
+
+**Abstract (EN)**: Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03632-9 Nature staff discuss an acrobatic reptile defence strategy — plus, evidence of fossilized dinosaur blood cells.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Preprint platform offers to pay researchers to review papers, but questions remain
+**저자**: Xiaoying You · **게재일**: 2026-11-06 · [원문 링크](https://www.nature.com/articles/d41586-026-03442-z)
+
+**Abstract (EN)**: Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03442-z A reviewer can earn US$200 through XSci’s scheme if they deliver their work within five days.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### In Vivo CRISPR Base Editing of ANGPTL3 for Durable Lipid Lowering
+**저자**: Taiji Mizoguchi, Jamie E. DeNizio, Alexandra C. Chadwick, Anne Marie Mazzola, Maxwell P. Brown, Shashank Mishra, Manashree Damle, Yuri Matsumoto, Victoria Neang, Ryan Garrity, Manini Mantri, Joy Oshoname Olorife, Hui-Ting Hsu, Vian Peshdary, Estela Shabani, John D. Ganey, Ryan Santos, Anthony Federico, Sara P. Garcia, Pengying Hao, Yue Wu, Zachary Glass, Lisa N. Kasiewicz, Caroline Summers, Athul Sanjeev, Kui Wang, Steven D. Briscoe, Robert S. Rosenson, Christopher J. Cheng, Ellen Rohde, Joseph Biedenkapp, Victor Farutin, Andrew M. Bellinger, Kiran Musunuru, Sekar Kathiresan, Troy Lister, Kallanthottathil G. Rajeev, Richard G. Lee, Amit V. Khera · **게재일**: 2026-11-06 · [원문 링크](https://www.nature.com/articles/s41586-026-11233-9)
+
+**Abstract (EN)**: Nature, Published online: 06 November 2026; doi:10.1038/s41586-026-11233-9 In Vivo CRISPR Base Editing of ANGPTL3 for Durable Lipid Lowering
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -83,24 +96,38 @@
 
 ## Nature Genetics
 
-### AI-guided cancer survival prediction could spare some children high-dose brain radiation
-**게재일**: 2026-11-05 · [원문 링크](https://www.nature.com/articles/s41588-026-02816-3)
+### Mapping somatic mutations in every corner of the genome
+**저자**: Margot Brandt · **게재일**: 2026-11-06 · [원문 링크](https://www.nature.com/articles/s41588-026-02854-x)
 
-**Abstract (EN)**: Nature Genetics, Published online: 05 November 2026; doi:10.1038/s41588-026-02816-3 We developed a multimodal artificial intelligence (AI)-based model to generate time-dependent, individualized survival predictions for patients with childhood brain tumors. This may help better identify candidates for therapy de-escalation, maintaining survival while reducing lifelong treatment-related side effects.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### An information-theoretic framework for inferring T cell dynamics from single-cell RNA and T cell receptor sequencing
-**저자**: Nicholas Ceglia, Sohrab Salehi, Zachary M. Sethna, Yuval Elhanati, Samuel S. Freeman, Olga Lyudovyk, Bharat Burman, Andrew Chow, Dmitriy Zamarin, Susan DeWolf, Sanam Shahid, Viktoria Bojilova, Nicole Rusk, Vinod P. Balachandran, Andrew McPherson, Sohrab P. Shah, Benjamin D. Greenbaum · **게재일**: 2026-11-05 · [원문 링크](https://www.nature.com/articles/s41588-026-02781-x)
-
-**Abstract (EN)**: Nature Genetics, Published online: 05 November 2026; doi:10.1038/s41588-026-02781-x T cells provide a unique setting for quantification of the relationship between genotype and phenotype. The authors introduce TCRi, an information-theoretic framework for this, and find mutual information to be a robust determinant of immunotherapeutic response.
+**Abstract (EN)**: Nature Genetics, Published online: 06 November 2026; doi:10.1038/s41588-026-02854-x Mapping somatic mutations in every corner of the genome
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Multiscale multimodal integration of spatial omics through a deep generative model with CORAL
-**저자**: Siyu He, Matthew Bieniosek, Jingtian Zhou, Dongyuan Song, Benjamin Chidester, Zhenqin Wu, Joseph Boen, Guiping Wang, Ahmed O. Kaseb, Padmanee Sharma, Alexandro E. Trevino, James Zou · **게재일**: 2026-11-05 · [원문 링크](https://www.nature.com/articles/s41588-026-02821-6)
+### MMEJ repair safeguards cancer ecDNA
+**저자**: Hui Hua · **게재일**: 2026-11-06 · [원문 링크](https://www.nature.com/articles/s41588-026-02857-8)
 
-**Abstract (EN)**: Nature Genetics, Published online: 05 November 2026; doi:10.1038/s41588-026-02821-6 Cross-scale spatial Omics Registration and Analysis via graph Learning is a deep generative model that integrates multiscale spatial multi-omics data using graph-attention aggregation mechanisms, enabling a comprehensive spatial analysis.
+**Abstract (EN)**: Nature Genetics, Published online: 06 November 2026; doi:10.1038/s41588-026-02857-8 MMEJ repair safeguards cancer ecDNA
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### New neuronal microexons linked to autism
+**저자**: Tiago Faial · **게재일**: 2026-11-06 · [원문 링크](https://www.nature.com/articles/s41588-026-02855-w)
+
+**Abstract (EN)**: Nature Genetics, Published online: 06 November 2026; doi:10.1038/s41588-026-02855-w New neuronal microexons linked to autism
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Quantitative lineage tracing in mouse embryogenesis
+**저자**: Petra Gross · **게재일**: 2026-11-06 · [원문 링크](https://www.nature.com/articles/s41588-026-02856-9)
+
+**Abstract (EN)**: Nature Genetics, Published online: 06 November 2026; doi:10.1038/s41588-026-02856-9 Quantitative lineage tracing in mouse embryogenesis
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Efficient and accurate mixed model association tool for single-cell eQTL analysis
+**저자**: Wei Zhou, Anna S. E. Cuomo, Linfeng Hu, Angli Xue, Masahiro Kanai, Yijia Christiana Liu, Taeyeop Kang, Youngdae Kim, Alex Rodriguez, Ravi K. Madduri, Bram L. Gorissen, Grant Chau, Anne Senabouth, M. Grace Gordon, Richard Perez, Pooja Kathail, Min Cheol Kim, Chun Jimmie Ye, Chirag Krishna, Ramnik J. Xavier, Daniel G. MacArthur, Joseph E. Powell, Mark J. Daly, Benjamin M. Neale · **게재일**: 2026-11-06 · [원문 링크](https://www.nature.com/articles/s41588-026-02798-2)
+
+**Abstract (EN)**: Nature Genetics, Published online: 06 November 2026; doi:10.1038/s41588-026-02798-2 SAIGE-QTL is a framework for eQTL mapping that directly models single-cell read counts using a Poisson mixed model, achieving improved statistical efficiency and power and enabling rare variant set-based testing in the single-cell eQTL setting.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -108,10 +135,10 @@
 
 ## Nature Neuroscience
 
-### Editorial Expression of Concern: NgR1 and NgR3 are receptors for chondroitin sulfate proteoglycans
-**저자**: Travis L. Dickendesher, Katherine T. Baldwin, Yevgeniya A. Mironova, Yoshiki Koriyama, Stephen J. Raiker, Kim L. Askew, Andrew Wood, Cédric G. Geoffroy, Binhai Zheng, Claire D. Liepmann, Yasuhiro Katagiri, Larry I. Benowitz, Herbert M. Geller, Roman J. Giger · **게재일**: 2026-11-05 · [원문 링크](https://www.nature.com/articles/s41593-026-02534-3)
+### Author Correction: A genome-wide analysis of the shared genetic risk architecture of complex neurological and psychiatric disorders
+**저자**: Olav B. Smeland, Gleda Kutrolli, Shahram Bahrami, Vera Fominykh, Nadine Parker, Julian Fuhrer, Guy F. L. Hindley, Linn Rødevand, Piotr Jaholkowski, Markos Tesfaye, Pravesh Parekh, Torbjørn Elvsåshagen, Andrew D. Grotzinger, Nils Eiel Steen, Dennis van der Meer, Kevin S. O’Connell, Srdjan Djurovic, Anders M. Dale, Alexey A. Shadrin, Oleksandr Frei, Ole A. Andreassen · **게재일**: 2026-11-06 · [원문 링크](https://www.nature.com/articles/s41593-026-02536-1)
 
-**Abstract (EN)**: Nature Neuroscience, Published online: 05 November 2026; doi:10.1038/s41593-026-02534-3 Editorial Expression of Concern: NgR1 and NgR3 are receptors for chondroitin sulfate proteoglycans
+**Abstract (EN)**: Nature Neuroscience, Published online: 06 November 2026; doi:10.1038/s41593-026-02536-1 Author Correction: A genome-wide analysis of the shared genetic risk architecture of complex neurological and psychiatric disorders
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -119,10 +146,10 @@
 
 ## Nature Machine Intelligence
 
-### Fractal basin geometry and the limits to predictability and reproducibility in deep learning
-**저자**: Andrew Ly, Pulin Gong · **게재일**: 2026-11-05 · [원문 링크](https://www.nature.com/articles/s42256-026-01336-3)
+### Towards ecologically meaningful foundation models
+**저자**: Ross J. Gardiner, Henry Cerbone, Hammed A. Akande, Carly H. Batist, Amber Cowans, Stella M. Felsinger, Premdeep S. Gill, Taniya Kapoor, Eliot T. Miller, Rodrigo Oyanedel, Steven Reece, Yan Ying Tan, Jonas Antony, Carlos Rodriguez-Pardo, Amy Hinsley, Micah Bowles, Sebastian A. Heilpern, Rachel H. Parkinson · **게재일**: 2026-11-06 · [원문 링크](https://www.nature.com/articles/s42256-026-01317-6)
 
-**Abstract (EN)**: Nature Machine Intelligence, Published online: 05 November 2026; doi:10.1038/s42256-026-01336-3 Deep learning outcomes are hard to predict and reproduce. Ly and Gong propose fractal basin geometry as a mechanism: starting points leading to different outcomes interweave at arbitrarily fine scales, so greater precision yields little improvement.
+**Abstract (EN)**: Nature Machine Intelligence, Published online: 06 November 2026; doi:10.1038/s42256-026-01317-6 Ecology struggles to make broad predictions, as ecological data and theories are scattered across many different sources, scales and approaches. Gardiner et al. propose to create ecological foundation models, which combine large, multi-modal ecological datasets with ecological theory, as a way to create more generalizable and predictive models.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -130,10 +157,10 @@
 
 ## Nature Computational Science
 
-### Scalable physical deep learning using optical dynamics with state-skipping training and single-map architecture
-**저자**: Yongbo Zhang, Mitsumasa Nakajima, Katsuma Inoue, Toshikazu Hashimoto, Yasuo Kuniyoshi, Kohei Nakajima · **게재일**: 2026-11-05 · [원문 링크](https://www.nature.com/articles/s43588-026-01075-w)
+### Ab initio simulation of excited-state potential energy surfaces with transferable deep quantum Monte Carlo
+**저자**: Zeno Schätzle, P. Bernát Szabó, Alice Cuzzocrea, Matěj Mezera, Frank Noé · **게재일**: 2026-11-06 · [원문 링크](https://www.nature.com/articles/s43588-026-01065-y)
 
-**Abstract (EN)**: Nature Computational Science, Published online: 05 November 2026; doi:10.1038/s43588-026-01075-w This study presents a scalable, efficient framework for unconventional computing with physical neural networks. It replaces dense connections with uncoupled one-dimensional dynamics, simplifies training, improves performance and reduces resource use.
+**Abstract (EN)**: Nature Computational Science, Published online: 06 November 2026; doi:10.1038/s43588-026-01065-y Transferable deep-learning quantum Monte Carlo for molecular excited states is introduced. Sharing parameters, an ansatz represents the wavefunction across molecular geometries and states, reducing the cost of modeling potential energy surfaces.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -141,56 +168,21 @@
 
 ## Nature Methods
 
-### Unlocking spatial diversity of circular RNAs with abcFISH
-**저자**: Seow Neng Chan, Jun Wei Pek · **게재일**: 2026-11-05 · [원문 링크](https://www.nature.com/articles/s41592-026-03288-3)
+### Author Correction: Microbial community resemblance methods differ in their ability to detect biologically relevant patterns
+**저자**: Justin Kuczynski, Zongzhi Liu, Catherine Lozupone, Daniel McDonald, Noah Fierer, Rob Knight · **게재일**: 2026-11-06 · [원문 링크](https://www.nature.com/articles/s41592-026-03336-y)
 
-**Abstract (EN)**: Nature Methods, Published online: 05 November 2026; doi:10.1038/s41592-026-03288-3 A new technique called abcFISH, a multiplex single-molecule fluorescence in situ hybridization strategy, enables spatial imaging of circular RNAs.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### DIRAC makes complex spatial multi-omic data simpler to analyze
-**게재일**: 2026-11-05 · [원문 링크](https://www.nature.com/articles/s41592-026-03298-1)
-
-**Abstract (EN)**: Nature Methods, Published online: 05 November 2026; doi:10.1038/s41592-026-03298-1 DIRAC (‘domain invariant representation through adaptive calibration’) is a framework that helps researchers to analyze complex spatial multi-omic data through two connected tasks: integrating omics layers within a sample and transferring annotations from reference datasets to new ones. Thus, DIRAC makes it easier to build interpretable tissue maps across multi-omic assays, platforms and biological systems.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Making AI approachable, one byte at a time
-**게재일**: 2026-11-05 · [원문 링크](https://www.nature.com/articles/s41592-026-03338-w)
-
-**Abstract (EN)**: Nature Methods, Published online: 05 November 2026; doi:10.1038/s41592-026-03338-w Introducing AI Bytes, a new educational column at Nature Methods that aims to simplify technical concepts in artificial intelligence for the life sciences research community.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Biological foundation models
-**저자**: Zijian Ma, James Zou · **게재일**: 2026-11-05 · [원문 링크](https://www.nature.com/articles/s41592-026-03269-6)
-
-**Abstract (EN)**: Nature Methods, Published online: 05 November 2026; doi:10.1038/s41592-026-03269-6 A foundation model is trained on a broad body of data to learn general patterns and can then be adapted to many tasks.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Nondisruptive 3D profiling of combinations of epigenetic marks in single cells
-**저자**: Yanbo Chen, Jonathan S. D. Radda, Myles H. Alderman III, Shengyan Jin, Yubao Cheng, Yuan Zhang, Miao Liu, Andrew Z. Xiao, Siyuan Wang · **게재일**: 2026-11-05 · [원문 링크](https://www.nature.com/articles/s41592-026-03253-0)
-
-**Abstract (EN)**: Nature Methods, Published online: 05 November 2026; doi:10.1038/s41592-026-03253-0 Epi-PHR is an imaging method that maps combinations of epigenetic marks at single genes while preserving 3D genome structure, revealing how chromatin folding and histone modifications are linked among single-chromatin copies.
+**Abstract (EN)**: Nature Methods, Published online: 06 November 2026; doi:10.1038/s41592-026-03336-y Author Correction: Microbial community resemblance methods differ in their ability to detect biologically relevant patterns
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
 ---
 
-## American Journal of Human Genetics
+## Molecular Psychiatry
 
-### This month in The Journal
-**저자**: Paul W. Hook, Alyson B. Barnes · **게재일**: 2026-11-05 · [원문 링크](https://www.cell.com/ajhg/fulltext/S0002-9297(26)00387-3?rss=yes)
+### GluD1 modulates GluN2B-containing NMDAR function and plasticity at subicular synapses
+**저자**: Eric Purisic, Darielle Lewis-Sanders, Marian Zhong, Joshua Stamos, Tianhua Wang, Christian Thomas Valade, Markus Wöhr, Eric Sobie, Jinye Dai · **게재일**: 2026-11-06 · [원문 링크](https://www.nature.com/articles/s41380-026-03951-3)
 
-**Abstract (EN)**: Cross-phenotype associations can arise through pleiotropy, a process by which a single gene influences multiple traits. Vertical pleiotropy occurs when the genetic effect on one trait directly mediates the effect on another trait, whereas horizontal pleiotropy arises when the genetic effect indirectly mediates multiple traits through distinct biological mechanisms. Existing approaches for detecting both vertical and horizontal pleiotropy were largely developed for common variants and cannot determine whether shared gene-level rare variant burden association arises from concordant allelic effects or from distinct variants acting through different mechanisms.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Scaling haplospecific antisense oligonucleotides from N-of-1 to broad use in genetic disease populations by diplotyping
-**저자**: Olivia Kim-McManus, Pagé Goddard, Shahad Olsson, Liana Protopsaltis, Joseph Gleeson, Qing Zhang, Nafeesa Kahn, Ali Crawford, Stephen F. Kingsmore · **게재일**: 2026-11-05 · [원문 링크](https://www.cell.com/ajhg/fulltext/S0002-9297(26)00318-6?rss=yes)
-
-**Abstract (EN)**: Antisense oligonucleotides (ASOs) made for one individual’s extremely rare causal variant usually cannot help others. We show that by designing ASOs against common haplotypes rather than causal variants, a small set of pre-designed ASOs could treat most patients with a genetic disease, turning costly personalized medicine into scalable, population-wide treatment.
+**Abstract (EN)**: Molecular Psychiatry, Published online: 06 November 2026; doi:10.1038/s41380-026-03951-3 GluD1 modulates GluN2B-containing NMDAR function and plasticity at subicular synapses
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -237,63 +229,38 @@
 
 ## Nature Communications
 
-### Count the climate losses we prevent
-**저자**: Arthur Charpentier · **게재일**: 2026-11-05 · [원문 링크](https://www.nature.com/articles/s41467-026-79128-x)
+### CO 2 responsive nanoscopic and macroscopic materials directed by peptides
+**저자**: T. Farrokhi, S. V. Ceballos, S. M. Silva, M. B. Ross · **게재일**: 2026-11-07 · [원문 링크](https://www.nature.com/articles/s41467-026-79006-6)
 
-**Abstract (EN)**: Nature Communications, Published online: 05 November 2026; doi:10.1038/s41467-026-79128-x Climate adaptation reduces losses, but successful risk reduction often leaves no claim or expenditure that records the benefit. Avoided-loss accounts would preserve intervention-specific estimates and evidence across insurance, lending and public finance, without recognizing counterfactual losses as assets.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Entangled-to-packed crossover in nonlinear extensional rheology of entangled polymers
-**저자**: Yin Wang, Lin-Feng Wu, Yi-Bo Shao, Zhe Wang · **게재일**: 2026-11-05 · [원문 링크](https://www.nature.com/articles/s41467-026-78784-3)
-
-**Abstract (EN)**: Nature Communications, Published online: 05 November 2026; doi:10.1038/s41467-026-78784-3 Entanglements among long-chain macromolecules dictate the mechanical performance of polymeric materials and are described with the tube model but the validity of this model has been questioned for nonlinear extension. Here the authors reveal the key mechanism that governs the mechanical response during extension by elucidating the evolution of entanglements using computer simulations and theoretical analysis.
+**Abstract (EN)**: Nature Communications, Published online: 07 November 2026; doi:10.1038/s41467-026-79006-6 Stimuli responsive assemblies can offer precise control over behaviour, but use of gases for this control is rare. Here, the authors report the use of carbon dioxide for tuneable nanoparticle response, directed by changes in peptide structure.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Diacylglycerol Metabolism Drives Host–pathogen Responses During Enteric Infection in Drosophila
-**저자**: Xiaotong Li, Mohamed Mlih, Jason Karpac · **게재일**: 2026-11-05 · [원문 링크](https://www.nature.com/articles/s41467-026-79306-x)
+### Propofol induces sustained suppression of alcohol drinking via habenular activation in mice
+**저자**: Zheng Xu, Zhi-Jie Fan, Yi Mei, Yu-Mei Yu, Chao-chao Zhong, Qi Li, Xinran Zhuang, Lijuan Wang, Dongyu Zhou, Chen Zhu, Jun-Xia Yang, Hai-Lei Ding, Zhe Zhang, Song Zhang, Jun-Li Cao · **게재일**: 2026-11-07 · [원문 링크](https://www.nature.com/articles/s41467-026-79118-z)
 
-**Abstract (EN)**: Nature Communications, Published online: 05 November 2026; doi:10.1038/s41467-026-79306-x Li et al. reveal a lipid-dependent signaling axis that links intestinal epithelial cells and intestinal muscle to gut motility and bacterial pathogen clearance, offering mechanistic insight into how lipid dynamics orchestrate host defenses.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Engineering filamentous myosins for optical control of contractility
-**저자**: Sasha Zemsky, Allen Yesin, Paul V. Ruijgrok, Hawa Racine Thiam, Zev Bryant · **게재일**: 2026-11-05 · [원문 링크](https://www.nature.com/articles/s41467-026-78828-8)
-
-**Abstract (EN)**: Nature Communications, Published online: 05 November 2026; doi:10.1038/s41467-026-78828-8 Zemsky and colleagues employ protein engineering to create filamentous myosins controlled by light. These optogenetic motors enable spatiotemporal control of contractility in vitro and in cells, providing a tool for probing contractile actomyosin systems.
+**Abstract (EN)**: Nature Communications, Published online: 07 November 2026; doi:10.1038/s41467-026-79118-z The lateral habenula is known to regulate alcohol drinking behaviors in mice. Here, the authors show that a single dose of propofol reduces voluntary alcohol drinking in mice via hyperactivity of neurons in the lateral habenula, and through propofol interaction with the 5-HT2C receptor.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Energy-guided combinatorial co-optimization of antibody affinity and stability
-**저자**: Ariel Tennenhouse, Adva Mechaly, Tony Pham, Robert J. Oldham, Jake Y. Henry, Dorry X. Zhao, Thomas M. Moon, Isabel G. Elliott, Omri Porat, Jinny Kim, Yael Fridmann Sirkis, Sveta Gaiduk, Itay Talpir, Jamie Bird, Christopher Domalewski, Pei-Hsuan Chu, Andrew B. Dippel, Rebecca Croasdale-Wood, Daniel Christ, Gilad Kaplan, Mark S. Cragg, Sarel J. Fleishman · **게재일**: 2026-11-05 · [원문 링크](https://www.nature.com/articles/s41467-026-78946-3)
+### Mapping Future Energy Journeys Through Modeling the Global Transport of Synthetic Energy Carriers
+**저자**: Uwe Langenmayr, Julia Schuler, Viktor Slednev, Wolf Fichtner · **게재일**: 2026-11-07 · [원문 링크](https://www.nature.com/articles/s41467-026-78710-7)
 
-**Abstract (EN)**: Nature Communications, Published online: 05 November 2026; doi:10.1038/s41467-026-78946-3 Here, Tennenhouse et al. develop LAffAb, a structure-based method for designing CDR mutations to improve affinity and developability. By filtering mutations predicted to disrupt stability and foldability, LAffAb enables accurate, one-shot design.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
----
-
-## Nucleic Acids Research
-
-### Notch/NF-κB crosstalk signaling controls SASP gene expression during brain aging
-**게재일**: 2026-11-05 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1110/9013032?rss=1)
-
-**Abstract (EN)**: Abstract Brain aging is associated with chronic, low-grade inflammation known as inflammaging, which is largely driven by senescent glial cells secreting pro-inflammatory factors termed as senescence-associated secretory phenotype (SASP). In humans, the release of SASP factors in the brain is linked with an increased risk for the development of neurodegenerative disorders; thus, elucidating the underlying molecular mechanisms is essential for understanding the pathophysiology of brain aging. Both NF-κB and Notch signaling are known to regulate SASP expression; however, their mode of interaction in brain inflammaging is poorly understood. Here, we demonstrate that brain aging is broadly associated with NF-κB activation but Notch suppression using different transgenic mouse models. Astrocytic NF-κB activation in young mice was able to mimic premature SASP formation but repressed Notch signaling in parallel. Bioinformatic analyses further identified conserved crosstalk sites within SASP genes co-occupied by Notch/RBPJ and NF-κB transcription factors in vivo , allowing specific combinatorial regulation. Importantly, selective physical interactions enable that activated Notch can act as a negative modulator of NF-κB signaling at different molecular levels. Consistently, pharmacological activation of Notch in primary astrocytes significantly reduced NF-κB-driven SASP gene expression. Together, these findings identify Notch–NF-κB crosstalk as a potential therapeutic target to mitigate brain inflammaging.
+**Abstract (EN)**: Nature Communications, Published online: 07 November 2026; doi:10.1038/s41467-026-78710-7 This study maps cost-efficient global supply routes for renewable hydrogen and related fuels. It shows that infrastructure is as important as low hydrogen production costs, because pipelines, ports and coastal access enable affordable imports.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### New pathogenic ZNHIT3 variants causing fetal hydrops and lethality disrupt snoRNP assembly
-**게재일**: 2026-11-05 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1024/9013030?rss=1)
+### Author Correction: Programmable DNA pyrimidine base editing via engineered uracil-DNA glycosylase
+**저자**: Zongyi Yi, Xiaoxue Zhang, Xiaoxu Wei, Jiayi Li, Jiwu Ren, Xue Zhang, Yike Zhang, Huixian Tang, Xiwen Chang, Ying Yu, Wensheng Wei · **게재일**: 2026-11-06 · [원문 링크](https://www.nature.com/articles/s41467-026-79623-1)
 
-**Abstract (EN)**: Abstract ZNHIT3 is a conserved assembly factor required for biogenesis of box C/D small nucleolar ribonucleoprotein (snoRNP) complexes, which are key players in ribosome biogenesis. Pathogenic variants in ZNHIT3 cause Progressive Encephalopathy with Edema, Hypsarrhythmia, and Optic Atrophy (PEHO) syndrome, a severe neurodevelopmental disorder typically recognized postnatally. Here, we describe two fetuses from a single family who developed isolated hydrops in the early second trimester of pregnancy, resulting in intrauterine demise. Whole-genome quartet sequencing identified two new ZNHIT3 variants, c.40T &gt; C; p.(Cys14Arg) and c.251_254del; p.(Glu84Alafs*8), inherited from healthy parents that present as compound heterozygous alleles in both fetuses. Functional studies using a ZNHIT3 knockdown-rescue system in HEK293T cells demonstrated impaired proliferation and increased apoptosis and revealed distinct molecular consequences for the two variants. One variant produced a stable ZNHIT3 protein lacking the region required for interaction with NUFIP1 and efficient box C/D snoRNP assembly, whereas the second variant reduced ZNHIT3 protein abundance. Both variants impaired snoRNP assembly, reduced the abundance of select box C/D snoRNAs, and caused site-specific losses of ribosomal RNA (rRNA) 2′-O-methylation. These defects were accompanied by changes in ribosome biogenesis and reduced translational output. Together, our findings expand the phenotypic spectrum associated with ZNHIT3 deficiency to include severe antenatal disease and demonstrate that impaired box C/D snoRNP assembly and rRNA modification represent convergent molecular consequences of pathogenic ZNHIT3 variants.
+**Abstract (EN)**: Nature Communications, Published online: 06 November 2026; doi:10.1038/s41467-026-79623-1 Author Correction: Programmable DNA pyrimidine base editing via engineered uracil-DNA glycosylase
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Transcription factor CCTF1 plays an important role in regulating proteasome activity during archaeal cell division
-**게재일**: 2026-11-05 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1142/9013029?rss=1)
+### Agentic AI needs a science of interaction
+**저자**: Manlio De Domenico · **게재일**: 2026-11-06 · [원문 링크](https://www.nature.com/articles/s41467-026-78879-x)
 
-**Abstract (EN)**: Abstract Archaea of the order Sulfolobales exhibit a highly ordered cell cycle progression similar to that of eukaryotes. It has been demonstrated that degradation of the cell division protein CdvB by the proteasome controls the progression of cell division. However, how the proteasome itself is regulated during the cell cycle is not fully understood. Recently, the cyclically expressed ArsR (arsenical resistance operon repressor) family transcription factor CCTF1 (cell cycle transcription factor 1) was shown to repress expression of PAN (proteasome-activating nucleotidase) in Sulfolobus acidocaldarius . Here, using biochemical approaches, comparative transcriptomics, and proteomics, we provide further insights into the CCTF1 function and show that it regulates PAN expression in Saccharolobus islandicus by binding to an AT-rich palindromic sequence within the pan promoter. We also reassessed the role of the cyclically expressed protein kinase aCcrK in the regulation of proteasome activity and conclude that CCTF1, rather than aCcrK, is the primary factor controlling the proteasome activity. These findings advance our understanding of the proteasome-mediated cell cycle regulation in archaea.
+**Abstract (EN)**: Nature Communications, Published online: 06 November 2026; doi:10.1038/s41467-026-78879-x Here, the authors argue that agentic AI requires a shift from evaluating individual agents alone to analyzing interaction architectures, proposing a framework that links agent interactions, collective configurations and time-dependent outcomes.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
