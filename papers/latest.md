@@ -1,53 +1,52 @@
-# 📚 일일 논문 다이제스트 — 2026-11-10 (KST)
+# 📚 일일 논문 다이제스트 — 2026-11-11 (KST)
 
-**수집 저널 수**: 8개 · **논문 수**: 24편
+**수집 저널 수**: 7개 · **논문 수**: 23편
 
 > 영문 초록은 RSS 원본입니다. Claude Code 에서 `/translate-digest` 로 한국어 요약을 채워 넣으세요.
 
 ## 목차
 - [Nature](#nature) (5편)
 - [Nature Genetics](#nature-genetics) (1편)
-- [Nature Machine Intelligence](#nature-machine-intelligence) (1편)
-- [Nature Methods](#nature-methods) (3편)
-- [Nature Human Behaviour](#nature-human-behaviour) (3편)
+- [Nature Neuroscience](#nature-neuroscience) (1편)
+- [Nature Methods](#nature-methods) (1편)
 - [Biological Psychiatry](#biological-psychiatry) (5편)
 - [Nature Communications](#nature-communications) (5편)
-- [Nucleic Acids Research](#nucleic-acids-research) (1편)
+- [Nucleic Acids Research](#nucleic-acids-research) (5편)
 
 ## Nature
 
-### He spent a year on ‘Mars’: NASA science officer emerges from mock mission
-**저자**: Kaia Glickman · **게재일**: 2026-11-09 · [원문 링크](https://www.nature.com/articles/d41586-026-03588-w)
+### PhD funding mechanisms should protect the right to disagree with supervisors
+**저자**: Nicolás C. Zanetta-Colombo · **게재일**: 2026-11-10 · [원문 링크](https://www.nature.com/articles/d41586-026-03645-4)
 
-**Abstract (EN)**: Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03588-w Engineer Matthew Montgomery, who just finished a 378-day simulated Mars mission, talks about what it was like to be out of contact with the rest of humanity for a two-week blackout.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### The super El Niño is more than a climate shock – it’s a health one, too
-**저자**: Eoin McLaughlin, Matthias Beck · **게재일**: 2026-11-09 · [원문 링크](https://www.nature.com/articles/d41586-026-03628-5)
-
-**Abstract (EN)**: Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03628-5 Food shortages and disease outbreaks are to be expected and need to be addressed together.
+**Abstract (EN)**: Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03645-4 PhD funding mechanisms should protect the right to disagree with supervisors
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### How to make failure your friend and teacher in science
-**저자**: Dom Byrne · **게재일**: 2026-11-09 · [원문 링크](https://www.nature.com/articles/d41586-026-03654-3)
+### A practically perfect plesiosaur
+**게재일**: 2026-11-10 · [원문 링크](https://www.nature.com/articles/d41586-026-03278-7)
 
-**Abstract (EN)**: Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03654-3 Apprentices develop expertise after doing monotonous tasks repeatedly and learning from their mistakes. Scientists are no different, argues Ruth Morgan.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Carlo Rovelli says fundamental physics is overrated
-**저자**: Chris Stokel-Walker · **게재일**: 2026-11-09 · [원문 링크](https://www.nature.com/articles/d41586-026-03626-7)
-
-**Abstract (EN)**: Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03626-7 The theoretical physicist unpacks the need for more humility in science and whether artificial intelligence could ever become conscious.
+**Abstract (EN)**: Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03278-7 A very well preserved ancient marine reptile and a Latin poem that describes an optical phenomenon, in this week’s pick from the Nature archive.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### COP31 kicks off as planet faces imminent overshoot of 1.5 °C climate target
-**저자**: James Dinneen · **게재일**: 2026-11-09 · [원문 링크](https://www.nature.com/articles/d41586-026-03631-w)
+### Chile’s postdoc rules risk driving talent away
+**저자**: Eduardo Castro-Nallar, Juan Cristóbal Opazo, Cristóbal Galbán-Malagón · **게재일**: 2026-11-10 · [원문 링크](https://www.nature.com/articles/d41586-026-03643-6)
 
-**Abstract (EN)**: Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03631-w Scientists say governments must commit to carbon dioxide removal if world is to bring temperatures back down to safer limits.
+**Abstract (EN)**: Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03643-6 Chile’s postdoc rules risk driving talent away
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Students need AI-free spaces to learn core skills
+**저자**: Pablo Neira-Castro · **게재일**: 2026-11-10 · [원문 링크](https://www.nature.com/articles/d41586-026-03644-5)
+
+**Abstract (EN)**: Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03644-5 Students need AI-free spaces to learn core skills
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Why your physics project needs an anthropologist
+**저자**: Jaco de Swart · **게재일**: 2026-11-10 · [원문 링크](https://www.nature.com/articles/d41586-026-03623-w)
+
+**Abstract (EN)**: Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03623-w Picking a site for an observatory should be about more than science. Humanities scholars have a crucial role in responsible siting.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -55,21 +54,21 @@
 
 ## Nature Genetics
 
-### A multi-tissue atlas of genetic regulatory effects in sheep
-**저자**: Mian Gong, Ziyang Zhuang, Xiangrong Sun, Yuan Xu, Huanhuan Zhang, Yanan Wang, Dailu Guan, Ran Li, Xiaoning Lu, Zhonghao Bai, Pingjie Feng, Meiwen Song, Min Tian, Jingsheng Lu, Mingshan Wang, Xuemei Lu, Dongdong Wu, Peng Su, Peiyao Liu, Guoqing Zhang, Jianxin Shi, Mingzhu Shan, Yuanyuan Zhang, Zhu Meng, Hao Li, Xiaoyun He, Jianqi Yang, Yize Song, Xinyue Li, Xiaolong Du, Xiaoxu Zhang, Hao Yang, Jinyan Teng, Houcheng Li, Xiaoning Zhu, Huicong Zhang, Qing Lin, Di Zhu, Bingjin Lin, Xinfeng Liu, Jianquan Liu, Weijie Zheng, Wentao Gong, Bingxing An, Qi Zhang, Goutam Sahana, Mogens Sandø Lund, Cong Li, Jiazhong Guo, Xihong Wang, Yuwen Liu, Bingru Zhao, Xiaolei Yao, Yanli Zhang, Feng Wang, Wenxin Zheng, Juncheng Huang, Sen Wang, Jiang Di, Hanikezi Tulafu, Zhihong Liu, Shaoyin Fu, Yongbin Liu, Zijun Zhang, Yongju Zhao, Yinghui Lin, Jianning He, Jinshan Zhao, Hengbo Shi, Zhengguang Wang, Bingjie Li, Ruidong Xiang, Amanda J. Chamberlain, Weimin Wang, Qiuyue Liu, Jiyuan Li, Fenghua Lv, Ze Yan, Qien Yang, Guiping Zhao, Lin Jiang, Xianyong Lan, Huaijun Zhou, Richard P. M. A. Crooijmans, Ole Madsen, David E. MacHugh, John F. O’Grady, Marcel Amills, Gwenola Tosser-Klopp, Emily L. Clark, Jianlin Han, Mingxing Chu, Weiwei Wu, Yu Jiang, Zhangyuan Pan, Lingzhao Fang · **게재일**: 2026-11-09 · [원문 링크](https://www.nature.com/articles/s41588-026-02825-2)
+### Efficient count-based models improve power and robustness for large-scale single-cell eQTL mapping
+**저자**: Zixuan Eleanor Zhang, Artem Kim, Noah Suboc, Nicholas Mancuso, Steven Gazal · **게재일**: 2026-11-10 · [원문 링크](https://www.nature.com/articles/s41588-026-02830-5)
 
-**Abstract (EN)**: Nature Genetics, Published online: 09 November 2026; doi:10.1038/s41588-026-02825-2 This study presents SheepGTEx, a comprehensive multi-tissue atlas of genetic regulatory variants derived from 6,761 samples across 51 tissues, providing insights into complex traits, population selection and domestication history in sheep.
+**Abstract (EN)**: Nature Genetics, Published online: 10 November 2026; doi:10.1038/s41588-026-02830-5 This study presents jaxQTL, an efficient count-based pseudobulk single-cell eQTL mapping framework. When applied to OneK1K data, jaxQTL discovers more eGenes than existing methods while running faster.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
 ---
 
-## Nature Machine Intelligence
+## Nature Neuroscience
 
-### Multimodal cell foundation models require synergistic integration beyond alignment
-**저자**: Till Richter, Eric Zimmermann, James Hall, Fabian J. Theis, Srivatsan Raghavan, Peter S. Winter, Ava P. Amini, Lorin Crawford · **게재일**: 2026-11-09 · [원문 링크](https://www.nature.com/articles/s42256-026-01328-3)
+### Information formatting in neuronal populations predicts differential functional contributions to behavior
+**저자**: Douglas A. Ruff, Sol K. Markman, Jason Z. Kim, Marlene R. Cohen · **게재일**: 2026-11-10 · [원문 링크](https://www.nature.com/articles/s41593-026-02514-7)
 
-**Abstract (EN)**: Nature Machine Intelligence, Published online: 09 November 2026; doi:10.1038/s42256-026-01328-3 Richter et al. show that simply aligning different types of biological data does not fully integrate them, revealing when data repeat the same information and, conversely, when they provide complementary insights.
+**Abstract (EN)**: Nature Neuroscience, Published online: 10 November 2026; doi:10.1038/s41593-026-02514-7 Using experiments in monkeys and modeling, the authors demonstrate that the formatting of population information predicts the contribution of different brain areas to behavior.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -77,49 +76,10 @@
 
 ## Nature Methods
 
-### High school science ambitions
-**저자**: Vivien Marx · **게재일**: 2026-11-09 · [원문 링크](https://www.nature.com/articles/s41592-026-03323-3)
+### In situ profiling of plasma cell clonality with image-based single-cell transcriptomics
+**저자**: Evan Yang, Jose Aceves-Salvador, Carlos Castrillon, Uli S. Herrmann, Elliot H. Akama-Garren, Michael C. Carroll, Jeffrey R. Moffitt · **게재일**: 2026-11-10 · [원문 링크](https://www.nature.com/articles/s41592-026-03296-3)
 
-**Abstract (EN)**: Nature Methods, Published online: 09 November 2026; doi:10.1038/s41592-026-03323-3 The Brain Bee competitions let high schoolers leap toward a science career goal.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Looking back on the adolescence of GFP research
-**저자**: Atsushi Miyawaki · **게재일**: 2026-11-09 · [원문 링크](https://www.nature.com/articles/s41592-026-03335-z)
-
-**Abstract (EN)**: Nature Methods, Published online: 09 November 2026; doi:10.1038/s41592-026-03335-z Long-standing mysteries surrounding GFP were uncovered in the latter half of the 1990s. This special gift from the Aequorea victoria jellyfish was not a coincidence but destiny.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Deciphering the gene-centric spatial dynamics across tissue and time with GeneSPOT
-**저자**: Qi Zou, Zhikang Wang, Sijie Li, Senlin Lin, Chuangyi Han, Yan Cui, Shengxi Li, Lin Wang, Daoliang Zhang, Wei Zhang, Bin-Zhi Qian, Rui Gao, Zhiyuan Yuan · **게재일**: 2026-11-09 · [원문 링크](https://www.nature.com/articles/s41592-026-03308-2)
-
-**Abstract (EN)**: Nature Methods, Published online: 09 November 2026; doi:10.1038/s41592-026-03308-2 GeneSPOT is a framework that enables gene-centric exploration of spatial transcriptomic data.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
----
-
-## Nature Human Behaviour
-
-### AI ‘slop’ is a social judgement
-**저자**: Richard Jean So, Hoyt Long, Cody Kommers, Mina Lee, Emily Wenger, Peter West, Eamon Duede, Ari Holtzman, Chenhao Tan · **게재일**: 2026-11-09 · [원문 링크](https://www.nature.com/articles/s41562-026-02639-6)
-
-**Abstract (EN)**: Nature Human Behaviour, Published online: 09 November 2026; doi:10.1038/s41562-026-02639-6 Artificial intelligence (AI)-generated content increasingly saturates our information environment. Efforts to detect and remove it are failing. We propose that calling AI-generated content ‘slop’ is best understood as a social judgement: what a community recognizes as unwanted AI content. Studying AI slop this way makes it tractable, measurable and governable.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Long-term development of a motor memory
-**저자**: David W. Franklin, Pascal Nietschmann, Sae Franklin · **게재일**: 2026-11-09 · [원문 링크](https://www.nature.com/articles/s41562-026-02622-1)
-
-**Abstract (EN)**: Nature Human Behaviour, Published online: 09 November 2026; doi:10.1038/s41562-026-02622-1 Franklin et al. examine how simple motor adaptation is developed with thousands of training trials over multiple weeks to study the long-term development of a motor memory.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### A natural field experiment on the effectiveness of economic sanctions before and after the Russian invasion of Ukraine
-**저자**: Michael G. Findley, Daniel L. Nielson, J. C. Sharman · **게재일**: 2026-11-09 · [원문 링크](https://www.nature.com/articles/s41562-026-02591-5)
-
-**Abstract (EN)**: Nature Human Behaviour, Published online: 09 November 2026; doi:10.1038/s41562-026-02591-5 A field experiment by Findley et al. finds that financial sanctions on Russian officials had little effect on access to banking and corporate services before the 2022 invasion of Ukraine, but significantly reduced access afterwards.
+**Abstract (EN)**: Nature Methods, Published online: 10 November 2026; doi:10.1038/s41592-026-03296-3 BCR-MERFISH enables tracking of plasma cell clones by combining V gene-specific detection with spatial transcriptomics.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -127,38 +87,38 @@
 
 ## Biological Psychiatry
 
-### The Use of Large Language Models in Literature Reviews of Biological Psychiatry Research: Promises and Pitfalls
-**저자**: Elvisha Dhamala, David Goldman, Tiffany C. Ho, Noah S. Philip, Sarah W. Yip · **게재일**: 2026-11-09 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01664-1/fulltext?rss=yes)
-
-**Abstract (EN)**: Scientific literature reviews require extensive planning, literature searches, screening, data extraction, synthesis, insight, and reporting. The volume of published literature reviews has grown substantially, with unsolicited review submissions to Biological Psychiatry journals alone more than doubling in the last five years. Although authors have long utilized powerful tools including electronic databases, search engines, and text mining scripts, recent advances in artificial intelligence (AI), particularly large language models (LLMs), offer unprecedented capabilities to perform multiple review processes with minimal supervision.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
 ### Guide for Authors
-**게재일**: 2026-12-01 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01597-0/fulltext?rss=yes)
+**게재일**: 2026-12-15 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01628-8/fulltext?rss=yes)
 
 **Abstract (EN)**: Biological Psychiatry, founded in 1969, is an official journal of the Society of Biological Psychiatry and the first in the Biological Psychiatry family of journals. Companion titles include Biological Psychiatry: Cognitive Neuroscience and Neuroimaging and Biological Psychiatry: Global Open Science. The Society’s purpose is to promote excellence in scientific research and education in fields that investigate the nature, causes, mechanisms, and treatments of disorders of thought, emotion, and behavior.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
 ### Table of Contents
-**게재일**: 2026-12-01 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01596-9/fulltext?rss=yes)
+**게재일**: 2026-12-15 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01627-6/fulltext?rss=yes)
 
 **Abstract (EN)**: (초록이 제공되지 않았습니다.)
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
 ### Subscribers Page
-**게재일**: 2026-12-01 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01595-7/fulltext?rss=yes)
+**게재일**: 2026-12-15 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01626-4/fulltext?rss=yes)
 
 **Abstract (EN)**: (초록이 제공되지 않았습니다.)
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
 ### Editorial Board Page
-**게재일**: 2026-12-01 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01594-5/fulltext?rss=yes)
+**게재일**: 2026-12-15 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01625-2/fulltext?rss=yes)
 
 **Abstract (EN)**: (초록이 제공되지 않았습니다.)
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Reviewer Acknowledgments
+**게재일**: 2026-12-15 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01587-8/fulltext?rss=yes)
+
+**Abstract (EN)**: The editors gratefully acknowledge the assistance of the following:
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -166,38 +126,38 @@
 
 ## Nature Communications
 
-### A national baseline for methane sink habitats and methanotroph diversity
-**저자**: KS Knudsen, M. Sereika, TBN Jensen, F. Delogu, T. Schmider, C. Jiang, RH Kirkegaard, AT Tveit, PH Nielsen, M. Albertsen, CM Singleton · **게재일**: 2026-11-10 · [원문 링크](https://www.nature.com/articles/s41467-026-79316-9)
+### Pico-X: a 24.9 nanowatt microcontroller for long-duration autonomous operation in flexible landing-pad sensor networks
+**저자**: Yuyang Xiong, Xinlong Mao, Yanfeng Jiang · **게재일**: 2026-11-10 · [원문 링크](https://www.nature.com/articles/s41467-026-79332-9)
 
-**Abstract (EN)**: Nature Communications, Published online: 10 November 2026; doi:10.1038/s41467-026-79316-9 In this study, the authors use metagenomics to map the diverse and previously unknown bacteria responsible for taking up methane across Denmark’s varied environments and highlight the natural habitats and methanotroph species with the potential for methane mitigation.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Retraction Note: Senescent immune cells accumulation promotes brown adipose tissue dysfunction during aging
-**저자**: Xu Feng, Liwen Wang, Ruoyu Zhou, Rui Zhou, Linyun Chen, Hui Peng, Yan Huang, Qi Guo, Xianghang Luo, Haiyan Zhou · **게재일**: 2026-11-09 · [원문 링크](https://www.nature.com/articles/s41467-026-79227-9)
-
-**Abstract (EN)**: Nature Communications, Published online: 09 November 2026; doi:10.1038/s41467-026-79227-9 Retraction Note: Senescent immune cells accumulation promotes brown adipose tissue dysfunction during aging
+**Abstract (EN)**: Nature Communications, Published online: 10 November 2026; doi:10.1038/s41467-026-79332-9 Researchers present Pico-X, a programmable microcontroller designed for sparse event-driven sensing. Operating at nanowatt power levels, it enables long-duration autonomous monitoring and reliable event detection in distributed flexible sensor networks.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Cancer-associated fibroblasts as architects of tumor immune geography and lymphoid organization
-**저자**: Chia-Hsin Hsu, Rosyli F. Reveron-Thornton, Rithanya Sivasubramanian, Michael T. Longaker, Daniel Delitto, Deshka S. Foster · **게재일**: 2026-11-09 · [원문 링크](https://www.nature.com/articles/s41467-026-79106-3)
+### Cryo-EM reveals conserved baseplate-architecture and distinct accessory-protein assemblies in mycobacteriophages Claus, Corndog and Mysterious
+**저자**: Sunil Kumar Tewary, Chun-Hsiung Wang, Ming-Ching Lin, Melvin C. Shen, Li-An Tsai, Jitendra Maharana, Ronelito J. Perez, Chi-En Mou, Graham F. Hatfull, Todd L. Lowary, Meng-Chiao Ho · **게재일**: 2026-11-10 · [원문 링크](https://www.nature.com/articles/s41467-026-79213-1)
 
-**Abstract (EN)**: Nature Communications, Published online: 09 November 2026; doi:10.1038/s41467-026-79106-3 Cancer-associated fibroblasts (CAFs) are a heterogeneous population of stromal cells that participate in the formation of tertiary lymphoid structures (TLSs). Here, the authors review the current knowledge on how CAF subsets shape the organization and function of immune cells within TLS and discuss the clinical implications of these CAF-TLS interactions.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Reply to: Comment on “Self-organizing neuromorphic nanowire networks as stochastic dynamical systems”
-**저자**: Gianluca Milano, Fabio Michieletti, Davide Pilati, Carlo Ricciardi, Enrique Miranda · **게재일**: 2026-11-09 · [원문 링크](https://www.nature.com/articles/s41467-026-77956-5)
-
-**Abstract (EN)**: Nature Communications, Published online: 09 November 2026; doi:10.1038/s41467-026-77956-5 Reply to: Comment on “Self-organizing neuromorphic nanowire networks as stochastic dynamical systems”
+**Abstract (EN)**: Nature Communications, Published online: 10 November 2026; doi:10.1038/s41467-026-79213-1 Atomic-resolution structures of three mycobacteriophages reveal a conserved baseplate core decorated by diverse accessory proteins, showing how related siphophages build distinct baseplate architectures from a common structural core.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### The transcriptional regulator IκBζ is essential for ILC2 effector functions
-**저자**: Irina R. Iten, Ivan Berest, Nikolaos D. Sidiropoulos, Benedetta Fiordi, Xiaogang Feng, Gariné Magarditchian, Laura I. Fisch, Daniela Kramer, Camilla Jandus, Christoph Schneider, Manfred Kopf · **게재일**: 2026-11-09 · [원문 링크](https://www.nature.com/articles/s41467-026-78876-0)
+### A lactate-fatty acid loop drives prostate cancer bone colonization by mediating metabolic interplay between tumor cells and osteoblasts
+**저자**: Renuka Dahiya, Chihyean Ong, Gigani Dharshan, Megan M. Barry, Cheyenne A. Ernst, Minhyung Kim, Jin Wu, Vasanta Putluri, Spencer R. Rosario, Wiam Bshara, Jianmin Zhang, Nagireddy Putluri, Zbigniew Gugala, Subhamoy Dasgupta, Hai Wang · **게재일**: 2026-11-10 · [원문 링크](https://www.nature.com/articles/s41467-026-79651-x)
 
-**Abstract (EN)**: Nature Communications, Published online: 09 November 2026; doi:10.1038/s41467-026-78876-0 Group 2 innate lymphoid cells (ILC2) are important for the anti-helminth immune response. Here the authors show that the effector program of ILC2s depends on transcriptional regulation of the alarmins IL-25 and IL-33 by IκBζ, leading to efficient hookworm clearance in a mouse model.
+**Abstract (EN)**: Nature Communications, Published online: 10 November 2026; doi:10.1038/s41467-026-79651-x Bone metastases in advanced prostate cancer remain difficult to treat and are associated with poor outcomes. Here, the authors show that bone-colonizing prostate tumor cells exploit lactate uptake via MCT1 to fuel tumor growth and promote osteogenesis, identifying MCT1 inhibition as a potential therapeutic strategy.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### The representational geometry of cognitive maps under cognitive control
+**저자**: Seongmin A. Park, Maryam Zolfaghar, Jacob Russin, Douglas S. Miller, Randall C. O’Reilly, Erie D. Boorman · **게재일**: 2026-11-10 · [원문 링크](https://www.nature.com/articles/s41467-026-77621-x)
+
+**Abstract (EN)**: Nature Communications, Published online: 10 November 2026; doi:10.1038/s41467-026-77621-x The brain organizes relationships between entities into cognitive maps. Here, the authors show that complementary stable and context-dependent representational geometries balance stability and behavioral flexibility, with their geometry shaped by cognitive control.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Electric vehicle battery materials supply disruptions can be mitigated&#xa0; with chemistry changes and recycling
+**저자**: Jason O’Connor, Karan Bhuwalka, Jeremy J. Michalek, Elsa A. Olivetti, Abigail Randall, Richard Roth, Kate S. Whitefoot · **게재일**: 2026-11-10 · [원문 링크](https://www.nature.com/articles/s41467-026-79046-y)
+
+**Abstract (EN)**: Nature Communications, Published online: 10 November 2026; doi:10.1038/s41467-026-79046-y This study shows that disruptions in US battery materials supply could cost tens of billions of dollars. However, feasible changes in battery chemistry and increasing recycled lithium supply largely reduce the consequences of the disruptions.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -205,10 +165,38 @@
 
 ## Nucleic Acids Research
 
-### Histone H3.3 subvariant H3mm15 is required for normal spermatogenesis by regulating gene expression
-**게재일**: 2026-11-09 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag994/9010721?rss=1)
+### Cell-free expression and NGS-powered substrate profiling reveal a thermostable metagenomic meganuclease from an extreme environment with novel specificity
+**게재일**: 2026-11-10 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag992/9026655?rss=1)
 
-**Abstract (EN)**: Abstract Histone H3 variants play a fundamental role in chromatin regulation, contributing to gene expression. While the functional diversity of H3.3 subvariants remains largely unexplored, we identified H3mm15 as a testis-expressed H3.3 subvariant that regulates meiotic transcription. Using RNA sequencing and variant-specific reverse-transcription quantitative PCR, we demonstrate here that H3mm15 is expressed predominantly in the testis. Loss of H3mm15 leads to seminiferous tubule disorganization and altered expression of spermatogenesis-related genes. Chromatin profiling reveals that H3mm15 is relatively enriched at promoter-proximal regions compared with H3.3, despite its lower overall chromatin incorporation and lower nucleosomal stability. Functional assays show that H3mm15 has a more moderate impact on transcriptional responses to stimuli than H3.3. Although H3mm15 forms a less stable nucleosome, its reduced stability does not confer enhanced transcription by RNAPII in vitro . Our findings suggest the existence of an H3.3 sub-barcode mechanism, in which structurally distinct H3.3 subvariants differentially regulate chromatin states and contribute to gene regulation during spermatogenesis.
+**Abstract (EN)**: Abstract As an alternative to historical enzyme isolation, metagenomic databases (e.g. MGnify) provide information on vast unculturable microbial diversity, including extreme environments, and constitute an enormous source of functional proteins. Conservative mining of these data by close sequence homology alone tends to identify merely different versions of known enzymes. Here we present a discovery strategy for meganucleases based on wider capture of less homologous enzymes in metagenomic databases, and incorporating metadata with their homology. We use cell-free expression to bypass host incompatibility and the need for purification, along with deep sequencing for experimental assessment of substrate specificity and cleavage pattern, thereby circumventing classical gel-based profiling. Specifically, we discovered the temperature-stable (&gt;55°C), intron-encoded LAGLIDADG meganuclease I-MG11 that recognizes a GC-rich 17 base pair sequence to generate 4-nt palindromic 3′-overhangs—the first monomeric meganuclease to produce such overhangs. Co-folding models of I-MG11 bound to DNA provide a structural context for enzyme–DNA interactions, highlighting differences from other monomeric LAGLIDADG meganucleases (e.g. I-SceI) shaped by InDels (insertion–deletions) in the DNA-binding region that may cause specificity changes. Our strategy streamlines general bona fide identification and annotation of meganucleases, while the unique properties of I-MG11 expand the toolbox of molecular genome engineering.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Microfluidic concatemer sequencing unveils cooperative and competitive enhancer clusters in gene regulation
+**게재일**: 2026-11-10 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1146/9026654?rss=1)
+
+**Abstract (EN)**: Abstract Chromatin looping plays a pivotal role in eukaryotic gene regulation; however, technical limitations have hindered the comprehensive characterization of higher-order interactions among genomic loci. As a result, key questions, such as whether enhancers function cooperatively or competitively at the single-molecule and ensemble levels, remain largely unresolved. Here, we present Drop-t, a novel microfluidics-based method that enables systematic profiling of higher-order chromatin architecture at both the single-molecule and population scales. We demonstrate that Drop-t is not only resistant to common ligation-induced DNA entanglements, which frequently cause nanopore clogging, but also provides greater relevance for elucidating regulatory mechanisms compared to existing ligation-free approaches. Using Drop-t, we uncovered extensive, previously underappreciated non-specific enhancer–promoter interactions (EPIs) and showed that these may influence transcriptional variability by competing with specific EPIs. Notably, we identified two major gene classes, dictator genes and leader genes, based on whether their promoters are predominantly regulated by competitive or cooperative specific EPIs, respectively. Together, our findings established Drop-t as a powerful tool for decoding the higher-order organizational principles of chromatin architecture and their impact on transcriptional regulation and variability.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Transcription factor 3 cooperates with CXXC finger protein 1 to regulate histone H3K4 trimethylation and developmental competence in mouse oocytes
+**게재일**: 2026-11-10 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag968/9026652?rss=1)
+
+**Abstract (EN)**: Abstract During oogenesis, the establishment of oocyte-specific gene expression relies on epigenetic and transcriptional remodeling. Both histone modifications and transcription factors are crucial for the oocyte to acquire developmental competence; however, the mechanisms involved remain incompletely understood. Here, we identify transcription factor 3 (TCF3), an E-protein family member, as a key maternal regulator of oocyte developmental potential. Oocyte-specific deletion of Tcf3 results in female infertility, characterized by impaired meiotic maturation and early embryonic arrest at the two-cell stage. These defects are associated with defective maternal mRNA clearance and disrupted establishment of the H3K4me3 landscape in maturing oocytes. Mechanistically, we demonstrate that TCF3 directs H3K4me3 deposition at target gene promoters through interaction with CXXC finger protein 1 (CXXC1), the core subunit of the SETD1 histone methyltransferase complex. Importantly, this TCF3–CXXC1 interaction depends on their DNA-binding activity, highlighting the specificity of TCF3 in coordinating with CXXC1 to regulate maternal target genes, such as Pabpn1l . Together, our findings uncover a transcription factor-driven mechanism of epigenetic reprogramming that is essential for the maternal-to-zygotic transition.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Allele-selective targeting of uromodulin by antisense oligonucleotides reduces aggregates and kidney damage in a mouse model of autosomal dominant tubulointerstitial kidney disease
+**게재일**: 2026-11-10 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1007/9026643?rss=1)
+
+**Abstract (EN)**: Abstract Autosomal dominant tubulointerstitial kidney disease (ADTKD) arises from gain-of-toxic-function mutations in the UMOD gene coding for uromodulin, the most abundant protein excreted in normal urine. Mutant uromodulin accumulates in the cells lining the thick ascending limb (TAL) of the loop of Henle, leading to intracellular aggregates, cellular stress, and kidney damage. Here, we demonstrate that an antisense gapmer oligonucleotide (ASO) designed against the representative c.553C &gt; A (p.R185S) UMOD mutation produced allele-selective silencing of the mutant messenger RNA and protein in kidney cells. Short-term administration of a murine ASO analogue in the established Umod R186S/+ mouse model of ADTKD suppressed uromodulin and lowered tubular damage, whereas a non-targeting scrambled control was inactive. After a 4-week treatment, ASO accumulation in the Umod R186S/+ kidneys reached ∼320 000 copies per TAL cell, quantified using a sensitive splint-ligation assay. The ASO treatment suppressed premature mutant uromodulin and its toxic aggregates in Umod R186S/+ kidneys, whereas it had no effects on wild-type uromodulin in Umod +/+ kidneys. Notably, the ASO improved tubular function and decreased kidney tubulointerstitial inflammation in Umod R186S/+ mice. This work offers a roadmap for antisense therapy to treat ADTKD- UMOD and substantiates the therapeutic potential of ASOs in disorders of the kidney tubule.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Archaeal histones coordinate conserved DNA sequence motifs to promote CRISPR adaptive immunity
+**게재일**: 2026-11-10 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1172/9026640?rss=1)
+
+**Abstract (EN)**: Abstract Archaea and bacteria acquire resistance to viruses by integrating fragments of foreign DNA at the beginning of a CRISPR locus. In the archaeon Pyrococcus furiosus , histones bind the leader to promote specific integration at the first CRISPR repeat. However, it remains unknown whether archaeal CRISPR leaders contain conserved DNA sequence motifs required for integration. Here, we analyze 542 archaeal CRISPR leaders found across Thermococcales and Methanococcales . We identify 36 motifs found up to 500 bps upstream of archaeal CRISPR loci. Scrambling or truncating novel motifs or histone binding sites found 100–400 bps upstream of the P. furiosus CRISPR modestly decreases integration efficiency. However, mutation of motif T2, which overlaps with the proximal histone site and is adjacent to the CRISPR, ablates both histone-mediated and histone-independent integration. Mutations tiled across T2 reveal that a pyrimidine at position −3 of the leader is required for histone-independent integration, and basepairs −4 to −19 are required for histone-mediated integration. T2 is found in most Thermococcales , and a similar sequence is found in most Methanococcales leaders, suggesting this motif may be a broadly conserved element that facilitates CRISPR adaptive immunity across taxonomic orders. These data shed light on the sequence requirements for histone-mediated DNA integration
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
