@@ -1,16 +1,15 @@
-# 📚 일일 논문 다이제스트 — 2026-11-13 (KST)
+# 📚 일일 논문 다이제스트 — 2026-11-14 (KST)
 
-**수집 저널 수**: 10개 · **논문 수**: 30편
+**수집 저널 수**: 9개 · **논문 수**: 25편
 
 > 영문 초록은 RSS 원본입니다. Claude Code 에서 `/translate-digest` 로 한국어 요약을 채워 넣으세요.
 
 ## 목차
 - [Nature](#nature) (5편)
 - [Science](#science) (5편)
-- [Cell](#cell) (5편)
+- [Nature Genetics](#nature-genetics) (1편)
 - [Nature Neuroscience](#nature-neuroscience) (1편)
 - [Nature Computational Science](#nature-computational-science) (1편)
-- [Nature Methods](#nature-methods) (1편)
 - [Molecular Psychiatry](#molecular-psychiatry) (1편)
 - [Biological Psychiatry](#biological-psychiatry) (5편)
 - [Nature Communications](#nature-communications) (5편)
@@ -18,38 +17,38 @@
 
 ## Nature
 
-### This little brown mushroom is laced with a hallucinogen — and lethal toxins
-**게재일**: 2026-11-12 · [원문 링크](https://www.nature.com/articles/d41586-026-03639-2)
+### Number of international students arriving in US plunges — worrying scientists
+**저자**: Dan Garisto · **게재일**: 2026-11-13 · [원문 링크](https://www.nature.com/articles/d41586-026-03668-x)
 
-**Abstract (EN)**: Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03639-2 A Florida fungus might combine the psychedelic compound psilocybin with deadly chemicals to defend itself against hungry animals.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Who needs sex? Kelp reproduce asexually when no mate is nearby
-**저자**: Giorgia Guglielmi · **게재일**: 2026-11-12 · [원문 링크](https://www.nature.com/articles/d41586-026-03665-0)
-
-**Abstract (EN)**: Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03665-0 Insights into the reproductive modes of brown algae could help in the fight to protect them in warming climate.
+**Abstract (EN)**: Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03668-x Declines in students from China and India are driving the trend, which researchers say could slow the progress of US science.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer
-**저자**: Bin Li, Ming-Chao Zhong, Cristian Camilo Galindo, Jiayu Dou, Jin Qian, Zhenghai Tang, Dominique Davidson, André Veillette · **게재일**: 2026-11-12 · [원문 링크](https://www.nature.com/articles/s41586-026-11409-3)
+### Chinese graduate students are now choosing to stay closer to home
+**저자**: Xiaoying You · **게재일**: 2026-11-13 · [원문 링크](https://www.nature.com/articles/d41586-026-03456-7)
 
-**Abstract (EN)**: Nature, Published online: 12 November 2026; doi:10.1038/s41586-026-11409-3 Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Record-breaking Ebola outbreak: phone data reconstruct first weeks of spread
-**저자**: Mohana Basu · **게재일**: 2026-11-12 · [원문 링크](https://www.nature.com/articles/d41586-026-03666-z)
-
-**Abstract (EN)**: Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03666-z The Bundibugyo virus strain was circulating for weeks before its detection in May, but was missed owing to surveillance failures, testing gaps and funding cuts, researchers say.
+**Abstract (EN)**: Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03456-7 Malaysia, Hong Kong and Macau are the new hot destinations for students.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Massive atlas of brain region linked to a host of diseases is the most detailed yet
-**저자**: Miryam Naddaf · **게재일**: 2026-11-12 · [원문 링크](https://www.nature.com/articles/d41586-026-03565-3)
+### Accept all changes
+**저자**: Jiayi Zhao · **게재일**: 2026-11-13 · [원문 링크](https://www.nature.com/articles/d41586-026-03516-y)
 
-**Abstract (EN)**: Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03565-3 A global team profiled nearly 26 million brain cells from the basal ganglia to build a cross-species reference database that will help to understand conditions from Parkinson’s disease to addiction.
+**Abstract (EN)**: Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03516-y It’s the end — or is it?
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### This AI ‘mechanic’ can peer inside the black box of other neural networks
+**저자**: Elizabeth Gibney · **게재일**: 2026-11-13 · [원문 링크](https://www.nature.com/articles/d41586-026-03679-8)
+
+**Abstract (EN)**: Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03679-8 Being able to target and debug systems could improve artificial-intelligence safety and utility.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Is the climate totally cooked? What the data say
+**저자**: Nick Petrić Howe · **게재일**: 2026-11-13 · [원문 링크](https://www.nature.com/articles/d41586-026-03716-6)
+
+**Abstract (EN)**: Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03716-6 In the first of our new podcast series, a Nature reporter looks for reasons for hope in the face of overwhelming climate anxiety.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -94,40 +93,12 @@
 
 ---
 
-## Cell
+## Nature Genetics
 
-### Collaboration across scales: More than the sum of its parts
-**저자**: The  Editorial Team · **게재일**: 2026-11-12 · [원문 링크](https://www.cell.com/cell/fulltext/S0092-8674(26)01282-1?rss=yes)
+### A unified framework for defining and analyzing spatial niches in spatial omics data analysis
+**저자**: Pan Liu, Jingyi Jessica Li · **게재일**: 2026-11-13 · [원문 링크](https://www.nature.com/articles/s41588-026-02813-6)
 
-**Abstract (EN)**: Science is collaborative by nature, but some questions require coordination on an exceptional scale. Among them is the challenge of creating a comprehensive reference framework for the human brain. In this issue of Cell, together with papers published in Cell Genomics, Cell Reports, Cell Reports Methods, Cell Systems, and Neuron, we present the first publication package from the NIH BRAIN Initiative Cell Atlas Network (BICAN).
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Mapping primate brain aging across cell types, regions, and sexes
-**저자**: Jiaqi Zhou, Yan Wang, Mingfeng Li, Shaojie Ma · **게재일**: 2026-11-12 · [원문 링크](https://www.cell.com/cell/fulltext/S0092-8674(26)01271-7?rss=yes)
-
-**Abstract (EN)**: Aging is the major risk factor for neurodegenerative disease, yet how it affects different cells in the primate brain remains unclear. In this issue of Cell, Yang et al. present a single-nucleus atlas of the aging macaque brain that, together with recent work by Zhang et al., reveals context-dependent aging programs, sex-biased transcriptional aging, and molecular links to Alzheimer’s disease.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Deploying liquid intelligence in cancer: Finding answers in our blood
-**저자**: James M. George, Andre J. Wielenga, Matthew K. Iyer, Arul M. Chinnaiyan · **게재일**: 2026-11-12 · [원문 링크](https://www.cell.com/cell/fulltext/S0092-8674(26)01274-2?rss=yes)
-
-**Abstract (EN)**: Liquid biopsies provide a noninvasive way to screen for disease. This review explains how AI-powered multimodal foundation models will help to identify robust tumor signals from liquid biopsies at scale, but clinical and infrastructural hurdles will need to be addressed to deliver their promise to the clinic.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### From the human genome to the human brain cell atlas
-**저자**: Joseph Ecker, Satrajit Ghosh, Michael Hawrylycz, Kiku Ichihara, Arnold Kriegstein, Ed Lein, Chongyuan Luo, Evan Macosko, Shoaib Mufti, Bing Ren, Carol Thompson, Tim Tickle, Andreas Tolias, David Van Essen, Owen White, Xiangmin Xu, Hongkui Zeng, Guo-Qiang Zhang · **게재일**: 2026-11-12 · [원문 링크](https://www.cell.com/cell/fulltext/S0092-8674(26)01284-5?rss=yes)
-
-**Abstract (EN)**: The BRAIN Initiative Cell Atlas Network (BICAN) is establishing an evolving reference for neuroscience by integrating cell identities, anatomy, and multimodal evidence across species. In analogy with the Human Genome Project, the BICAN basal ganglia atlas is a model for a federated reference to advance understanding of brain organization, function, variation, and disease.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Stepping (hi)stones: Charting a single-cell multiomic path toward understanding the human brain
-**저자**: Mattia Zaghi, Yonglong Dang, Gonçalo Castelo-Branco · **게재일**: 2026-11-12 · [원문 링크](https://www.cell.com/cell/fulltext/S0092-8674(26)01270-5?rss=yes)
-
-**Abstract (EN)**: In this issue of Cell, two single-cell multiomic atlases jointly profile transcription and histone modifications across different regions of the adult human brain, revealing cell-type-specific regulatory landscapes, developmental epigenetic memory, and improved interpretation of neurological variants. These studies establish a framework for understanding human brain cell identity, evolution, and pathology.
+**Abstract (EN)**: Nature Genetics, Published online: 13 November 2026; doi:10.1038/s41588-026-02813-6 In this Perspective, Liu and Li clarify how ‘spatial niche’ is used in spatial omics, categorize neighborhoods, domains and biological ecosystems as distinct definitions, and provide a decision framework for choosing definitions and analyses.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -135,10 +106,10 @@
 
 ## Nature Neuroscience
 
-### Gene discovery and pleiotropic architecture of multidimensional pain in a genome-wide association study of &gt;1.2 million individuals
-**저자**: Sylvanus Toikumo, Christal Davis, Zeal Jinwala, Yousef Khan, Mariela Jennings, Lea Davis, Sandra Sanchez-Roige, Rachel L. Kember, Henry R. Kranzler · **게재일**: 2026-11-12 · [원문 링크](https://www.nature.com/articles/s41593-026-02455-1)
+### Enhancer-targeted CRISPR-A rescues haploinsufficiency and mutant phenotypes in organoid models of autism
+**저자**: George T. Chen, Gayatri Nair, Aubrey J. Osorio, Sandra M. Holley, Kimiya Ghassemzadeh, Yixuan Zhou, Jose Gonzalez, Jacqueline M. Martin, Congyi Lu, Neville E. Sanjana, Carlos Cepeda, Daniel H. Geschwind · **게재일**: 2026-11-13 · [원문 링크](https://www.nature.com/articles/s41593-026-02504-9)
 
-**Abstract (EN)**: Nature Neuroscience, Published online: 12 November 2026; doi:10.1038/s41593-026-02455-1 We conducted a meta-analytic genome-wide association study of multidimensional pain in >1.2 million European-ancestry individuals. We identified 343 independent loci, which, alongside findings from a sex-stratified GWAS and other analyses, expand our knowledge of the genetics of pain.
+**Abstract (EN)**: Nature Neuroscience, Published online: 13 November 2026; doi:10.1038/s41593-026-02504-9 CRISPR activation targeted to enhancers of autism risk genes CHD8 and SCN2A selectively increased expression and reversed mutant phenotypes in both patient-derived and gene-edited neuron and cortical organoid models of autism.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -146,21 +117,10 @@
 
 ## Nature Computational Science
 
-### Open foundation models for clinical AI
-**저자**: Vikas Bansal · **게재일**: 2026-11-12 · [원문 링크](https://www.nature.com/articles/s43588-026-01094-7)
+### Training reservoirs without looking back
+**저자**: Hanglin He, Alexandros Emboras · **게재일**: 2026-11-13 · [원문 링크](https://www.nature.com/articles/s43588-026-01079-6)
 
-**Abstract (EN)**: Nature Computational Science, Published online: 12 November 2026; doi:10.1038/s43588-026-01094-7 Open foundation models for clinical AI
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
----
-
-## Nature Methods
-
-### PANGEA: an integrated cell atlas across diverse biological contexts enables systematic profiling of multicellular responses in human diseases
-**저자**: Seongryong Kim, Sungmin Cheong, Suho Lee, Yeju Kim, Ronald Xie, In Gyeong Koh, Jeongwoo La, Chanwoong Hwa, Hyunsu An, Jihwan Park, Joon-Yong An, Bo Wang, Jong-Eun Park · **게재일**: 2026-11-12 · [원문 링크](https://www.nature.com/articles/s41592-026-03295-4)
-
-**Abstract (EN)**: Nature Methods, Published online: 12 November 2026; doi:10.1038/s41592-026-03295-4 PANGEA is a comprehensive single-cell transcriptomic atlas of 160 human diseases across 48 organs.
+**Abstract (EN)**: Nature Computational Science, Published online: 13 November 2026; doi:10.1038/s43588-026-01079-6 By training a reservoir computing system without access to its intermediate states and by eliminating the coupling between its nodes, a physical learning framework achieves efficient learning both in simulation and on optoelectronic hardware.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -168,16 +128,30 @@
 
 ## Molecular Psychiatry
 
-### Comparative effects of various exercise types and doses to improve executive function in children and adolescents with attention deficit hyperactivity disorder: a systematic review with pairwise, network, and dose-response meta-analyses
-**저자**: Xiao Hou, Lei Gong, Yongbo Zheng, Junwei Qian, Yuanyuan Jia, Chaoqun Fan, Lin Liu, Xiaosheng Dong, Yanping Bao, Lin Lu · **게재일**: 2026-11-12 · [원문 링크](https://www.nature.com/articles/s41380-026-03943-3)
+### Vagus-Hepatic-Creatine axis modulates manic-like behaviors via hippocampal MMP19 upregulation in bipolar disorder
+**저자**: Jingyi Yang, Jiayu Du, Runnan Yang, Fanglin Qin, Guifeng Tan, Wenjing Li, Wenkang Shen, An-Yuan Guo, Minlan Yuan, Wei Zhang · **게재일**: 2026-11-13 · [원문 링크](https://www.nature.com/articles/s41380-026-03938-0)
 
-**Abstract (EN)**: Molecular Psychiatry, Published online: 12 November 2026; doi:10.1038/s41380-026-03943-3 Comparative effects of various exercise types and doses to improve executive function in children and adolescents with attention deficit hyperactivity disorder: a systematic review with pairwise, network, and dose-response meta-analyses
+**Abstract (EN)**: Molecular Psychiatry, Published online: 13 November 2026; doi:10.1038/s41380-026-03938-0 Vagus-Hepatic-Creatine axis modulates manic-like behaviors via hippocampal MMP19 upregulation in bipolar disorder
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
 ---
 
 ## Biological Psychiatry
+
+### Personalized Functional Network Mapping Across the Lifespan
+**저자**: Xiaoyu Xu, Jake Chernicky, Alyssa K. Labonte, Arielle S. Keller, Theodore D. Satterthwaite, Chad Sylvester, Meghan C. Campbell, Zaixu Cui · **게재일**: 2026-11-13 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01685-9/fulltext?rss=yes)
+
+**Abstract (EN)**: Functional brain networks vary substantially across individuals, yet this variability is obscured by conventional group-average atlases. Personalized functional network mapping addresses this limitation by characterizing individual-specific network organization, including the spatial topography of network territories, boundaries, and variants. Personalized mapping can be applied across large developmental and aging cohorts to study lifespan changes in such organization. Precision functional mapping (PFM), a specialized form of personalized mapping, uses extensive functional magnetic resonance imaging (fMRI) data per individual to achieve highly reliable and fine-grained characterization of individual functional organization.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Greater Translocator Protein Distribution Volume in Neurocircuitry of Anorexia Nervosa
+**저자**: Mariel Lepra, Joeffre Braga, Blake Woodside, Pablo M. Rusjan, Erica L. Vieira, Thomas Chao, Angel Osei, Lauren R. Gray, Yuhan Karida Liu, Kim Desmond, Stefan Kloiber, Devina Persaud, Muhammad Ishrat Husain, Michael Bagby, Jerry Warsh, Romina Mizrahi, Wei Wang, Jeffrey H. Meyer · **게재일**: 2026-11-13 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01680-X/fulltext?rss=yes)
+
+**Abstract (EN)**: Inflammatory stimuli are associated with onset of anorexia nervosa (AN) but whether inflammation occurs in the brain of AN is unknown. The primary objective is to determine whether [18F]FEPPA total distribution volume ([18F]FEPPA VT), PET index of translocator protein density and inflammatory marker of gliosis, is elevated in AN in anterior cingulate cortex (ACC), ventral striatum (VS), dorsal caudate (DC), dorsal putamen (DP), thalamus, orbitofrontal cortex and insula. Secondary objectives are to determine the relationship of [18F]FEPPA VT in ACC to rumination severity and [18F]FEPPA VT to body mass index (BMI).
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
 ### Guide for Authors
 **게재일**: 2026-12-15 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01628-8/fulltext?rss=yes)
@@ -200,56 +174,42 @@
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Editorial Board Page
-**게재일**: 2026-12-15 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01625-2/fulltext?rss=yes)
-
-**Abstract (EN)**: (초록이 제공되지 않았습니다.)
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Reviewer Acknowledgments
-**게재일**: 2026-12-15 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01587-8/fulltext?rss=yes)
-
-**Abstract (EN)**: The editors gratefully acknowledge the assistance of the following:
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
 ---
 
 ## Nature Communications
 
-### Room-temperature continuous-wave lasing-like emission from solution-processed bulk monolayer MoS 2 thin films
-**저자**: Boxuan Zhou, Haoyang Li, Bangyao Hu, Jingxuan Zhou, Chen Li, Jingyuan Zhou, Yu Huang, Xiangfeng Duan · **게재일**: 2026-11-13 · [원문 링크](https://www.nature.com/articles/s41467-026-79012-8)
+### Photocatalytic radical hydrogenation of unactivated alkenes via an intermolecular hydrogen-atom-transfer relay
+**저자**: Weiqiao Lan, Ziyuan Wei, Zhao Wu · **게재일**: 2026-11-14 · [원문 링크](https://www.nature.com/articles/s41467-026-79704-1)
 
-**Abstract (EN)**: Nature Communications, Published online: 13 November 2026; doi:10.1038/s41467-026-79012-8 Scaling up atomically thin light emitters remains challenging. Here, authors develop solution-processable bulk-monolayer MoS2 films that preserve monolayer optical properties and exhibit room-temperature lasing-like emission under continuous optical pumping at just a few nW.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Signatures of a Kondo insulator in a multilayer moiré Superlattice
-**저자**: Qiran Wu, Jingyuan Cui, Ang-Kun Wu, Yuze Meng, Dongxue Chen, Yueshan Wang, Li Yan, Lei Ma, Takashi Taniguchi, Kenji Watanabe, Shi-Zeng Lin, Su-Fei Shi, Yong-Tao Cui · **게재일**: 2026-11-13 · [원문 링크](https://www.nature.com/articles/s41467-026-78687-3)
-
-**Abstract (EN)**: Nature Communications, Published online: 13 November 2026; doi:10.1038/s41467-026-78687-3 Kondo insulator phases are traditionally found in materials with f-electrons. Here, the authors present evidence towards the realization of a tunable Kondo insulator in a monolayer WS2/bilayer WSe2 moiré superlattice.
+**Abstract (EN)**: Nature Communications, Published online: 14 November 2026; doi:10.1038/s41467-026-79704-1 Cross-electrophile coupling between unactivated alkyl halides and alkynyl halides has long been challenged by reactivity mismatch and poor chemoselectivity. Here the authors report nickel-catalyzed crosselectrophile coupling enabled by a tridentate ligand that controls the sequence of electrophile activation, allowing direct construction of alkynyl–alkyl bonds.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Anion manipulation for breaking through 3.0 V of aluminium–graphite batteries
-**저자**: Ke Guo, Zheng Huang, Wei Wang, Wei-Li Song, Shuqiang Jiao · **게재일**: 2026-11-13 · [원문 링크](https://www.nature.com/articles/s41467-026-79156-7)
+### Chemogenetic dissection of the H 2 O 2 –salicylic acid feedback loop in PTI and ETI evolutionary conservation
+**저자**: Yiliang Chen, Siyuan Tang, Chuyan Xia, Qi Wang, Shihong Wei, Duoduo Guo, Jufen Yan, Kui Zhang, Gan Ai, Xinya Han · **게재일**: 2026-11-14 · [원문 링크](https://www.nature.com/articles/s41467-026-79480-y)
 
-**Abstract (EN)**: Nature Communications, Published online: 13 November 2026; doi:10.1038/s41467-026-79156-7 Aluminium–graphite batteries are limited by electrolyte decomposition above 2.5 V. Here, authors regulate chloroaluminate anions with a fluorine-rich, framework-confined quasi-solid-state electrolyte, enabling stable 3.0 V operation for Al | |Graphite cells.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Scaling medical imaging report generation with multimodal reinforcement learning
-**저자**: Qianchu Liu, Sheng Zhang, Guanghui Qin, Yu Gu, Ying Jin, Sam Preston, Yanbo Xu, Sid Kiblawi, Wen-wai Yim, Timothy Ossowski, Tristan Naumann, Mu Wei, Hoifung Poon · **게재일**: 2026-11-12 · [원문 링크](https://www.nature.com/articles/s41467-026-78767-4)
-
-**Abstract (EN)**: Nature Communications, Published online: 12 November 2026; doi:10.1038/s41467-026-78767-4 Researchers developed UniRG, a reinforcement learning framework that optimizes clinically aligned composite rewards for medical imaging report generation. UniRG outperforms prior models and demonstrates strong generalization across unseen hospitals and datasets
+**Abstract (EN)**: Nature Communications, Published online: 14 November 2026; doi:10.1038/s41467-026-79480-y Interaction between hydrogen peroxide and salicylic acid is important for plant stress responses. Here, the authors develop a dual-responsive fluorescent probe that simultaneously resolves the two signals in living plants.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### A single NLS directs AGO1 import shaping small RNA loading and silencing outputs in Arabidopsis
-**저자**: Belén Moro, Camila Engler, Natalia P. Achkar, Violeta Sánchez-Retuerta, Víctor Manuel González-Miguel, Antonela Lavatelli, Antoine Bouet, Ana Valdivia-Aceituno, Ignasi Andreu-Godall, Nathalie Bouteiller, Stefanie Brüggemann, Luciano A. Abriata, Hervé Vaucheret, Nicolás G. Bologna · **게재일**: 2026-11-12 · [원문 링크](https://www.nature.com/articles/s41467-026-79175-4)
+### Author Correction: Direct binding of CEP85 to STIL ensures robust PLK4 activation and efficient centriole assembly
+**저자**: Yi Liu, Gagan D. Gupta, Deepak D. Barnabas, Fikret G. Agircan, Shahid Mehmood, Di Wu, Etienne Coyaud, Christopher M. Johnson, Stephen H. McLaughlin, Antonina Andreeva, Stefan M. V. Freund, Carol V. Robinson, Sally W. T. Cheung, Brian Raught, Laurence Pelletier, Mark van Breugel · **게재일**: 2026-11-13 · [원문 링크](https://www.nature.com/articles/s41467-026-79190-5)
 
-**Abstract (EN)**: Nature Communications, Published online: 12 November 2026; doi:10.1038/s41467-026-79175-4 Small RNAs guide ARGONAUTE proteins to their targets. Here the authors identify a pathway controlling AGO1 nuclear import and show that AGO1 subcellular localization shapes small RNA loading and silencing outputs in plants.
+**Abstract (EN)**: Nature Communications, Published online: 13 November 2026; doi:10.1038/s41467-026-79190-5 Author Correction: Direct binding of CEP85 to STIL ensures robust PLK4 activation and efficient centriole assembly
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Power-sensitive partnerships for just nature-based solutions in urban informal settlements
+**저자**: Petra Holden, Gina Ziervogel · **게재일**: 2026-11-13 · [원문 링크](https://www.nature.com/articles/s41467-026-79301-2)
+
+**Abstract (EN)**: Nature Communications, Published online: 13 November 2026; doi:10.1038/s41467-026-79301-2 Nature-based solutions should better redistribute benefits and reduce climate risks for vulnerable groups in urban informal settlements. To enable this, we argue for power-sensitive partnerships and a deep commitment to pluralism in values, ways of knowing, and understandings of nature.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Photonic-assisted ingenious agile non-periodic oscillator (PIANO)
+**저자**: Tengfei Hao, Tong Yang, Qizhuang Cen, Lu Wang, Shiyu Xiao, Mingjian Li, Anle Wang, Wei Li, Peng Hao, X. Steve Yao, José Capmany, Ninghua Zhu, Yitang Dai, Ming Li · **게재일**: 2026-11-13 · [원문 링크](https://www.nature.com/articles/s41467-026-79422-8)
+
+**Abstract (EN)**: Nature Communications, Published online: 13 November 2026; doi:10.1038/s41467-026-79422-8 The study presents PIANO, a microwave photonic oscillator that generates frequency-agile microwave signals with rapid switching and ultra-low phase noise, while overcoming the cavity-delay constraint of conventional delay-based oscillators.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
