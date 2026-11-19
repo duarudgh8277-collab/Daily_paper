@@ -1,52 +1,54 @@
-# 📚 일일 논문 다이제스트 — 2026-11-18 (KST)
+# 📚 일일 논문 다이제스트 — 2026-11-19 (KST)
 
-**수집 저널 수**: 7개 · **논문 수**: 23편
+**수집 저널 수**: 9개 · **논문 수**: 27편
 
 > 영문 초록은 RSS 원본입니다. Claude Code 에서 `/translate-digest` 로 한국어 요약을 채워 넣으세요.
 
 ## 목차
 - [Nature](#nature) (5편)
-- [Nature Genetics](#nature-genetics) (2편)
+- [Nature Genetics](#nature-genetics) (1편)
 - [Nature Neuroscience](#nature-neuroscience) (2편)
+- [Nature Machine Intelligence](#nature-machine-intelligence) (1편)
 - [Nature Computational Science](#nature-computational-science) (1편)
+- [Nature Methods](#nature-methods) (2편)
 - [Biological Psychiatry](#biological-psychiatry) (5편)
 - [Nature Communications](#nature-communications) (5편)
-- [Nucleic Acids Research](#nucleic-acids-research) (3편)
+- [Nucleic Acids Research](#nucleic-acids-research) (5편)
 
 ## Nature
 
-### Meet the ‘celestial bodies of fathomless powerful darkness’
-**게재일**: 2026-11-17 · [원문 링크](https://www.nature.com/articles/d41586-026-03750-4)
+### Conference networking made simple, in three short videos
+**저자**: David Payne · **게재일**: 2026-11-18 · [원문 링크](https://www.nature.com/articles/d41586-026-03678-9)
 
-**Abstract (EN)**: Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03750-4 Astronomers report a rare pair of extremely bright black holes that were gobbling gas less than one billion years after the Big Bang.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### The prospect of a ‘super’ El Niño demands better ocean monitoring
-**저자**: Jing Xu, Hui Lin · **게재일**: 2026-11-17 · [원문 링크](https://www.nature.com/articles/d41586-026-03744-2)
-
-**Abstract (EN)**: Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03744-2 The prospect of a ‘super’ El Niño demands better ocean monitoring
+**Abstract (EN)**: Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03678-9 Working the room is a skill you can practise and prepare for. Here’s how.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Dinosaur’s rest break leaves a lasting impression
-**게재일**: 2026-11-17 · [원문 링크](https://www.nature.com/articles/d41586-026-03749-x)
+### First observation of a giant star swallowing its neighbour
+**저자**: Benjamin Thompson, Nick Petrić Howe · **게재일**: 2026-11-18 · [원문 링크](https://www.nature.com/articles/d41586-026-03784-8)
 
-**Abstract (EN)**: Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03749-x A fossilized print records marks left by the feet and bum of a juvenile reptile that measured one metre at the hip.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### AI wearables could exploit people’s most vulnerable moments
-**저자**: Tony Huiquan Zhang, Jing Hu · **게재일**: 2026-11-17 · [원문 링크](https://www.nature.com/articles/d41586-026-03742-4)
-
-**Abstract (EN)**: Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03742-4 AI wearables could exploit people’s most vulnerable moments
+**Abstract (EN)**: Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03784-8 Finding provides new insights into what happens within stellar mergers — plus, using quantum physics to securely pinpoint someone’s location.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### The origins of scrotal asymmetry
-**게재일**: 2026-11-17 · [원문 링크](https://www.nature.com/articles/d41586-026-03279-6)
+### How to make AI data centres more sustainable
+**게재일**: 2026-11-18 · [원문 링크](https://www.nature.com/articles/d41586-026-03708-6)
 
-**Abstract (EN)**: Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03279-6 Why does the left testicle tend to hang lower than the right? And a small village with a surprisingly ambitious museum, in our weekly dip into Nature’s archive.
+**Abstract (EN)**: Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03708-6 Tech companies and governments face opposition over data centres’ expansion, in part because of their huge power requirements. They must not be powered with fossil fuels.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Microbiome home tests are taking off. Can they be trusted?
+**저자**: Amber Dance · **게재일**: 2026-11-18 · [원문 링크](https://www.nature.com/articles/d41586-026-03710-y)
+
+**Abstract (EN)**: Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03710-y Our reporter mailed off her poo to find out what two companies say about her microbiome. Here’s what she found.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Tropical land-use intensification reshapes biodiversity in expected and unexpected ways
+**게재일**: 2026-11-18 · [원문 링크](https://www.nature.com/articles/d41586-026-03602-1)
+
+**Abstract (EN)**: Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03602-1 Global agricultural demand has increased over the past few decades, driving land-use intensification in some of the world’s most biodiverse regions. An assessment of some 40,000 species, from soil microorganisms to vertebrates, in Sumatra, Indonesia, reveals that agricultural intensification threatens biodiversity through species loss and changes in community composition across different spatial scales.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -54,17 +56,10 @@
 
 ## Nature Genetics
 
-### Integrated QTL mapping and CRISPR screening in pooled iPSC-derived microglia reveals genetic drivers of neurodegenerative risk
-**저자**: Marta Perez-Alcantara, Sam J. Washer, Yixi Chen, Juliette Steer, Daianna Gonzalez-Padilla, Joe McWilliam, David Willé, Nikolaos Panousis, Peep Kolberg, Elena Navarro-Guerrero, Kaur Alasoo, Hazel Hall-Roberts, Julie Williams, Sally A. Cowley, Gosia Trynka, Andrew R. Bassett · **게재일**: 2026-11-17 · [원문 링크](https://www.nature.com/articles/s41588-026-02843-0)
+### Regularized ensemble polygenic risk prediction with GWAS summary statistics
+**저자**: Zijie Zhao, Stephen Dorn, Yuchang Wu, Xiaoyu Yang, Alexander Beckerman, Jin Jin, Qiongshi Lu · **게재일**: 2026-11-18 · [원문 링크](https://www.nature.com/articles/s41588-026-02844-z)
 
-**Abstract (EN)**: Nature Genetics, Published online: 17 November 2026; doi:10.1038/s41588-026-02843-0 This study presents a scalable framework for understanding the genetic determinants of gene expression and cellular phenotype in stem-cell-derived microglia-like cells and linking these to neurodegenerative disease.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Evolutionary lineage-specific and heterochromatin-independent repression of transposon-derived sequences
-**저자**: Wayo Matsushima, Julien Duc, Shaoline Sheppard, Cyril Pulver, Delphine Grun, Charlène Raclot, Romain Forey, Sandra Offner, Evarist Planet, Didier Trono · **게재일**: 2026-11-17 · [원문 링크](https://www.nature.com/articles/s41588-026-02823-4)
-
-**Abstract (EN)**: Nature Genetics, Published online: 17 November 2026; doi:10.1038/s41588-026-02823-4 This study identifies SCAN zinc-finger proteins as rapidly evolving transcription factors that target lineage-specific transposable elements and restrict their regulatory activity without canonical repressive chromatin modifications.
+**Abstract (EN)**: Nature Genetics, Published online: 18 November 2026; doi:10.1038/s41588-026-02844-z PUMAS-ensemble combines multiple polygenic risk scores using genome-wide association study summary statistics, improving genetic risk prediction across traits and ancestry groups without requiring individual-level training data.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -72,17 +67,28 @@
 
 ## Nature Neuroscience
 
-### Author Correction: Trans-ancestry genome-wide analyses of bipolar disorder in East Asian and European populations improve genetic discovery
-**저자**: Chu-Yi Zhang, Miao Li, Ping Sun, Li Hui, Yuan Gao, Jian-Zhong Yang, Nan Zhang, Xiaoyang Feng, Yong Wu, Lei Guo, Jing Yuan, Hong-Yan Jiang, Yu-Qi Cheng, Simeng Ma, Qian Gong, Yaoyao Sun, Yi Li, Na Qu, Xu-Yuan Yin, Lu Wang, Yongfeng Yang, Chuansheng Wang, Luxian Lv, Dongsheng Zhou, Xingxing Li, Xiaogang Chen, Chen Zhang, Jun Chen, Xueqin Song, Jinsong Tang, Jun Cai, Weixing Fan, Wei Tang, Wenxin Tang, Wenqiang Li, Xia Tang, Xiaoxi Zhang, Yan Lu, Yong-Gang Yao, Chuang Wang, Hon-Cheong So, Nakao Iwata, Masashi Ikeda, Takeo Saito, Zhongchun Liu, Shuhua Xu, Weihua Yue, Yiru Fang, Feng Zhu, Xiao Xiao, Ming Li, Zenan Dou, Shan Guan, Tingting Guo, Qinglan Liu, Hoyin Lo, Leilei Zhang · **게재일**: 2026-11-17 · [원문 링크](https://www.nature.com/articles/s41593-026-02547-y)
+### Author Correction: An aging-sensitive secreted phospholipase confers neuroprotection and cognitive resilience
+**저자**: Cinzia Vicidomini, Travis D. Goode, Ruilin Yu, Iyanah Mehta, Kathleen M. McAvoy, Connor H. Beveridge, Caitlin E. Randolph, Sanjay N. Iyer, Matheus B. Victor, Noelle Leary, Liam Evans, Michael J. Steinbaugh, Zon Weng Lai, Marina C. Lyon, Manuel Rico Fernández San Silvestre, Giorgia Tosoni, Dilara Ayyildiz, Shannan Ho Sui, Kei Yamamoto, Makoto Murakami, Evgenia Salta, Li-Huei Tsai, Gaurav Chopra, Amar Sahay · **게재일**: 2026-11-18 · [원문 링크](https://www.nature.com/articles/s41593-026-02554-z)
 
-**Abstract (EN)**: Nature Neuroscience, Published online: 17 November 2026; doi:10.1038/s41593-026-02547-y Author Correction: Trans-ancestry genome-wide analyses of bipolar disorder in East Asian and European populations improve genetic discovery
+**Abstract (EN)**: Nature Neuroscience, Published online: 18 November 2026; doi:10.1038/s41593-026-02554-z Author Correction: An aging-sensitive secreted phospholipase confers neuroprotection and cognitive resilience
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Microglia mediate motor memory decay through activity-dependent phagocytosis of myelin sheaths
-**저자**: Zhechun Hu, Yujian Luo, Tingqi Zhou, Xuan Wu, Jiao Ma, Chao Wang, Liang Wang, Xiao-Dong Wang, Ying Shen, Yan Gu, Lang Wang · **게재일**: 2026-11-17 · [원문 링크](https://www.nature.com/articles/s41593-026-02505-8)
+### Neotenic expansion of adult-born dentate granule cells reconfigures GABAergic inhibition to enhance social memory consolidation
+**저자**: Ain Chung, Jason Bondoc Alipio, Megha Ghosh, Liam Evans, Samara M. Miller, Travis D. Goode, Iyanah Mehta, Omar J. Ahmed, Amar Sahay · **게재일**: 2026-11-18 · [원문 링크](https://www.nature.com/articles/s41593-026-02503-w)
 
-**Abstract (EN)**: Nature Neuroscience, Published online: 17 November 2026; doi:10.1038/s41593-026-02505-8 Hu et al. showed that motor memory decay involves microglia engulfing memory-related myelin sheaths. Reduced engram activity lowers CD47, a ‘don’t eat me’ signal, thus promoting microglia-mediated myelin clearance and facilitating memory decay.
+**Abstract (EN)**: Nature Neuroscience, Published online: 18 November 2026; doi:10.1038/s41593-026-02503-w This study describes a circuit mechanism by which immature adult-born dentate granule cells promote network oscillations to support memory consolidation.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+---
+
+## Nature Machine Intelligence
+
+### When AI-assisted criticism scales, peer review needs an obligation threshold
+**저자**: Yiteng Sun, Fan Li, Ching-Hung Lee, Chun-Hsien Chen · **게재일**: 2026-11-18 · [원문 링크](https://www.nature.com/articles/s42256-026-01349-y)
+
+**Abstract (EN)**: Nature Machine Intelligence, Published online: 18 November 2026; doi:10.1038/s42256-026-01349-y When AI-assisted criticism scales, peer review needs an obligation threshold
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -90,10 +96,28 @@
 
 ## Nature Computational Science
 
-### The rise of AI in mathematics — and science
-**게재일**: 2026-11-17 · [원문 링크](https://www.nature.com/articles/s43588-026-01112-8)
+### Minimizing data requirements for chemical and material property prediction via cluster-based training set selection
+**저자**: Quinn M. Gallagher, Sonia Hasko, Michael A. Webb · **게재일**: 2026-11-18 · [원문 링크](https://www.nature.com/articles/s43588-026-01076-9)
 
-**Abstract (EN)**: Nature Computational Science, Published online: 17 November 2026; doi:10.1038/s43588-026-01112-8 We discuss the role of artificial intelligence (AI) in mathematical research and explore its implications for the computational science community.
+**Abstract (EN)**: Nature Computational Science, Published online: 18 November 2026; doi:10.1038/s43588-026-01076-9 A survey of 100 algorithms across 60 chemical and materials property prediction tasks finds that cluster-based selection of training data outperforms active learning, and a theoretical framework establishes why this occurs in the low-data limit.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+---
+
+## Nature Methods
+
+### Transforming molecular evolutionary analyses with protein foundation models
+**저자**: Sudhir Kumar, Rohan Alibutud, John B. Allard, Mohammad E. Mowlaei, Xinghua Shi · **게재일**: 2026-11-18 · [원문 링크](https://www.nature.com/articles/s41592-026-03304-6)
+
+**Abstract (EN)**: Nature Methods, Published online: 18 November 2026; doi:10.1038/s41592-026-03304-6 This Perspective traces the history of evolutionary analysis from early substitution matrices to coevolutionary models and proposes that protein foundation models complement classical statistical models by enabling single-sequence evolutionary analysis and will shift the field from modeling independent residue differences to studying the evolution of residue dependencies.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### A zero-shot spillover denoiser for highly multiplexed images
+**저자**: Jason Lequyer, Ferris Nowlan, Wen-Hsin Hsu, Reuben Philip, Anna Christina Erpf, Angela M. Y. Chan, Christine Tran, Ben X. Wang, Zoltan Maliga, Hartland Warren Jackson, Laurence Pelletier · **게재일**: 2026-11-18 · [원문 링크](https://www.nature.com/articles/s41592-026-03263-y)
+
+**Abstract (EN)**: Nature Methods, Published online: 18 November 2026; doi:10.1038/s41592-026-03263-y SpillOT is a zero-shot denoising and spillover correction tool for multiplexed imaging data.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -101,24 +125,24 @@
 
 ## Biological Psychiatry
 
-### Mapping the shared genetic architecture between anorexia nervosa and metabolomic biomarkers
-**저자**: Carolina Makowski, Alexey Shadrin, Sara E. Stinson, Nora R. Bakken, Helga Ask, Alexandra Havdahl, Anders M. Dale, Ole A. Andreassen, Dennis van der Meer · **게재일**: 2026-11-17 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01689-6/fulltext?rss=yes)
+### Remodeling stress-responsive networks following early life adversity: Insights from preclinical models
+**저자**: Olivia S. O’Neill, Matthew K. Dawson, Derya Sargin · **게재일**: 2026-11-18 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01690-2/fulltext?rss=yes)
 
-**Abstract (EN)**: Anorexia Nervosa (AN) has the highest mortality rate of any psychiatric disorder yet lacks effective treatments. While recent genomic efforts have reframed AN as a metabo-psychiatric condition that overlaps with cardiometabolic traits, AN’s relationship to circulating metabolomic markers remains unknown.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Working memory capacity moderates stress-related drinking in alcohol use disorder: An intensive one-year ecological assessment study
-**저자**: Hilmar Zech, Marcel C. Schmitt, Shreyash Garg, Roshan P. Rane, Markus Reichert, Maria Waltmann, Dominic Reichert, Fabian Arntz, Johannes Steffen, Jens Strehle, Bernd Lenz, Patrick Bach, Falk Kiefer, Michael A. Rapp, Andreas Heinz, Gianna Spitta, Ray Dolan, Rainer Spanagel, Ulrich Ebner-Priemer, Michael Marxen, Kerstin Ritter, Thomas Goschke, Michael N. Smolka, Lorenz Deserno · **게재일**: 2026-11-17 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01687-2/fulltext?rss=yes)
-
-**Abstract (EN)**: Stress is a trigger for alcohol consumption, with working memory capacity (WMC) proposed as a protective factor. While several laboratory-based and cross-sectional studies point toward an interaction between WMC, stress, and alcohol consumption, ecological momentary assessments (EMAs) are needed to establish this relationship in real-life contexts, where alcohol consumption and stress experiences actually take place.
+**Abstract (EN)**: Early life adversity (ELA) is a leading risk factor for the development of mental illness worldwide. While the association between experiencing developmental stress and psychopathology is robust, the underlying brain mechanisms remain unclear. Evidence from clinical and preclinical studies suggests that ELA may hijack typical developmental plasticity mechanisms, leading to maladaptive functional network changes. Understanding the nature and magnitude of these changes is complicated by several key dimensions, including the timing, type, and severity of ELA, as well as biological factors such as sex and genetic makeup.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Principles of large-scale cortical organization across species: network properties and hierarchical gradients
-**저자**: Loïc Magrou, Seán Froudist-Walsh, Xiao-Jing Wang, John Meng, Javier DeFelipe, John D. Murray · **게재일**: 2026-11-17 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01686-0/fulltext?rss=yes)
+### Cortical astrocytes bidirectionally control stress adaptability
+**저자**: Veronika Kondev, Leanne M. Holt, Brian Kipp, Trevonn M. Gyles, Isla Racine, Jacob Abroon, Adam Ripp, William McKernan, Sumaiya Ahmed, Elizabeth Kahn, Angelica M. Minier-Toribio, Clementine Blaschke, Sarah Naguib, Rita Futamura, Giselle Rojas, Alexa LaBanca, Rachel Fisher, Hsiao-Yun Lin, Alexander Pfannenstein, Noa Yassky, Scott J. Russo, Eric J. Nestler · **게재일**: 2026-11-18 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01688-4/fulltext?rss=yes)
 
-**Abstract (EN)**: Here we address the question of fundamental organizational principles of cortex at its largest scale, as informed by increasingly coherent findings coming from comparative studies from rodents to primates. At such a scale, inter-areal network properties, hierarchy and gradients across cortex become such principles. The specific arrangement of the network architecture evolves as a function of brain size. It follows a deeper, common principle ensured by the physical embeddedness of the brain and characterized by an Exponential Distance Rule.
+**Abstract (EN)**: Chronic stress is a risk factor for several psychiatric disorders, including major depression (MDD), with the prefrontal cortex (PFC) playing a key role in mediating this stress susceptibility. However, most individuals exposed to chronic stress are resilient and do not develop psychopathology. Recent evidence suggests that glial cells, especially astrocytes, play an important role in controlling stress-induced anxiety- and depression-like behavior, yet their role in contributing to stress resilience is not well understood.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Erratum to: Visual P300 and Risk for Psychosis Onset in Youth at Clinical High Risk
+**게재일**: 2026-11-18 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01663-X/fulltext?rss=yes)
+
+**Abstract (EN)**: Erratum to: “Visual P300 and Risk for Psychosis Onset in Youth at Clinical High Risk,” by Hamilton et al. (Biol Psychiatry 2026; 100:150–159); https://doi.org/10.1016/j.biopsych.2026.02.013.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -140,38 +164,38 @@
 
 ## Nature Communications
 
-### Nuclear quadrupole resonance spectroscopy as an operando tool for mechanochemistry
-**저자**: César Leroy, Danielle Laurencin, Daniel Valenza, Patrice Montels, Philippe Gaveau · **게재일**: 2026-11-17 · [원문 링크](https://www.nature.com/articles/s41467-026-79614-2)
+### A dual-anchoring mechanism for hemimethylated CG-guided histone ubiquitylation
+**저자**: Xinyi Chen, Zhongwen Cao, Daniel Li, Jian Fang, Jiuwei Lu, Nelli Khudaverdyan, Stephanie Paspal, Yinsheng Wang, Jikui Song · **게재일**: 2026-11-19 · [원문 링크](https://www.nature.com/articles/s41467-026-79633-z)
 
-**Abstract (EN)**: Nature Communications, Published online: 17 November 2026; doi:10.1038/s41467-026-79614-2 Mechanochemistry is an attractive green synthetic approach, but it still lacks mechanistic insight. Here the authors report the use of Nuclear Quadrupole Resonance spectroscopy as an operando technique to monitor mechanochemical reactions.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Author Correction: A preoperative Artificial Intelligence model to estimate cancer-specific mortality in nonmetastatic kidney cancer patients
-**저자**: Alessandro Larcher, Alberto Traverso, Patrick Scuri, Umberto Capitanio, Giacomo Musso, Daniela Canibus, Simone Barbieri, Luca Caivano, Alan Zambello, Marco Denti, Riccardo Campi, Sergio Serni, Salvatore Granata, Anna Palmisano, Davide Vignale, Francesco Montorsi, Antonio Esposito, Carlo Tacchetti, Andrea Salonia · **게재일**: 2026-11-17 · [원문 링크](https://www.nature.com/articles/s41467-026-79624-0)
-
-**Abstract (EN)**: Nature Communications, Published online: 17 November 2026; doi:10.1038/s41467-026-79624-0 Author Correction: A preoperative Artificial Intelligence model to estimate cancer-specific mortality in nonmetastatic kidney cancer patients
+**Abstract (EN)**: Nature Communications, Published online: 19 November 2026; doi:10.1038/s41467-026-79633-z VIM proteins regulate maintenance of plant CG methylation. Here the authors show how the interaction of VIM1 with hemimethylated linker DNA and the acidic patch of a nucleosome governs its histone ubiquitylation activity for maintenance of DNA methylation.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Author Correction: Modular assembly of an artificially concise biocatalytic cascade for the manufacture of phenethylisoquinoline alkaloids
-**저자**: Yue Gao, Fei Li, Zhengshan Luo, Zhiwei Deng, Yan Zhang, Zhenbo Yuan, Changmei Liu, Yijian Rao · **게재일**: 2026-11-17 · [원문 링크](https://www.nature.com/articles/s41467-026-79702-3)
+### Protecting-group-lean platform for synthesizing diverse phenylethanoid glycosides uncovers antifibrotic leads
+**저자**: Banhao Kuang, Ruibo Lin, Gang Yang, Qian Zhang, Yu-Cheng Peng, Xinyang Jiang, Weiwen Wang, Kai Chen, Shiyang Shen, Yugen Zhu · **게재일**: 2026-11-19 · [원문 링크](https://www.nature.com/articles/s41467-026-79652-w)
 
-**Abstract (EN)**: Nature Communications, Published online: 17 November 2026; doi:10.1038/s41467-026-79702-3 Author Correction: Modular assembly of an artificially concise biocatalytic cascade for the manufacture of phenethylisoquinoline alkaloids
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### EpiPack: A computational framework for reference mapping and out-of-reference detection for single-cell ATAC-seq data with heterogeneous peak features
-**저자**: Yuqi Cheng, Xiuwei Zhang · **게재일**: 2026-11-17 · [원문 링크](https://www.nature.com/articles/s41467-026-78924-9)
-
-**Abstract (EN)**: Nature Communications, Published online: 17 November 2026; doi:10.1038/s41467-026-78924-9 EpiPack maps single-cell chromatin accessibility data across heterogeneous datasets and identifies cell types and states absent from reference atlases, enabling analysis of disease-associated cellular changes.
+**Abstract (EN)**: Nature Communications, Published online: 19 November 2026; doi:10.1038/s41467-026-79652-w Phenylethanoid glycosides constitute one of the most structurally diverse classes of natural glycosides, yet systematic investigation is constrained by limited access to preparative quantities. Here, the authors report a protecting group-lean platform that delivers a 29-member library of phenylethanoid glycosides.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Deep strong light-matter coupling in 3D Kane fermions without Dicke criticality
-**저자**: Dmitriy Yavorskiy, David Hagenmüller, Noureddine Charrouj, Yurii Ivonyak, Alexander Kazakov, Yanko Todorov, Wojciech Knap, Marcin Białek · **게재일**: 2026-11-17 · [원문 링크](https://www.nature.com/articles/s41467-026-79076-6)
+### Structure-guided design of a dual-antigen mRNA vaccine conferring broad protection against Henipaviruses
+**저자**: Binhe Du, Yun Peng, Hao Gu, Wei Huang, Yanfeng Yao, Ye Li, Mingqing Lu, Shuqi Xiao, Hang Liu, Ge Gao, Miaoyu Chen, Chao Shan, Jing Lu, Zhiming Yuan, Jinzhong Lin · **게재일**: 2026-11-19 · [원문 링크](https://www.nature.com/articles/s41467-026-79459-9)
 
-**Abstract (EN)**: Nature Communications, Published online: 17 November 2026; doi:10.1038/s41467-026-79076-6 In the deep-strong light-matter coupling regime, the interaction strength exceeds the frequencies of uncoupled light and matter excitations. Here, the authors access the deep-strong-coupling regime in mercury cadmium telluride and report a single-mode coupling ratio of 1.6 above room temperature.
+**Abstract (EN)**: Nature Communications, Published online: 19 November 2026; doi:10.1038/s41467-026-79459-9 The authors develop a structure-guided mRNA vaccine combining two Nipah virus proteins. All vaccinated hamsters survive challenge with Nipah-Malaysia, Nipah-Bangladesh or Hendra virus, with reduced viral burden.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### The evolutionary plateau of efflux-mediated drug resistance in mycobacteria
+**저자**: Shiksha Sharma, Asis Kumar Khuntia, Vinay Kumar Nandicoori, Sarika Mehra · **게재일**: 2026-11-19 · [원문 링크](https://www.nature.com/articles/s41467-026-79513-6)
+
+**Abstract (EN)**: Nature Communications, Published online: 19 November 2026; doi:10.1038/s41467-026-79513-6 Multidrug efflux pumps are major drivers of antimicrobial resistance in bacteria. Here, Sharma et al. use experimental evolution in mycobacteria and show that, after prolonged selection, drug resistance achieved through efflux pump overexpression reaches a stable level, apparently due to exhaustion of cellular energy.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Interstitial proton buffering enables decoupled transfer dynamics for acidic wastewater decontamination
+**저자**: Minghao Xu, Yingji Zhao, Jianwen Zhang, Huawei Hu, Chengcheng Tian, Norman C.-R. Chen, Xiangyang Liu, Lei Zhou, Yusuke Yamauchi · **게재일**: 2026-11-19 · [원문 링크](https://www.nature.com/articles/s41467-026-78926-7)
+
+**Abstract (EN)**: Nature Communications, Published online: 19 November 2026; doi:10.1038/s41467-026-78926-7 Strong acidity stifles high-valent metal-oxo chemistry in water purification. Here, the authors show that interstitial boron in cobalt-manganese phosphide buffers protons and decouples proton-electron transfer, sustaining oxidation below pH 2.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -179,24 +203,38 @@
 
 ## Nucleic Acids Research
 
-### Live-cell imaging reveals two modes of TERRA association with telomeres and the dynamics of TERRA R-loops
-**게재일**: 2026-11-17 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1152/9079908?rss=1)
+### Beyond the double-helix: non-canonical nucleic acid structures as drug targets and therapeutics
+**게재일**: 2026-11-18 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1016/9089569?rss=1)
 
-**Abstract (EN)**: Abstract Telomeres are transcribed into TERRA long non-coding RNAs. When associating with telomeres, TERRA can regulate telomere maintenance by semiconservative DNA replication, telomerase and homology-directed repair (HDR). In addition, TERRA alters telomeric structure and protein composition. Yet, the molecular mechanisms and dynamics by which TERRA associates with telomeres remain elusive. To investigate TERRA-telomere interactions, we combine PP7 stem-loop TERRA tagging, genome editing and live-cell imaging. Using a deep-learning method for spot detection and single-particle tracking analysis, we demonstrate that TERRA associates with telomeres through two distinct modes. On one hand, TERRA interacts frequently and transiently with the telomeric shelterin protein TRF2. On the other hand, TERRA engages in long-lasting interactions which persist from seconds to several minutes forming R-loops with telomeric DNA. TERRA R-loops preferentially occur at short telomeres, and their formation requires factors involved in HDR, but not TRF2. Altogether, we reveal two parallel mechanisms of TERRA recruitment to telomeres, which differ substantially in their dynamics and structure, and we elucidate the dynamics of telomeric R-loops. Our findings provide a framework for understanding TERRA-triggered telomere functions during aging and carcinogenesis.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### A dual biocontainment system specifically constraining the transfer and escape of the engineered plasmid in microbial communities
-**게재일**: 2026-11-17 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1223/9079907?rss=1)
-
-**Abstract (EN)**: Abstract A variety of engineered genetic elements and circuits enable bacteria to sense environmental signals, process information, and execute programmed biological functions. However, the potential escape from such synthetic constructs into the natural environment poses biosafety risks and could disrupt ecological balance. To address this, we developed a dual biocontainment system designed to restrict the replication and expression of engineered plasmids exclusively within modified host (TEV protease and sgRNA-dCas9). This system employs TEV protease to remove ssrA degradation tags fused to the plasmid replication protein RepA, thereby enabling plasmid replication. Concurrently, a specific guide RNA (sgRNA) forms an inhibitory complex with dCas9 to prevent cleavage of the engineered plasmid by the I-OnuI endonuclease. Overall, dual biocontainment system provides a robust safety tool both in vitro and in vivo to restrict the transfer and escape of engineered plasmids (with an escape rate of 4.4 × 10 −8 in vitro and 2.4 × 10 −8 in vivo ), giving an efficient platform for safely use of synthetic genetic elements.
+**Abstract (EN)**: Abstract Nucleic acids adopt a rich repertoire of non-canonical structures beyond the iconic double helix — G-quadruplexes, i-motifs, triplexes, R-loops, Z-DNA/Z-RNA, and junctions — with roles in genome stability, transcription, replication, and translation. Yet the biological evidence for these conformations varies widely, from direct in vivo validation to largely indirect biochemical inference. We organize this review around a distinctive therapeutic duality: non-canonical structures may serve as molecular targets for small molecules, peptides, and nucleic acid-based modulators, while some are also engineered as therapeutic agents in their own right. For each structural class, we critically assess structural principles, biological evidence, and detection methods, explicitly distinguishing direct in vivo validation from cell-based and biochemical observations and noting the limitations of current detection strategies. Comparing translational maturity across classes through the lens of target versus agent, we identify key challenges — structural selectivity, mechanistic attribution, target engagement, and delivery — that must be resolved to fully realize the therapeutic potential of non-canonical nucleic acid structures.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### A non-nucleotide activator reveals a second allosteric regulatory site in the type III CRISPR ribonuclease Csm6
-**게재일**: 2026-11-17 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1202/9079906?rss=1)
+### Timing of ribosomal RNA modification during eukaryotic ribosome biogenesis
+**게재일**: 2026-11-18 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1220/9089568?rss=1)
 
-**Abstract (EN)**: Abstract Type III CRISPR-Cas systems rely on cyclic oligoadenylate (cOA) signaling to activate ancillary nucleases such as Csm6, which serve as core effectors in antiviral immunity. While cOA-mediated Csm6 activation has been widely harnessed for molecular diagnostics, its broader application is constrained by inherent limitations, including poor cellular permeability and susceptibility to degradation by ring nucleases. Here, we conducted a high-throughput fluorescence-based screen and identified DMPCH (7,8-dimethyl-4-phenylchroman-2-one) as a non-nucleotide allosteric activator of Thermus thermophilus ( Tt ) Csm6. DMPCH selectively stimulates Tt Csm6 ribonuclease activity by binding to the higher eukaryotes and prokaryotes nucleotide-binding domain dimerization interface, leading to expansion of the catalytic pocket and remodeling of the R-X 4–6 -H catalytic motif. Moreover, DMPCH acts synergistically with cA 4 to activate Tt Csm6, enabling rapid and sensitive RNA detection in a Cas13a–Csm6 system. Cell-based assays confirm that DMPCH activates Tt Csm6 ribonuclease activity in live bacteria cells. When combined with DMPCH, an engineered miniCsm6 fused to pyocin S2 (PyS2) exerts potent and specific bactericidal activity against Pseudomonas aeruginosa . Our work establishes a framework for discovering non-nucleotide activators of CRISPR-associated ribonucleases and highlights their potential as chemical tools in cell-based research and as therapeutic agents against bacterial pathogens.
+**Abstract (EN)**: Abstract Ribosomal RNA (rRNA) modifications are critical for ribosome function, influencing rRNA stability, structure, and interactions with ribosomal proteins and transfer RNA. However, the precise timing of modification during the complex process of ribosome biogenesis remains unknown. We address this knowledge gap by analyzing Saccharomyces cerevisiae precursor rRNA (pre-rRNA) through purification of RNA polymerase I and III and Nanopore direct RNA sequencing. Using quantitative RNA modification analyses of distinct pre-rRNA intermediates along the rRNA maturation pathway, we discover the timing of rRNA modifications mediated by small nucleolar ribonucleoproteins (snoRNPs) and other enzymes. All H/ACA snoRNPs act co-transcriptionally to form pseudouridines before 20S and 27SA2 pre-rRNAs are separated, and the same is true for C/D snoRNPs generating 2′-O-methylations. Most modifications, particularly those at the 5′ end of 18S rRNA, are fully installed already in 35S pre-rRNA, however certain modifications in the central and 3′ regions of 18S rRNA are only completed in later stages of ribosome assembly. These observations indicate that snoRNPs can continue to act on selected sites in pre-rRNA during subsequent pre-ribosome maturation steps. In conclusion, we provide detailed insights into the timing of rRNA modification during the early stages of rRNA maturation and the molecular choreography of eukaryotic ribosome biogenesis.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Conformationally heterogeneous RNA stem-loops enable dimerization-assisted assembly of SARS-CoV-2 Nsp9
+**게재일**: 2026-11-18 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1175/9089567?rss=1)
+
+**Abstract (EN)**: Abstract SARS-CoV-2 non-structural protein 9 (Nsp9) is an essential RNA-binding protein, yet the physical principles governing its RNA recognition remain poorly defined. Using NMR spectroscopy, small-angle X-ray scattering, dynamic light scattering, cell imaging, and viral yield-reduction assays, we show that Nsp9 preferentially engages conformationally heterogeneous RNA stem-oops and assembles through dimerization-assisted, multivalent interactions. Structured stem-loops with well-defined conformations and extended single-stranded RNAs exhibit only weak, localized binding. In contrast, the stem-loop-rich host 7SL S domain engages an extended interaction surface across the Nsp9 dimer. A 20-nt RNA hairpin bearing phosphorothioate and 2′- O -methyl modifications recapitulates this binding behaviour and promotes concentration-dependent formation of higher-order Nsp9 assemblies. NMR analysis indicates that this RNA retains stem-loop structure while populating a broader conformational ensemble than its unmodified counterpart. Disrupting the conserved GxxxG dimerization motif weakens binding and reduces assembly formation, demonstrating that dimerization assists integration of multiple weak RNA contacts into a cooperative interface. In cells, the modified RNA colocalizes with Nsp9 in cytoplasmic puncta and inhibits SARS-CoV-2 replication with nanomolar potency. Together, these results identify RNA conformational ensembles as important determinants of Nsp9 recognition, and suggest that RNA backbone modification can be used to engineer RNA-protein interactions through control of RNA conformational behaviour.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Fully modified SpyCas9 guide RNAs enable robust genome editing in cells and in vivo
+**게재일**: 2026-11-18 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1105/9089566?rss=1)
+
+**Abstract (EN)**: Abstract Precision engineering of CRISPR/Cas9 components has advanced genome editing toward therapeutic applications. Fully chemically modified guide RNAs (gRNAs) have the potential to improve stability and broaden therapeutic delivery strategies. However, extensive chemical modification of CRISPR guides can compromise genome editing activity by disrupting gRNA–Cas9 interactions. Here, we employed an iterative, structure-guided optimization strategy to systematically evaluate chemical modifications throughout SpyCas9 gRNAs. Extending beyond commonly used nucleotide modifications, we incorporated 2′-amino-RNA, 4′-thio-RNA, and extended nucleic acid (exNA) to generate gRNAs in which 90%–100% of nucleotides are sugar- or backbone-modified. Although the performance of individual modification patterns varied among target sequences, we established a repertoire of guides that support robust genome editing in vitro and in vivo . Collectively, these findings provide a systematic framework for rational engineering of heavily and fully modified gRNAs using diverse nucleotide chemistries for nonviral CRISPR genome editing.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Differential roles of tRNA m2G10 mediated by TRMT11–TRMT112 in cytoplasmic and mitochondrial translation
+**게재일**: 2026-11-18 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1176/9089559?rss=1)
+
+**Abstract (EN)**: Abstract Mitochondrial transfer RNAs (mt-tRNAs) harbor diverse types of posttranscriptional modifications. The enzyme responsible for N 2 -methylguanosine (m 2 G) formation at position 10 in mammalian mt-tRNAs remains unidentified, and the cellular function and biological significance of mitochondrial m 2 G10 remain poorly understood. Here, we find that a fraction of TRMT11 and TRMT112 is localized in mitochondria. Leveraging genetic, biochemical, and mass spectrometry approaches, we demonstrate that TRMT11 and TRMT112 jointly catalyze m 2 G10 biogenesis in mt-tRNAs. Critical residues in both proteins essential for complex formation and enzymatic activity are identified. The deletion of TRMT11 has little effect on cytoplasmic translation velocity and other tRNA modifications, with marginal suppression in decoding limited codons. Although mitochondrial m 2 G10 deficiency has little impact on the abundance, charging, and other modifications of mt-tRNAs, it causes a migration shift of multiple mt-tRNAs in native gels, indicating an altered mt-tRNA architecture. Consistently, the decoding efficiency of MT-ND3, MT-ND6, MT-CO1, MT-CO2 , and MT-CO3 messenger RNAs (mRNAs) is significantly impaired, causing changes in mitochondrial structure and function. Trmt11 knockout mice show no defects in development, growth, or functions in the heart, muscle, and spermatogenesis. Collectively, our results establish that TRMT11–TRMT112 is the mitochondrial m 2 G10 methyltransferase and reveal the differential roles of m 2 G10 on cytoplasmic and mitochondrial translation.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
