@@ -1,53 +1,54 @@
-# 📚 일일 논문 다이제스트 — 2026-11-20 (KST)
+# 📚 일일 논문 다이제스트 — 2026-11-21 (KST)
 
-**수집 저널 수**: 8개 · **논문 수**: 33편
+**수집 저널 수**: 9개 · **논문 수**: 31편
 
 > 영문 초록은 RSS 원본입니다. Claude Code 에서 `/translate-digest` 로 한국어 요약을 채워 넣으세요.
 
 ## 목차
 - [Nature](#nature) (5편)
 - [Science](#science) (5편)
-- [Nature Genetics](#nature-genetics) (2편)
-- [Nature Computational Science](#nature-computational-science) (4편)
-- [Nature Methods](#nature-methods) (5편)
-- [Molecular Psychiatry](#molecular-psychiatry) (2편)
+- [Nature Genetics](#nature-genetics) (1편)
+- [Nature Machine Intelligence](#nature-machine-intelligence) (1편)
+- [Nature Computational Science](#nature-computational-science) (2편)
+- [Nature Methods](#nature-methods) (2편)
 - [Biological Psychiatry](#biological-psychiatry) (5편)
 - [Nature Communications](#nature-communications) (5편)
+- [Nucleic Acids Research](#nucleic-acids-research) (5편)
 
 ## Nature
 
-### Retraction Note: Detection of anisotropic cosmic structures on a gigaparsec scale
-**저자**: Francesco Sylos Labini, Marco Galoppo · **게재일**: 2026-11-19 · [원문 링크](https://www.nature.com/articles/s41586-026-11388-5)
+### How AI is affecting science careers
+**저자**: David Payne · **게재일**: 2026-11-20 · [원문 링크](https://www.nature.com/articles/d41586-026-03680-1)
 
-**Abstract (EN)**: Nature, Published online: 19 November 2026; doi:10.1038/s41586-026-11388-5 Retraction Note: Detection of anisotropic cosmic structures on a gigaparsec scale
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Calcium catalysed nucleophilic fluorination
-**저자**: Job J. C. Struijs, Agamemnon E. Crumpton, Véronique Gouverneur, Simon Aldridge · **게재일**: 2026-11-19 · [원문 링크](https://www.nature.com/articles/s41586-026-11445-z)
-
-**Abstract (EN)**: Nature, Published online: 19 November 2026; doi:10.1038/s41586-026-11445-z Calcium catalysed nucleophilic fluorination
+**Abstract (EN)**: Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03680-1 Join a free webinar to discuss how the technology is changing researchers' roles, their skills and job security.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### More tropical cyclones hit peak fury at the worst possible time
-**게재일**: 2026-11-19 · [원문 링크](https://www.nature.com/articles/d41586-026-03748-y)
+### Lifting weights reduces muscle loss from obesity drugs
+**게재일**: 2026-11-20 · [원문 링크](https://www.nature.com/articles/d41586-026-03751-3)
 
-**Abstract (EN)**: Nature, Published online: 19 November 2026; doi:10.1038/d41586-026-03748-y Climate change is creating conditions that pump up the intensity of hurricanes and typhoons just as the storms reach the coast.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### People entering old age now have better memory than their parents did
-**저자**: Miryam Naddaf · **게재일**: 2026-11-19 · [원문 링크](https://www.nature.com/articles/d41586-026-03783-9)
-
-**Abstract (EN)**: Nature, Published online: 19 November 2026; doi:10.1038/d41586-026-03783-9 Older people today maintain memory function for longer than previous generations did, according to a study of 219,000 adults.
+**Abstract (EN)**: Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03751-3 Resistance exercise could help middle-aged and older individuals to maintain muscle mass and strength during weight-loss treatment.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### University students are biggest spreaders of COVID
-**저자**: Heidi Ledford · **게재일**: 2026-11-19 · [원문 링크](https://www.nature.com/articles/d41586-026-03746-0)
+### Briefing Chat: Voyager 1 is now one ‘light day’ from Earth — setting a cosmic record
+**저자**: Benjamin Thompson, Elizabeth Gibney · **게재일**: 2026-11-20 · [원문 링크](https://www.nature.com/articles/d41586-026-03806-5)
 
-**Abstract (EN)**: Nature, Published online: 19 November 2026; doi:10.1038/d41586-026-03746-0 Undergraduates were the first group to spread genetic variants of SARS-CoV-2 during the pandemic, mega-analysis finds.
+**Abstract (EN)**: Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03806-5 Nature staff discuss the probe’s epic journey — plus, how vampire bats survive on a blood-only diet.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Fraud helps little fire ants to survive and conquer
+**게재일**: 2026-11-20 · [원문 링크](https://www.nature.com/articles/d41586-026-03776-8)
+
+**Abstract (EN)**: Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03776-8 Invasive ants in China overcome larger rivals with a crafty stratagem and vigorous attack.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### ‘I had felt overconfident’: senior scientists reveal mistakes that aided discovery
+**저자**: Meghie Rodrigues · **게재일**: 2026-11-20 · [원문 링크](https://www.nature.com/articles/d41586-026-03590-2)
+
+**Abstract (EN)**: Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03590-2 Five experienced researchers, including a Nobel prizewinner, revisit the dead ends, bloopers and moments of stubborn certainty that shaped their science.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -94,17 +95,21 @@
 
 ## Nature Genetics
 
-### Tracing genetic risk of neurodegenerative disease through variants affecting microglial function
-**게재일**: 2026-11-19 · [원문 링크](https://www.nature.com/articles/s41588-026-02839-w)
+### Multiancestry genome-wide association and integrative multiomics analyses implicate key pathways in endometriosis
+**저자**: Lindsay A. Guare, Jagyashila Das, Lannawill Caruth, Ananya Rajagopalan, Alexis T. Akerele, James Jaworski, Leah Kottyan, Ashley J. Mulford, Elisa Moreno, Ben M. Brumpton, Craig Teerlink, Julie Lynch, Tzu-Ting Chen, Yen-Feng Lin, Kyong-Mi Chang, Sinead B. Chapman, Todd Edwards, Suneeta Senapati, Digna R. Velez Edwards, Wei Zhou, Shefali Setia-Verma, Noemie Elhadad, Gail P. Jarvik, Yuan Luo, Wei-Qi Wei, Chunhua Weng, Danielle Candelieri-Surette, Marija Simona Dombrovska, Andrew C. Hill, Shinichi Namba, Yukinori Okada, Vita Rovite, Alan R. Sanders, Yue Shi, Yuya Shirai, Jonathan Shortt, Yuji Yamamoto · **게재일**: 2026-11-20 · [원문 링크](https://www.nature.com/articles/s41588-026-02810-9)
 
-**Abstract (EN)**: Nature Genetics, Published online: 19 November 2026; doi:10.1038/s41588-026-02839-w We combined pooled differentiation of 261 human induced pluripotent stem cell lines into microglia-like cells with single-cell transcriptomics, cellular phenotyping and CRISPR screening to trace neurodegenerative risk variants through to microglial function. This approach identified genetic drivers that influence microglial differentiation, migration and phagocytosis, including disease-relevant effects at LRRK2 and TREM2.
+**Abstract (EN)**: Nature Genetics, Published online: 20 November 2026; doi:10.1038/s41588-026-02810-9 Multiancestry genome-wide association coupled with integrative multiomics analyses identify risk loci for endometriosis and implicate key genes and pathways underlying its pathogenesis, including roles for immune cell types and cellular proliferation.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Optimizing phenotype scale improves genetic analyses in large-scale biobanks
-**저자**: Zhenhong Huang, Manuela Costantino, Andy Dahl · **게재일**: 2026-11-19 · [원문 링크](https://www.nature.com/articles/s41588-026-02826-1)
+---
 
-**Abstract (EN)**: Nature Genetics, Published online: 19 November 2026; doi:10.1038/s41588-026-02826-1 SIQReg is a data-driven approach for optimizing phenotype scale transformation that substantially reduces scale-dependent heterogeneity while preserving biologically plausible nonadditive signals and improving power to detect additive signals.
+## Nature Machine Intelligence
+
+### Enabling lab autonomy with reward functions and executable workflows
+**저자**: Sergei V. Kalinin, Boris N. Slautin, Yu Liu, Elham Foadian, Gerd Duscher, Mahshid Ahmadi, Timur Bazhirov · **게재일**: 2026-11-20 · [원문 링크](https://www.nature.com/articles/s42256-026-01339-0)
+
+**Abstract (EN)**: Nature Machine Intelligence, Published online: 20 November 2026; doi:10.1038/s42256-026-01339-0 Kalinin et al. argue that for self-driving laboratories to achieve autonomy in the physical world, large language model hypothesis generation needs to be complemented by bottom-up optimization translating hypotheses into executable workflows.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -112,31 +117,17 @@
 
 ## Nature Computational Science
 
-### Designing functional proteins from natural language
-**저자**: Ananya Rastogi · **게재일**: 2026-11-19 · [원문 링크](https://www.nature.com/articles/s43588-026-01099-2)
+### System of agentic AI for the discovery of metal–organic frameworks
+**저자**: Théo Jaffrelot Inizan, Sherry Yang, Aaron Kaplan, Yen-hsu Lin, Jian Yin, Saber Mirzaei, Mona Abdelgaid, Ali H. Alawadhi, KwangHwan Cho, Zhiling Zheng, Ekin Dogus Cubuk, Christian Borgs, Jennifer T. Chayes, Kristin A. Persson, Omar M. Yaghi · **게재일**: 2026-11-20 · [원문 링크](https://www.nature.com/articles/s43588-026-01058-x)
 
-**Abstract (EN)**: Nature Computational Science, Published online: 19 November 2026; doi:10.1038/s43588-026-01099-2 Designing functional proteins from natural language
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Formal proof search enables reliable AI-driven mathematical discovery
-**저자**: Jake Rogers · **게재일**: 2026-11-19 · [원문 링크](https://www.nature.com/articles/s43588-026-01103-9)
-
-**Abstract (EN)**: Nature Computational Science, Published online: 19 November 2026; doi:10.1038/s43588-026-01103-9 Formal proof search enables reliable AI-driven mathematical discovery
+**Abstract (EN)**: Nature Computational Science, Published online: 20 November 2026; doi:10.1038/s43588-026-01058-x An agentic AI system, MOFGen, is developed to accelerate the discovery of synthesizable metal–organic frameworks.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### An alternative path for artificial intelligence in Africa
-**저자**: Matthew L. Smith, Gretchen Adams, Rachel Adams, Fitsum A. Andargie, Tegawendé F. Bissyandé, Anindya Chaudhuri, Becky Faith, Dickson Marfo Fosu, Barbara Glover, Annette Hübschle, Jerry John Kponyo, Howard Lakougna, Abiodun Modupe, Joyce Nakatumba Nabende, Seydina Moussa Ndiaye, Victor Odumuyiwa, Idrissa Sarr, Balthas Seibold, Jonathan Shock, Valerie G. Traore, Kofi Yeboah · **게재일**: 2026-11-19 · [원문 링크](https://www.nature.com/articles/s43588-026-01084-9)
+### Predicting degradation of polymeric materials in complex chemical environments via molecular modeling
+**저자**: Jacob R. Gissinger, Joshua Bauer, Janitha J. Mahanthe, Benjamin D. Fairbanks, Christopher N. Bowman, Vikas Varshney · **게재일**: 2026-11-20 · [원문 링크](https://www.nature.com/articles/s43588-026-01041-6)
 
-**Abstract (EN)**: Nature Computational Science, Published online: 19 November 2026; doi:10.1038/s43588-026-01084-9 African governments face a perceived choice between investing in costly national data centers and dependence on foreign technology providers. Both options rest on assumptions that the evidence no longer supports. We argue for a third path, distributed sovereignty: cooperative infrastructure designed for African conditions.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Generative molecular design needs oracle grounding
-**저자**: Sarina Kopf, Philippe Schwaller · **게재일**: 2026-11-19 · [원문 링크](https://www.nature.com/articles/s43588-026-01082-x)
-
-**Abstract (EN)**: Nature Computational Science, Published online: 19 November 2026; doi:10.1038/s43588-026-01082-x Generative molecular design is guided by oracles, computational proxies of experimental goals that models can exploit. We argue that oracle grounding, in which experiments diagnose and correct oracle failures, will allow generative models to discover not only new molecules but also new chemistry.
+**Abstract (EN)**: Nature Computational Science, Published online: 20 November 2026; doi:10.1038/s43588-026-01041-6 This Perspective explores how physical models, in collaboration with big data and artificial intelligence, can accelerate our understanding of the degradation of soft materials.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -144,56 +135,17 @@
 
 ## Nature Methods
 
-### Space-map is a tool that integrates tissue slices into detailed 3D cell maps
-**게재일**: 2026-11-19 · [원문 링크](https://www.nature.com/articles/s41592-026-03309-1)
+### Computational methods for cell–cell communication via single cells
+**저자**: Haochen Li, Xiaoxiang Zhou, Xiaoqiang Sun, Qing Nie, Yibo Gao, Jie He · **게재일**: 2026-11-20 · [원문 링크](https://www.nature.com/articles/s41592-026-03287-4)
 
-**Abstract (EN)**: Nature Methods, Published online: 19 November 2026; doi:10.1038/s41592-026-03309-1 We developed a tool that reconstructs three-dimensional tissue maps from serial sections profiled for RNA or proteins. By aligning information from across multiple sections, Space-map reduced cumulative distortion and preserved intestinal microanatomy, while handling millions of cell measurements more efficiently than other methods tested.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### 4D ultrasound cerebral angiography reveals the hemodynamics of the circle of Willis in primates
-**저자**: Nabil Haidour, Alexandre Dizeux, Joanna Loayza, Lucas Bolliet, Philippe Mateo, Mathieu Santin, Stephane Lehericy, Mathieu Pernot, Mickael Tanter, Pierre Pouget, Clément Papadacci · **게재일**: 2026-11-19 · [원문 링크](https://www.nature.com/articles/s41592-026-03314-4)
-
-**Abstract (EN)**: Nature Methods, Published online: 19 November 2026; doi:10.1038/s41592-026-03314-4 Four-dimensional ultrasound cerebral angiography (4D UCA) allows imaging of hemodynamic activity in the macaque through the intact skull, as demonstrated by imaging the circle of Willis.
+**Abstract (EN)**: Nature Methods, Published online: 20 November 2026; doi:10.1038/s41592-026-03287-4 This Review examines the diversity of algorithmic methods for cell–cell communication.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Characterizing the solution space of migration histories of metastatic cancers with MACH2
-**저자**: Mrinmoy S. Roddur, Vikram Ramavarapu, Abigail Bunkum, Ariana Huebner, Roman Mineyev, Nicholas McGranahan, Simone Zaccaria, Mohammed El-Kebir · **게재일**: 2026-11-19 · [원문 링크](https://www.nature.com/articles/s41592-026-03321-5)
+### A two-platform blueprint for modeling human brain development
+**저자**: Alejandro De Los Angeles, Chuanxin Chen, Timothy Theodore Ka Ki Tam, Shao Xu, Hongkui Deng, Chen-Yu Huang, Tianqing Li, Pentao Liu, Yuin-Han Loh, Jeantine Lunshof, Chin Siang Ong, Duanqing Pei, Thorold W. Theunissen, Alan Trounson, Leqian Yu, Kiminobu Sugaya, José C. R. Silva · **게재일**: 2026-11-20 · [원문 링크](https://www.nature.com/articles/s41592-026-03327-z)
 
-**Abstract (EN)**: Nature Methods, Published online: 19 November 2026; doi:10.1038/s41592-026-03321-5 MACH2 reconstructs all parsimonious migration histories of metastatic cancers.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Scalable electron tomography for connectomics
-**저자**: Aaron T. Kuan, Sébastien Phan, Kevin M. Delgado, Keun-Young Kim, Mason R. Mackey, Minsu Kim, Xiuye Chen, Steven T. Peltier, Mark Ellisman, Wei-Chung Allen Lee · **게재일**: 2026-11-19 · [원문 링크](https://www.nature.com/articles/s41592-026-03345-x)
-
-**Abstract (EN)**: Nature Methods, Published online: 19 November 2026; doi:10.1038/s41592-026-03345-x Electron tomography enables connectomics and volume electron microscopy by imaging thick tissue sections at a few tilt angles and reconstructing the volumes computationally.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Space-map: 3D single-cell atlas reconstruction from serial sections
-**저자**: Rongduo Han, Cihan Ruan, Bingqing Zhao, Yuqi Tan, Emma Monte, Bei Wei, Joanna Bi, Thomas V. Karathanos, Rozelle Laquindanum, Gregory W. Charville, Yiing Lin, Nam Ling, James M. Ford, Garry P. Nolan, Meng Wang, Chenchen Zhu, Michael P. Snyder · **게재일**: 2026-11-19 · [원문 링크](https://www.nature.com/articles/s41592-026-03310-8)
-
-**Abstract (EN)**: Nature Methods, Published online: 19 November 2026; doi:10.1038/s41592-026-03310-8 Space-map is a highly robust computational method that enables reconstruction of three-dimensional tissue from two-dimensional serial-section data.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
----
-
-## Molecular Psychiatry
-
-### A state-dependent glymphatic dimension in major depressive disorder: implications for treatment resistance
-**저자**: Tommaso Barlattani, Mauro Pettorruso, Giorgio Di Lorenzo, Francesca Zoratto, Francesca Pacitti, Giovanni Martinotti · **게재일**: 2026-11-19 · [원문 링크](https://www.nature.com/articles/s41380-026-03974-w)
-
-**Abstract (EN)**: Molecular Psychiatry, Published online: 19 November 2026; doi:10.1038/s41380-026-03974-w A state-dependent glymphatic dimension in major depressive disorder: implications for treatment resistance
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Assortative mating can mask non-additive genetic contributions to individual differences
-**저자**: Giacomo Bignardi, Hans Fredrik Sunde, Susanne Bruins, Jared V. Balbona, Simon E. Fisher, Dorret I. Boomsma · **게재일**: 2026-11-19 · [원문 링크](https://www.nature.com/articles/s41380-026-03932-6)
-
-**Abstract (EN)**: Molecular Psychiatry, Published online: 19 November 2026; doi:10.1038/s41380-026-03932-6 Assortative mating can mask non-additive genetic contributions to individual differences
+**Abstract (EN)**: Nature Methods, Published online: 20 November 2026; doi:10.1038/s41592-026-03327-z This Perspective discusses modeling approaches for human brain development as well as experimental and biological barriers and ethical considerations.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -240,38 +192,77 @@
 
 ## Nature Communications
 
-### SMC5/6 safeguards chromatin compartments and TAD boundaries for genome stability
-**저자**: Raquel Sofia Silva, Alessandro Morea, Giovanni Lembo, Aki Nunomiya, Federica Lucini, Fabio Iannelli, Nicola Crosetto, Francesco Ferrari, Dana Branzei · **게재일**: 2026-11-20 · [원문 링크](https://www.nature.com/articles/s41467-026-79493-7)
+### Plankton ecological complexity amplifies climate-driven weakening of the ocean biological pump
+**저자**: Fanyu Lin, Chengfeng Le, Yihui Chen, Gabriela Negrete-García, Jessica Y. Luo, Stephanie Henson, Stephanie Dutkiewicz · **게재일**: 2026-11-21 · [원문 링크](https://www.nature.com/articles/s41467-026-79817-7)
 
-**Abstract (EN)**: Nature Communications, Published online: 20 November 2026; doi:10.1038/s41467-026-79493-7 The SMC5/6 complex protects genome stability, but how it shapes 3D genome folding is unclear. Here, the authors show that SMC5/6 loss in human cells alters chromatin compartments and activates inflammatory and cancer-related genes, changes that are uncoupled from DNA damage.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Viscoelasticity of synthetic antigen presenting cells reprograms T cell metabolism for TCR-T cell manufacturing and therapy
-**저자**: Youcheng Yang, Yan-Ruide Li, Zeyang Liu, Hao Zhou, Yichen Zhu, Xinyuan Shen, Dexter Lai, Yihui Cen, Emily Z. Y. Miller, Haochen Nan, Bo Zhang, Shubing Wang, Jason Lin, Yuning Chen, Bella Raykowski, Enbo Zhu, Jun Shen, Keyue Shen, Junyoung O. Park, Jingyi Jessica Li, Xiling Shen, Zhaohui Wang, Lili Yang, Song Li · **게재일**: 2026-11-20 · [원문 링크](https://www.nature.com/articles/s41467-026-78131-6)
-
-**Abstract (EN)**: Nature Communications, Published online: 20 November 2026; doi:10.1038/s41467-026-78131-6 Li and colleagues have previously reported the generation of viscoelastic synthetic antibody-presenting cells for CAR-T therapy. Here the authors report that fast-relaxing synthetic viscoelastic activating cells presenting antigen promote the expansion of antigen-specific T cells toward a favourable metabolic state with enhanced anti-tumor efficacy in TCR-T cell therapy.
+**Abstract (EN)**: Nature Communications, Published online: 21 November 2026; doi:10.1038/s41467-026-79817-7 Using one Earth system model with increasingly complex plankton food webs, the study finds that greater ecological complexity amplifies climate-driven declines in ocean carbon export, suggesting simple models may underestimate future weakening.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Twist-engineered arbitrary polarization detection for intelligent polarimetric sensing
-**저자**: Mengdie Shi, Tao Ye, Jie Deng, Ruowen Wang, Yonghao Bu, Tianyuan Cui, Liwen Fu, Junwei Huang, Jun Ning, Xueling Guo, Haibo Shu, Xiaoshuang Chen, Jing Zhou · **게재일**: 2026-11-20 · [원문 링크](https://www.nature.com/articles/s41467-026-79650-y)
+### Biosynthesis of iboga alkaloids
+**저자**: Moonyoung Kang, Mohamed Omar Kamileen, Yoko Nakamura, John P. Hamilton, Gyumin Kang, Bruno Huettel, Jens Wurlitzer, Sarah Heinicke, Maritta Kunert, C. Robin Buell, Lorenzo Caputi, Sarah E. O’Connor · **게재일**: 2026-11-21 · [원문 링크](https://www.nature.com/articles/s41467-026-79750-9)
 
-**Abstract (EN)**: Nature Communications, Published online: 20 November 2026; doi:10.1038/s41467-026-79650-y Twist-photonics can tailor light-matter interactions but is difficult to integrate into active devices. Here, the authors show a twist-stacked plasmonic metasurface-black phosphorus platform for arbitrary polarization detection, full-Stokes sensing, and polarization-programmable in-sensor computing.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Hyperelastic microfibers as bioinspired proprioceptive artificial muscles
-**저자**: Joonhee Won, Jaehyun Jang, Hyunseo Kim, Inyoung Choi, Kyunghyun Jo, Yunheum Lee, Jiheong Kang, Steve Park, Gun-Hee Lee, Yong-Lae Park, Hyunwoo Yuk, Carmel Majidi, Seongjun Park · **게재일**: 2026-11-20 · [원문 링크](https://www.nature.com/articles/s41467-026-79467-9)
-
-**Abstract (EN)**: Nature Communications, Published online: 20 November 2026; doi:10.1038/s41467-026-79467-9 Designing actuators for artificial muscles is promising for soft robotics, though it is challenging to integrate feedback without compromising performance. Here the authors design thermally drawn hyperelastic fibers that integrate optical sensing and hydraulic actuation for artificial muscles
+**Abstract (EN)**: Nature Communications, Published online: 21 November 2026; doi:10.1038/s41467-026-79750-9 Tabernanthe iboga produces the medically important alkaloids voacangine and ibogaine, but key steps in their biosynthesis, as well as the biosynthetic route to the structurally distinct alkaloid ibophyllidine, have remained unresolved. Using genome sequencing, bulk and single-cell transcriptomics, and biochemical reconstitution, the authors identify the missing enzymes required for coronaridine and voacangine biosynthesis, elucidate the complete pathway to ibophyllidine, and achieve heterologous production of voacangine in Nicotiana benthamiana.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Disturbance increases soil microbiome functional redundancy but decreases capacity for insurance via winnowed environmental responsiveness
-**저자**: Samuel E. Barnett, Ashley Shade · **게재일**: 2026-11-19 · [원문 링크](https://www.nature.com/articles/s41467-026-79487-5)
+### Visible light drives bright extreme-ultraviolet high harmonics
+**저자**: Maximilian Karst, Martin Gebhardt, Lucas Eisenbach, Philipp Gierschke, Themistoklis Sidiropoulos, Robert Klas, Jan Rothhardt, Jens Limpert · **게재일**: 2026-11-21 · [원문 링크](https://www.nature.com/articles/s41467-026-79615-1)
 
-**Abstract (EN)**: Nature Communications, Published online: 19 November 2026; doi:10.1038/s41467-026-79487-5 More redundancy doesn’t always mean more resilience. Here, the authors use seven-year-long metagenomics data from soils above Centralia’s coal seam fire to show that heat disturbance increases microbial functional redundancy but narrows environmental responsiveness, potentially lowering insurance against future stress.
+**Abstract (EN)**: Nature Communications, Published online: 21 November 2026; doi:10.1038/s41467-026-79615-1 High-harmonic generation (HHG) brings bright extreme ultraviolet (XUV) light to the laboratory, but achieving high photon flux at short wavelengths remains a challenge. Here, the authors demonstrate visible-light-driven HHG with exceptionally high flux at 13.5 nm, enabled by plasma-core-induced self-guiding and efficient phase-matching conditions.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Chemical upcycling of mixed polyolefins via rapid C–H nitration
+**저자**: Yizhen Che, Yuqi Wang, Bijie Li, Zhiqiang Niu · **게재일**: 2026-11-20 · [원문 링크](https://www.nature.com/articles/s41467-026-79649-5)
+
+**Abstract (EN)**: Nature Communications, Published online: 20 November 2026; doi:10.1038/s41467-026-79649-5 Post-polymerization modification provides a route to upcycle polyolefin waste, but most current systems have long reaction times and are substrate specific. Here, the authors report the rapid C-H nitration of various polyolefins with high selectivity and functionalisation degrees, forming functionalised polyolefins with enhanced tensile and adhesive properties.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Optical observation of ultrafast carrier separation in InGaN photocatalyst nanostructures
+**저자**: Yifan Shen, Josey Hanish, Ishtiaque Ahmed Navid, Yuyang Pan, Zetian Mi, Theodore B. Norris · **게재일**: 2026-11-20 · [원문 링크](https://www.nature.com/articles/s41467-026-79779-w)
+
+**Abstract (EN)**: Nature Communications, Published online: 20 November 2026; doi:10.1038/s41467-026-79779-w The authors show that ultrafast carrier separation causes the rapid photoluminescence decay in nanostructured InGaN photocatalysts from time resolved photoluminescence and differential reflectance spectroscopy supported by numerical modelling.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+---
+
+## Nucleic Acids Research
+
+### FAM50A restrains METTL3–METTL14 catalytic activity to regulate m6A deposition and cell proliferation
+**게재일**: 2026-11-20 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1236/9103992?rss=1)
+
+**Abstract (EN)**: Abstract N 6 -methyladenosine (m 6 A) is the most abundant internal modification in eukaryotic messenger RNA (mRNA) and is substantially deposited co-transcriptionally by the METTL3–METTL14 methyltransferase complex. However, how chromatin-associated factors modulate the catalytic activity of the m 6 A writer complex remains poorly understood. Here, we identify FAM50A as a chromatin-associated negative regulator of m 6 A deposition. Histone TurboID-based chromatin proteomics and biochemical analyses revealed that FAM50A directly interacts with METTL3. Acute depletion of FAM50A resulted in a global increase in mRNA m 6 A modification, as demonstrated by quantitative, single-nucleotide-resolution GLORI. Mechanistically, FAM50A directly restrains METTL3–METTL14 methyltransferase activity without interfering with RNA substrate binding, thereby limiting excessive m 6 A deposition. Increased m 6 A following FAM50A depletion exerted transcript-dependent effects on mRNA stability, promoting destabilization of a subset of proliferation-associated transcripts while stabilizing others. These changes disrupted proliferation-associated gene-expression programs and impaired cell proliferation and viability. Furthermore, pathogenic FAM50A variants associated with Armfield X-linked intellectual disability exhibited defective m 6 A regulation and impaired cellular functions. Together, our findings identify FAM50A as a chromatin-associated restraint on METTL3–METTL14 activity that maintains m 6 A homeostasis and links epitranscriptomic regulation to cell proliferation and human disease.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### NF-kappaB dimer exchange on the promoter facilitates transcription activation of NF-kappaB repressed IRF3 target genes—a plausible mechanism
+**게재일**: 2026-11-20 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1268/9103990?rss=1)
+
+**Abstract (EN)**: Abstract The NF-κB and the IRF family of transcription factors are the key regulators of innate immune response in vertebrates. Depending upon the state of the cell the NF-κB subunits can activate as well as repress transcription of many genes by binding to its cognate κB sequence on the promoter/enhancers of various genes. The NF-κB proteins function as dimers, and variation in dimer composition represents one of the mechanisms for regulating transcription of specific genes. The homodimer of p50 NF-κB subunit is known to maintain a subset of IRF3 target genes under repressed state by binding to the promoter site called the G-IRE. G-IRE is an incomplete κB sequence juxtaposed with the IRF3 cognate IRE. Our in vitro results show that the NF-κB p50 homodimer can readily exchange on the κB DNA to form the NF-κB p50-RelA heterodimer. This dimer exchange on the DNA facilitates the binding of DNA binding domain of IRF3 to the G-IRE site required for transcription activation of these IRF3 target genes.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Excessive PCNA-associated mismatch repair proteins on chromatin by ATAD5 deficiency confers alkylating sensitivity
+**게재일**: 2026-11-20 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1267/9103986?rss=1)
+
+**Abstract (EN)**: Abstract Proliferating cell nuclear antigen (PCNA) acts as a central scaffold coordinating DNA replication and repair. Precise regulation of PCNA loading and unloading is therefore essential for maintaining genome stability. ATAD5, a component of an RFC–like complex, functions as the primary PCNA unloader; however, how defective PCNA clearance influences DNA damage responses remains incompletely understood. Here, we report that loss of ATAD5 selectively enhances cellular sensitivity to alkylating DNA damage through a mismatch repair (MMR)-dependent mechanism. ATAD5 depletion caused persistent retention of PCNA on chromatin, resulting in excessive accumulation of PCNA–associated MMR proteins without altering their overall expression levels. Upon exposure to O 6 –methylguanine-inducing alkylating agents, ATAD5–deficient cells exhibited pronounced increases in chromatin–bound MMR factors, elevated DNA double–strand break (DSB) markers, and enhanced apoptotic responses. Importantly, co–depletion of MSH2 suppressed both DNA damage signaling and cell death, indicating that the cytotoxic effects observed in ATAD5–deficient cells are largely mediated by aberrant MMR activity. Mechanistically, our data support a model in which ATAD5 constrains the excessive function of MMR by modulating repair protein abundance through regulating PCNA residence on chromatin. Failure of ATAD5–mediated PCNA unloading prolongs MMR engagement, likely increasing the frequency or persistence of nonproductive repair events that culminate in secondary DNA break formation. These findings uncover a previously unappreciated link between PCNA dynamics and MMR–dependent apoptosis in response to alkylating damage. Our study further suggests that ATAD5 expression levels may influence tumor cell responses to alkylating chemotherapeutics, highlighting PCNA unloading as a potential determinant of therapeutic sensitivity and genome stability.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Correction to ‘A new anti-CRISPR gene promotes the spread of drug-resistance plasmids in Klebsiella pneumoniae’
+**게재일**: 2026-11-20 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1301/9103980?rss=1)
+
+**Abstract (EN)**: This is a correction to: Chunyu Jiang, Chengzhi Yu, Shuyi Sun, Jiajia Lin, Mufeng Cai, Zhenquan Wei, Lingling Feng, Jianhui Li, Yan Zhang, Ke Dong, Xiaokui Guo, Jinhong Qin, Yu Zhang, A new anti-CRISPR gene promotes the spread of drug-resistance plasmids in Klebsiella pneumoniae, Nucleic Acids Research , Volume 52, Issue 14, 12 August 2024, Pages 8370–8384, https://doi.org/10.1093/nar/gkae516
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Correction to ‘rAAV capsid mutants eliminate leaky expression from DNA donor template for homologous recombination’
+**게재일**: 2026-11-20 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1307/9103979?rss=1)
+
+**Abstract (EN)**: This is a correction to: Chen Ling, Chenghui Yu, Cong Wang, Ming Yang, Hengbin Yang, Keying Yang, Yun He, Yajie Shen, Shiyi Tang, Xiaomin Yu, Zhengjun Zhou, Shaolai Zhou, Jian Zhou, Liqing Zhu, Jixi Li, rAAV capsid mutants eliminate leaky expression from DNA donor template for homologous recombination, Nucleic Acids Research , Volume 52, Issue 11, 24 June 2024, Pages 6518–6531, https://doi.org/10.1093/nar/gkae401
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
