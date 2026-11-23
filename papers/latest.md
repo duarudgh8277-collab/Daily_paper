@@ -1,26 +1,21 @@
-# 📚 일일 논문 다이제스트 — 2026-11-22 (KST)
+# 📚 일일 논문 다이제스트 — 2026-11-23 (KST)
 
-**수집 저널 수**: 3개 · **논문 수**: 11편
+**수집 저널 수**: 2개 · **논문 수**: 10편
 
 > 영문 초록은 RSS 원본입니다. Claude Code 에서 `/translate-digest` 로 한국어 요약을 채워 넣으세요.
 
 ## 목차
-- [Nature](#nature) (1편)
 - [Biological Psychiatry](#biological-psychiatry) (5편)
 - [Nature Communications](#nature-communications) (5편)
 
-## Nature
+## Biological Psychiatry
 
-### BepiColombo finally reaches Mercury after eight-year odyssey
-**저자**: Davide Castelvecchi · **게재일**: 2026-11-21 · [원문 링크](https://www.nature.com/articles/d41586-026-03803-8)
+### Combined Neuromelanin-Sensitive and Functional Magnetic Resonance Imaging Links Midbrain Dopaminergic Dysfunction to Connectome Architecture in First-Episode, Medication-Naïve Major Depressive Disorder
+**저자**: Qiuyu Lv, Chengwen Liu, Daifeng Dong, Xuanyi Wang, Emily L. Belleau, Qiang Luo, Xiaosheng Wang, Pan Lin, Randy P. Auerbach, Diego A. Pizzagalli, Xiang Wang · **게재일**: 2026-11-22 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01709-9/fulltext?rss=yes)
 
-**Abstract (EN)**: Nature, Published online: 21 November 2026; doi:10.1038/d41586-026-03803-8 European and Japanese probes will trace different paths around the planet to study its surface and its surroundings.
+**Abstract (EN)**: Accumulating evidence implicates dopaminergic dysfunction in major depressive disorder (MDD), yet direct evidence of such dysfunction and of its altered coupling with the functional connectome remains limited.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
----
-
-## Biological Psychiatry
 
 ### Guide for Authors
 **게재일**: 2026-12-15 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01628-8/fulltext?rss=yes)
@@ -50,49 +45,42 @@
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Reviewer Acknowledgments
-**게재일**: 2026-12-15 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01587-8/fulltext?rss=yes)
-
-**Abstract (EN)**: The editors gratefully acknowledge the assistance of the following:
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
 ---
 
 ## Nature Communications
 
-### Chronically stable, frequency-selective auditory brainstem stimulation via ultra-flexible penetrating electrode arrays
-**저자**: Jinxi Pan, Bodi Liu, Zeyu Wang, Guangyuan Chen, Chengyao Wang, Ying Chen, Huan Jia, Zhaoyan Wang, Chi Ren, Zhengtuo Zhao, Hao Wu · **게재일**: 2026-11-22 · [원문 링크](https://www.nature.com/articles/s41467-026-79747-4)
+### Electrically induced glass transition of polyelectrolyte complexes enables kinetic ionic diodes
+**저자**: Chankyu Kim, Chan-Hyuk Jeon, Jowon Shin, Younghoon Kim, Owen A. Lee, Ryan C. Hayward, Hyeong Jun Kim · **게재일**: 2026-11-22 · [원문 링크](https://www.nature.com/articles/s41467-026-79559-6)
 
-**Abstract (EN)**: Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79747-4 Surface auditory brainstem implants have poor spatial resolution and limited tonotopic access. Here, the authors develop a high-density, ultra-flexible penetrating array for frequency-selective cochlear nucleus stimulation and use-dependent plasticity in downstream auditory circuits.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Episodic memory consolidation by reactivation of human concept neurons during sleep reflects contents, not sequence of events
-**저자**: J. Niediek, T. P. Reber, M. Bausch, F. Schwimmbeck, H. Gast, V. A. Coenen, J. Boström, C. E. Elger, F. Mormann · **게재일**: 2026-11-22 · [원문 링크](https://www.nature.com/articles/s41467-026-79544-z)
-
-**Abstract (EN)**: Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79544-z Recording from epilepsy patients during learning, recall, and sleep, the authors show that semantically tuned concept cells in the medial temporal lobe encode the content, but not the sequential order of remembered events
+**Abstract (EN)**: Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79559-6 The glass transition induces changes in material properties, transforming a rigid glass into a soft rubber. Here the authors demonstrate an electrically induced glass transition in a polyelectrolyte complex, sandwiched between two oppositely charged ionoelastomers and applying time-temperature-salt superposition principle.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Accelerating high-throughput catalyst screening by direct generation of equilibrium adsorption structures
-**저자**: Songze Huo, Xiao-Ming Cao · **게재일**: 2026-11-21 · [원문 링크](https://www.nature.com/articles/s41467-026-79243-9)
+### The genetic and proteomic determinants of pediatric stature development and their link to adult height and type 2 diabetes
+**저자**: N. Fragoso-Bargas, AE Lupu, I. Campillo-Pereda, Y. Huang, J. Sundfjord, R. Karimi, T. Lind, JC Holm, LA Holm, A. Havdahl, OA Andreassen, S. O’Rahilly, P. Sole-Navais, B. Jacobsson, E. Bratland, G. Davey Smith, PB Juliusson, KK Ong, T. Hansen, PR Njølstad, M. Vaudel, S. Johansson · **게재일**: 2026-11-22 · [원문 링크](https://www.nature.com/articles/s41467-026-79465-x)
 
-**Abstract (EN)**: Nature Communications, Published online: 21 November 2026; doi:10.1038/s41467-026-79243-9 The authors develop DBCata, a generative model trained without energy or force labels to produce near-equilibrium adsorption structures, enabling faster screening of candidate catalysts.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Greenhouse gas responses to coastal wetland land use change vary by ecosystem and conversion pathway
-**저자**: Zihao Wang, Feifei Yan, Can Wang, Jingyu Sun, Mingzhi Liu, Xianbiao Lin · **게재일**: 2026-11-21 · [원문 링크](https://www.nature.com/articles/s41467-026-79685-1)
-
-**Abstract (EN)**: Nature Communications, Published online: 21 November 2026; doi:10.1038/s41467-026-79685-1 This study shows that greenhouse gas responses to coastal wetland land use change depend on the original ecosystem and conversion pathway, highlighting the climate value of conserving vegetated wetlands and targeting restoration.
+**Abstract (EN)**: Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79465-x Childhood growth reflects complex genetic and biological processes, but their developmental timing is not fully understood. Here, the authors identify stage‑specific genetic and proteomic influences on growth from infancy through childhood, and reveal links between early growth patterns and later type 2 diabetes risk.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Mapping temperature using transmission Kikuchi diffraction
-**저자**: Yueyun Chen, Xin Yi Ling, Jared J. Lodico, Tristan P. O’Neill, B. C. Regan, Matthew Mecklenburg · **게재일**: 2026-11-21 · [원문 링크](https://www.nature.com/articles/s41467-026-77502-3)
+### A quantitative deep-learning-based framework reveals a continuum of chromatin sensitivities across transcription factors
+**저자**: Lukas Burger, Noa Gil, Dirk Schübeler · **게재일**: 2026-11-22 · [원문 링크](https://www.nature.com/articles/s41467-026-79404-w)
 
-**Abstract (EN)**: Nature Communications, Published online: 21 November 2026; doi:10.1038/s41467-026-77502-3 Measuring nanoscale temperatures is hard: contact probes perturb samples and optical methods lack resolution. Here, authors develop Kikuchi diffraction thermometry, a non-contact electron microscopy method that maps nanoscale temperatures via tiny heat-induced lattice changes.
+**Abstract (EN)**: Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79404-w The authors develop a deep-learning-based framework revealing that TF binding sensitivity to chromatin is a continuum rather than a binary feature, and that binding patterns can be explained by a mixture of hierarchical and cooperative mechanisms.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Benzoxaboroles target CPSF3 for degradation through a SUMO-dependent pathway in trypanosomes
+**저자**: Ning Zhang, Farnaz Zahedifard, Abdul Samad, Simone Altmann, Melanie Ridgway, Richard J. Wall, Michele Tinti, Eric C. Schirmer, David Horn, Martin Zoltner, Mark C. Field · **게재일**: 2026-11-22 · [원문 링크](https://www.nature.com/articles/s41467-026-79400-0)
+
+**Abstract (EN)**: Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79400-0 Benzoxaborole drugs, such as acoziborole, target CPSF3 and mRNA processing in multiple parasites. Here the authors find that these drugs rapidly and specifically target trypanosome CPSF3 for degradation, in a SUMO- and proteasome-dependent manner.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Foliar and floral frost damage reshape reproductive phenology with limited carry-over effects
+**저자**: Jianhong Lin, Nicolas Delpierre, Cyrille Rathgeber, Hai Ren, Jian-Guo Huang, Frank Berninger, Xiaobo Li, Qianqian Ma · **게재일**: 2026-11-22 · [원문 링크](https://www.nature.com/articles/s41467-026-79723-y)
+
+**Abstract (EN)**: Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79723-y Late spring frost can damage plant tissues and disrupt reproduction. The authors show that frost damage to leaves shortens the fruit development period, whereas damage to flowers prolongs it, with limited carry-over effects into the following year.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
