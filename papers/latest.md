@@ -1,54 +1,77 @@
-# 📚 일일 논문 다이제스트 — 2026-11-25 (KST)
+# 📚 일일 논문 다이제스트 — 2026-11-26 (KST)
 
-**수집 저널 수**: 9개 · **논문 수**: 28편
+**수집 저널 수**: 7개 · **논문 수**: 29편
 
 > 영문 초록은 RSS 원본입니다. Claude Code 에서 `/translate-digest` 로 한국어 요약을 채워 넣으세요.
 
 ## 목차
 - [Nature](#nature) (5편)
+- [Cell](#cell) (3편)
 - [Nature Genetics](#nature-genetics) (1편)
-- [Nature Neuroscience](#nature-neuroscience) (1편)
-- [Nature Methods](#nature-methods) (2편)
-- [Nature Human Behaviour](#nature-human-behaviour) (1편)
-- [Molecular Psychiatry](#molecular-psychiatry) (4편)
+- [Nature Human Behaviour](#nature-human-behaviour) (5편)
+- [Molecular Psychiatry](#molecular-psychiatry) (5편)
 - [Biological Psychiatry](#biological-psychiatry) (5편)
 - [Nature Communications](#nature-communications) (5편)
-- [Nucleic Acids Research](#nucleic-acids-research) (4편)
 
 ## Nature
 
-### Fight AI slop without punishing legitimate researchers
-**저자**: Yinjie Jia, Pengfei Xu · **게재일**: 2026-11-24 · [원문 링크](https://www.nature.com/articles/d41586-026-03824-3)
+### The leading cities in the world for high-quality research in 2025
+**저자**: Bec Crew, Elliot Yates · **게재일**: 2026-11-25 · [원문 링크](https://www.nature.com/articles/d41586-026-03468-3)
 
-**Abstract (EN)**: Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03824-3 Fight AI slop without punishing legitimate researchers
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Richard of Wallingford and his Rectangulus
-**게재일**: 2026-11-24 · [원문 링크](https://www.nature.com/articles/d41586-026-03725-5)
-
-**Abstract (EN)**: Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03725-5 The life of the man who brought trigonometry to England, and experiments begin on a newly completed accelerator at CERN, in our weekly dip into Nature’s archive.
+**Abstract (EN)**: Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03468-3 A decade of data on the top-performing science cities in the Nature Index.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### The science on AI consciousness must acknowledge uncertainty
-**저자**: Haewoon Kwak · **게재일**: 2026-11-24 · [원문 링크](https://www.nature.com/articles/d41586-026-03822-5)
+### Dual proofs of legendary Riemann hypothesis stun mathematicians
+**저자**: Nick Petrić Howe, Maren Hunsberger · **게재일**: 2026-11-25 · [원문 링크](https://www.nature.com/articles/d41586-026-03853-y)
 
-**Abstract (EN)**: Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03822-5 The science on AI consciousness must acknowledge uncertainty
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Himalayan disasters demand biodiversity conservation across borders
-**저자**: Guan-Long Cao · **게재일**: 2026-11-24 · [원문 링크](https://www.nature.com/articles/d41586-026-03825-2)
-
-**Abstract (EN)**: Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03825-2 Himalayan disasters demand biodiversity conservation across borders
+**Abstract (EN)**: Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03853-y Experts say the AI and human-written proofs will need careful checking — plus, the fallout from the COP31 climate conference.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Submission caps aren’t enough to tackle AI slop
-**저자**: Sang-ji Choi · **게재일**: 2026-11-24 · [원문 링크](https://www.nature.com/articles/d41586-026-03823-4)
+### An in situ redox-converted molecule for all-perovskite tandem solar cells
+**저자**: Shaomin Yang, Chunxiang Lan, Miaomiao Zeng, Liqing Wu, Tian Zhang, Mimi Fu, Boyu Yang, Ziwei Zheng, Yu Wu, Jing Guo, Rui Guo, Mi Xu, Rongyan Wen, Zaiwei Wang, Shuangyan Hu, Mostafa Boshta, Jun Chen, Yaoguang Rong, Xiong Li · **게재일**: 2026-11-25 · [원문 링크](https://www.nature.com/articles/s41586-026-11465-9)
 
-**Abstract (EN)**: Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03823-4 Submission caps aren’t enough to tackle AI slop
+**Abstract (EN)**: Nature, Published online: 25 November 2026; doi:10.1038/s41586-026-11465-9 An in situ redox-converted molecule for all-perovskite tandem solar cells
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### How Singapore has turned a nation into a smart-city testing ground
+**저자**: Sandy Ong · **게재일**: 2026-11-25 · [원문 링크](https://www.nature.com/articles/d41586-026-03472-7)
+
+**Abstract (EN)**: Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03472-7 The city-state’s compact size and centralized governance allow digital infrastructure to be introduced with unusual speed and consistency.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### How arteries keep their shape in the face of overgrowth-inducing mutations
+**저자**: Tim Petzold, Holger Gerhardt · **게재일**: 2026-11-25 · [원문 링크](https://www.nature.com/articles/d41586-026-03491-4)
+
+**Abstract (EN)**: Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03491-4 Why do cancer-associated mutations cause some blood vessels to develop abnormally, but not arteries? The answer lies in the identity and maturity of the affected cells.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+---
+
+## Cell
+
+### A pincer attack to take down cancer
+**저자**: Wansang Cho, Kyle G. Daniels · **게재일**: 2026-11-25 · [원문 링크](https://www.cell.com/cell/fulltext/S0092-8674(26)01323-1?rss=yes)
+
+**Abstract (EN)**: In this issue of Cell, Qiang et al. explore a new combination therapy that attacks pancreatic cancer from two angles. The therapy uses a KRAS inhibitor to target cancer cells, along with an AI-designed interleukin-21 mimetic to amplify an antitumor immune response mediated by effector CD4 T cells.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Revisiting the chemical alphabet of nucleic acids
+**저자**: Stefanie Kaiser · **게재일**: 2026-11-25 · [원문 링크](https://www.cell.com/cell/fulltext/S0092-8674(26)01335-8?rss=yes)
+
+**Abstract (EN)**: Nearly two decades after the discovery of natural phosphorothioates in bacterial DNA, Maman et al. now demonstrate their existence in archaeal RNA. By identifying the responsible writer enzymes and revealing a role in tRNA stabilization, they establish phosphorothioation as a biologically relevant RNA modification. This discovery invites us to reconsider the traditional boundaries between the chemical alphabets of DNA and RNA.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### You can’t always get where you want: Selective protein entry into the brain
+**저자**: Madison Sangster, Frederick C. Bennett, Mariko L. Bennett · **게재일**: 2026-11-25 · [원문 링크](https://www.cell.com/cell/fulltext/S0092-8674(26)01127-X?rss=yes)
+
+**Abstract (EN)**: Brain health depends on the blood-brain barrier blocking neurotoxins while allowing essential proteins to pass, but which proteins cross this barrier remains poorly understood. In this issue of Cell, Zhou and colleagues define the brain plasma proteome and show that protein transport selectively changes in neurodegeneration.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -56,39 +79,10 @@
 
 ## Nature Genetics
 
-### Exhaustive rearrangement of an enhancer reveals that dependency-syntax encodes tissue specificity
-**저자**: Joe J. Solvason, Krissie Tellez, Fabian Lim, Qiyang Wang, Benjamin P. Song, Jessica L. Grudzien, Sophia H. Le, Katrina M. Olson, Granton A. Jindal, Emma K. Farley · **게재일**: 2026-11-24 · [원문 링크](https://www.nature.com/articles/s41588-026-02838-x)
+### Uncovering directionally and temporally variable genes with STAVAG
+**저자**: Qunlun Shen, Kuo Gai, Shang Li, Fangkun Yang, Hanbin Cui, Shuqin Zhang, Shihua Zhang · **게재일**: 2026-11-25 · [원문 링크](https://www.nature.com/articles/s41588-026-02853-y)
 
-**Abstract (EN)**: Nature Genetics, Published online: 24 November 2026; doi:10.1038/s41588-026-02838-x Exhaustive rearrangement of an enhancer, tested by bulk and single-cell assays in whole embryos, reveals that transcription factor binding site order, orientation and spacing (syntax) control enhancer activity and tissue specificity.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
----
-
-## Nature Neuroscience
-
-### Highly selective visual circuits in mouse frontal cortex
-**저자**: Anthony D. Lien, Bilal Haider · **게재일**: 2026-11-24 · [원문 링크](https://www.nature.com/articles/s41593-026-02520-9)
-
-**Abstract (EN)**: Nature Neuroscience, Published online: 24 November 2026; doi:10.1038/s41593-026-02520-9 The authors identify neurons in the frontal cortex of awake mice with highly selective visual receptive fields. These neurons prioritize encoding of binocular visual space, require V1 input and provide functional feedback throughout the visual cortex.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
----
-
-## Nature Methods
-
-### Author Correction: GHT-SELEX demonstrates unexpectedly high intrinsic sequence specificity and complex DNA binding of many human transcription factors
-**저자**: Arttu Jolma, Aldo Hernandez-Corchado, Ally W. H. Yang, Ali Fathi, Kaitlin U. Laverty, Alexander Brechalov, Rozita Razavi, Mihai Albu, Hong Zheng, Ivan V. Kulakovskiy, Hamed S. Najafabadi, Timothy R. Hughes, Philipp Bucher, Bart Deplancke, Oriol Fornes, Jan Grau, Ivo Grosse, Fedor A. Kolpakov, Vsevolod J. Makeev, Marjan Barazandeh, Zhenfeng Deng, Chun Hu, Samuel A. Lambert, Zain M. Patel, Sara E. Pour, Mikhail Salnikov, Isaac Yellan, Georgy Meshcheryakov, Giovanna Ambrosini, Antoni J. Gralak, Sachi Inukai, Judith F. Kribelbauer-Swietek, Marie-Luise Plescher, Semyon Kolmykov, Ivan Yevshin, Nikita Gryzunov, Ivan Kozin, Mikhail Nikonov, Vladimir Nozdrin, Arsenii Zinkevich, Katerina Faltejskova, Pavel Kravchenko, Sergey Abramov, Alexandr Boytsov, Vasilii Kamenets, Dmitry Penzar, Anton Vlasov, Ilya E. Vorontsov, Quaid Morris, Xiaoting Chen, Matthew T. Weirauch · **게재일**: 2026-11-24 · [원문 링크](https://www.nature.com/articles/s41592-026-03416-z)
-
-**Abstract (EN)**: Nature Methods, Published online: 24 November 2026; doi:10.1038/s41592-026-03416-z Author Correction: GHT-SELEX demonstrates unexpectedly high intrinsic sequence specificity and complex DNA binding of many human transcription factors
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### ISOMPRA enables the disambiguation of transcriptional and post-transcriptional effects of genetic variants
-**저자**: Anthony D. Fischer, Din Selmanovic, Colin P. Florian, Tomás Lagunas Jr., Stephen P. Plassmeyer, Ozair Habib, Lily Meyer, Rebecca Chase, Joseph D. Dougherty · **게재일**: 2026-11-24 · [원문 링크](https://www.nature.com/articles/s41592-026-03302-8)
-
-**Abstract (EN)**: Nature Methods, Published online: 24 November 2026; doi:10.1038/s41592-026-03302-8 ISOMPRA is a new method for assessing transcriptional and post-transcriptional effects of regulatory elements in a massively parallel reporter assay. This method can be used in vivo or in vitro to understand variants associated with disease.
+**Abstract (EN)**: Nature Genetics, Published online: 25 November 2026; doi:10.1038/s41588-026-02853-y This study introduces the concepts of directionally and temporally variable genes and develops STAVAG to identify them, prioritizing candidate genes for downstream experiments and potential clinical applications.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -96,16 +90,58 @@
 
 ## Nature Human Behaviour
 
-### Empirical evidence for eight ways that AI is impacting people
-**저자**: Christopher Summerfield, Rebecca Anselmetti, Shahar Avin, Vanessa Cheung, Madga Dubois, Tom Eccles, Anna Gausen, Kobi Hackenburg, Keno Juechems, Hannah Rose Kirk, Lennart Luettgau, Brendan McGrath, Ishan Mishra, Aidan Peppin, Jorge Perez, Nadine Staes-Polet, Merlin Stein, Andrew Strait, Sarenne Wallbridge · **게재일**: 2026-11-24 · [원문 링크](https://www.nature.com/articles/s41562-026-02615-0)
+### Deepfakes pollute digital space and need upstream safeguards
+**저자**: Cuihua Shen · **게재일**: 2026-11-25 · [원문 링크](https://www.nature.com/articles/s41562-026-02646-7)
 
-**Abstract (EN)**: Nature Human Behaviour, Published online: 24 November 2026; doi:10.1038/s41562-026-02615-0 This Review evaluates evidence for eight pressing concerns about how AI is affecting people. It finds modest support for the most alarming claims but calls for deeper scrutiny of the human impact of AI.
+**Abstract (EN)**: Nature Human Behaviour, Published online: 25 November 2026; doi:10.1038/s41562-026-02646-7 Deepfakes pollute digital space and need upstream safeguards
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Behavioural interventions shift carbon-pricing support only slightly
+**게재일**: 2026-11-25 · [원문 링크](https://www.nature.com/articles/s41562-026-02628-9)
+
+**Abstract (EN)**: Nature Human Behaviour, Published online: 25 November 2026; doi:10.1038/s41562-026-02628-9 Across 55 independently designed experiments with 19,558 participants from the USA, behavioural interventions produced a small increase in support for carbon pricing. Participating researchers substantially overestimated these effects.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Neural interface without a scalpel
+**저자**: Michael Dimitriou · **게재일**: 2026-11-25 · [원문 링크](https://www.nature.com/articles/s41562-026-02572-8)
+
+**Abstract (EN)**: Nature Human Behaviour, Published online: 25 November 2026; doi:10.1038/s41562-026-02572-8 For people who are paralysed by spinal cord injury, regaining hand use is a top priority. Yet the most capable neural interfaces have relied on surgically implanted electrodes. Yang, Rawji, Gibbs and colleagues show that individual motor units, read non-invasively using surface electrodes, can deliver multidimensional control even amid involuntary background muscle activity.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Research that will survive a fast-paced world
+**저자**: Edmond Awad, Katarzyna Doniec, Gerd Gigerenzer · **게재일**: 2026-11-25 · [원문 링크](https://www.nature.com/articles/s41562-026-02643-w)
+
+**Abstract (EN)**: Nature Human Behaviour, Published online: 25 November 2026; doi:10.1038/s41562-026-02643-w Crises and technological waves pull science towards fast, trend-driven work. But a drift towards timely research might negatively affect quality and limit the methods, infrastructure and datasets that accumulate value slowly. We discuss how researchers, funders and journals can draw lasting value from urgency-driven research.
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Multidimensional motor unit control after paralysing spinal cord injury using non-invasive recordings
+**저자**: Xingchen Yang, Vishal Rawji, Ciara Gibbs, Tianyu Jia, Lara Gouveia Vila, Agnese Grison, Ajoy Nair, Dario Farina, Juan Alvaro Gallego · **게재일**: 2026-11-25 · [원문 링크](https://www.nature.com/articles/s41562-026-02626-x)
+
+**Abstract (EN)**: Nature Human Behaviour, Published online: 25 November 2026; doi:10.1038/s41562-026-02626-x Yang, Rawji, Gibbs and colleagues show that participants with spinal cord injury can modulate the activity of motor units from their paralysed hand to control a computer cursor in 3D, play video games and drive a virtual wheelchair.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
 ---
 
 ## Molecular Psychiatry
+
+### Neurotransmitter pathway-specific polygenic risk for psychiatric disorders and brain morphology in adolescents
+**저자**: Dogukan Koc, Bing Xu, Brandon Toribio Sanzo, Serena Defina, Alexander Neumann, Charlotte A. M. Cecil, Ryan L. Muetzel, Hanan El Marroun, Phil H. Lee, Henning Tiemeier · **게재일**: 2026-11-25 · [원문 링크](https://www.nature.com/articles/s41380-026-03962-0)
+
+**Abstract (EN)**: Molecular Psychiatry, Published online: 25 November 2026; doi:10.1038/s41380-026-03962-0 Neurotransmitter pathway-specific polygenic risk for psychiatric disorders and brain morphology in adolescents
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
+
+### Examining the impact of genome-wide findings for tobacco use through GWAS-impact analysis: a systematic review
+**저자**: Muhannad Smadi, Anastasia A. Goula, Marcus R. Munafò, Karin J. H. Verweij, Margot P. van de Weijer, Jorien L. Treur · **게재일**: 2026-11-25 · [원문 링크](https://www.nature.com/articles/s41380-026-03944-2)
+
+**Abstract (EN)**: Molecular Psychiatry, Published online: 25 November 2026; doi:10.1038/s41380-026-03944-2 Examining the impact of genome-wide findings for tobacco use through GWAS-impact analysis: a systematic review
+
+**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
 ### ACC hyperactivity and synaptic remodeling underlie sensory hypersensitivity in Adnp-haploinsufficient mice
 **저자**: Heera Moon, Do Hyeon Cha, Soowon Lee, Geun Ho Im, Sang Han Choi, Se Young Jin, Yi Sul Cho, Heejin Cho, Young Woo Noh, Yeji Yang, Jinhui Chun, Sujie Lee, Hyojin Kang, Jin Young Kim, Doyoun Kim, Yong Chul Bae, Inkyung Jung, Seong-Gi Kim, Changuk Chung, Eunjoon Kim · **게재일**: 2026-11-25 · [원문 링크](https://www.nature.com/articles/s41380-026-03972-y)
@@ -114,24 +150,17 @@
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### A mitochondrial mechanism of nuclear histone acetylation dynamically regulates neuronal plasticity: a gateway to stress resilience, and a boosted efficacy of fluoxetine with exercise
-**저자**: Benedetta Bigio, Yotam Sagi, Shofiul Azam, Olivia Barnhill, Amarjyot Singh, Neelu John, Danielle Zelli, Matt Turanchik, Timothy Lau, Paolo de Angelis, Masahiro Okamoto, Aleksander A. Mathé, Baila Hall, Conor Liston, Hideaki Soya, Chaitan Khosla, Carla Nasca · **게재일**: 2026-11-24 · [원문 링크](https://www.nature.com/articles/s41380-026-03874-z)
+### Adiponectin deficiency protects against acute inflammation-induced behavioral and synaptic impairments by suppressing endoplasmic reticulum stress
+**저자**: Qichao Gong, Xiaoli Jia, Yue Hu, Tahir Ali, Youzhi Li, Jianxiang Huang, Rui Liang, Jinxing Feng, Zhongliang Dai, Shupeng Li · **게재일**: 2026-11-25 · [원문 링크](https://www.nature.com/articles/s41380-026-03977-7)
 
-**Abstract (EN)**: Molecular Psychiatry, Published online: 24 November 2026; doi:10.1038/s41380-026-03874-z A mitochondrial mechanism of nuclear histone acetylation dynamically regulates neuronal plasticity: a gateway to stress resilience, and a boosted efficacy of fluoxetine with exercise
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Cell-Type-Specific Cell-Free DNA methylation profiling of central nervous system injury and inflammatory cell turnover in schizophrenia
-**저자**: Shmuel Hart, Mohannad Owiwi, Atta Shahwan, Tovia Wengrower, Sheina Piyanzin, Alexander Teitelbaum, Ruth Shemer, Yuval Dor, Yoav Kohn · **게재일**: 2026-11-24 · [원문 링크](https://www.nature.com/articles/s41380-026-03957-x)
-
-**Abstract (EN)**: Molecular Psychiatry, Published online: 24 November 2026; doi:10.1038/s41380-026-03957-x Cell-Type-Specific Cell-Free DNA methylation profiling of central nervous system injury and inflammatory cell turnover in schizophrenia
+**Abstract (EN)**: Molecular Psychiatry, Published online: 25 November 2026; doi:10.1038/s41380-026-03977-7 Adiponectin deficiency protects against acute inflammation-induced behavioral and synaptic impairments by suppressing endoplasmic reticulum stress
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Sex-specific reprogramming of immune and endocannabinoid networks in the placenta following prenatal cannabinoid exposure
-**저자**: Anissa Bara, Teesta Naskar, Jacqueline-Marie N. Ferland, Luca Lambertini, Szabolcs Dvorácskó, Resat Cinar, Yoko Nomura, Yasmin L. Hurd · **게재일**: 2026-11-24 · [원문 링크](https://www.nature.com/articles/s41380-026-03964-y)
+### The nucleus accumbens: an emerging modulator in anxiety disorders
+**저자**: Qingying Liu, Yueliang Wang, Zhongyuan Lu, Nan Ma, Tianen Si, Yingying Jiang, Longfei Mao, Nannan Cheng, Moxin Wu, Xiaoping Yin, Qiong Yang, Xiaotang Ma, Qian Bai, Junmin Wang, Xiaochong Fan, Jian Wang · **게재일**: 2026-11-25 · [원문 링크](https://www.nature.com/articles/s41380-026-03963-z)
 
-**Abstract (EN)**: Molecular Psychiatry, Published online: 24 November 2026; doi:10.1038/s41380-026-03964-y Sex-specific reprogramming of immune and endocannabinoid networks in the placenta following prenatal cannabinoid exposure
+**Abstract (EN)**: Molecular Psychiatry, Published online: 25 November 2026; doi:10.1038/s41380-026-03963-z The nucleus accumbens: an emerging modulator in anxiety disorders
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -140,37 +169,37 @@
 ## Biological Psychiatry
 
 ### Guide for Authors
-**게재일**: 2026-12-15 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01628-8/fulltext?rss=yes)
+**게재일**: 2027-01-01 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01670-7/fulltext?rss=yes)
 
 **Abstract (EN)**: Biological Psychiatry, founded in 1969, is an official journal of the Society of Biological Psychiatry and the first in the Biological Psychiatry family of journals. Companion titles include Biological Psychiatry: Cognitive Neuroscience and Neuroimaging and Biological Psychiatry: Global Open Science. The Society’s purpose is to promote excellence in scientific research and education in fields that investigate the nature, causes, mechanisms, and treatments of disorders of thought, emotion, and behavior.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
 ### Table of Contents
-**게재일**: 2026-12-15 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01627-6/fulltext?rss=yes)
+**게재일**: 2027-01-01 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01669-0/fulltext?rss=yes)
 
 **Abstract (EN)**: (초록이 제공되지 않았습니다.)
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
 ### Subscribers Page
-**게재일**: 2026-12-15 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01626-4/fulltext?rss=yes)
+**게재일**: 2027-01-01 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01668-9/fulltext?rss=yes)
 
 **Abstract (EN)**: (초록이 제공되지 않았습니다.)
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
 ### Editorial Board Page
-**게재일**: 2026-12-15 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01625-2/fulltext?rss=yes)
+**게재일**: 2027-01-01 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01667-7/fulltext?rss=yes)
 
 **Abstract (EN)**: (초록이 제공되지 않았습니다.)
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Reviewer Acknowledgments
-**게재일**: 2026-12-15 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01587-8/fulltext?rss=yes)
+### In This Issue
+**게재일**: 2027-01-01 · [원문 링크](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)01622-7/fulltext?rss=yes)
 
-**Abstract (EN)**: The editors gratefully acknowledge the assistance of the following:
+**Abstract (EN)**: Volume 101, Number 1, January 1, 2027
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
@@ -178,70 +207,38 @@
 
 ## Nature Communications
 
-### SMYD1 trimethylates myosin K129 to restrain cardiomyocyte hypercontractility
-**저자**: Lichao Liu, Eric Cordeiro-Spinetti, Hong Zeng, Kamilla Børve Nygård, Neha Nandwani, Shuo Liu, Wenshu Zeng, Hyeon Yu Kim, Sara Weirich, Jędrzej M. Małecki, Rama Reddy Goluguri, Erna Davydova, Aiping Dong, Juhyung Park, Rui Dong, Hanyang Dong, Emily Zahn, Xuchao Lyu, Xu Cao, Katrin F. Chua, Michael S. Kapiloff, Benjamin A. Garcia, James A. Spudich, Katherine M. Ruppel, Albert Jeltsch, Scott B. Rothbart, Levon Halabelian, Pål Ø. Falnes, Joseph C. Wu, Or Gozani · **게재일**: 2026-11-25 · [원문 링크](https://www.nature.com/articles/s41467-026-79720-1)
+### Author Correction: Learning reorganizes dendritic and stabilizes axon initial segment inhibitory synapses in CA1 pyramidal neurons
+**저자**: Hannah Klimmt, Felix Kuhn, David Kappel, Bhargavi Murthy, Alessandro Francesco Ulivi, Ali Özgür Argunşah, Silvia Vieweg, Rosa Eva Huettl, Stefan Remy, Alessio Attardo · **게재일**: 2026-11-26 · [원문 링크](https://www.nature.com/articles/s41467-026-78865-3)
 
-**Abstract (EN)**: Nature Communications, Published online: 25 November 2026; doi:10.1038/s41467-026-79720-1 How the muscle-specific enzyme SMYD1 regulates heart contraction and contributes to inherited heart disease has remained unclear. Here, the authors show that SMYD1 modifies the motor protein myosin to restrain heart-cell contraction, linking loss of this activity to hypertrophic cardiomyopathy.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Hepatokine AGP2 mediates physical exercise-induced bone augmentation through liver-bone signaling communication
-**저자**: Zhenglin Zhu, Pengfei Liao, Yujia Luo, Ke Huang, Yi Xie, Dexin Nie, Bowen Xiao, Xiaoxiong Li, Jinghong Yang, Jiamin Yu, Ke Lu, Jin Tang, Fenglin Chen, Dandong Wu, Wei Huang, Di Chen, Hong Chen · **게재일**: 2026-11-25 · [원문 링크](https://www.nature.com/articles/s41467-026-79582-7)
-
-**Abstract (EN)**: Nature Communications, Published online: 25 November 2026; doi:10.1038/s41467-026-79582-7 Exercise helps maintain strong bones, but the signals linking physical activity to bone growth have remained unclear. Here, the authors show that in mice exercise stimulates the liver to release AGP2, a hormone-like protein that promotes bone formation and protects against bone loss, revealing a potential treatment strategy for osteoporosis.
+**Abstract (EN)**: Nature Communications, Published online: 26 November 2026; doi:10.1038/s41467-026-78865-3 Author Correction: Learning reorganizes dendritic and stabilizes axon initial segment inhibitory synapses in CA1 pyramidal neurons
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Cyclical high-magnitude lake drainage slows Greenland ice sheet motion
-**저자**: Yefan Wang, Peter Nienow, Jaime Otero, Daniel N. Goldberg · **게재일**: 2026-11-24 · [원문 링크](https://www.nature.com/articles/s41467-026-79659-3)
+### Dynamic B–OH intermediates enable photocatalytic conversion of CO 2 into formic acid
+**저자**: Jiazhen Cao, Yukun Pan, Yinan Song, Zesheng Deng, Meizhen Li, Yue Jiang, Yayun Zhang, Mingyang Xing · **게재일**: 2026-11-26 · [원문 링크](https://www.nature.com/articles/s41467-026-79798-7)
 
-**Abstract (EN)**: Nature Communications, Published online: 24 November 2026; doi:10.1038/s41467-026-79659-3 Four decades of satellite data show that repeated outburst floods from ice-marginal lakes beside a Greenland glacier reset its flow to a slow state for several years, acting as a natural brake on ice motion.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### EcoVAE: a generative deep learning method for global species distribution prediction
-**저자**: Yujing Yan, Bin Shao, Jiawei Yan, Charles C. Davis · **게재일**: 2026-11-24 · [원문 링크](https://www.nature.com/articles/s41467-026-79791-0)
-
-**Abstract (EN)**: Nature Communications, Published online: 24 November 2026; doi:10.1038/s41467-026-79791-0 Predicting where species live is key to protecting biodiversity. The authors present EcoVAE, a generative model that rapidly and accurately predicts global species distributions, reveals species associations, and identifies sampling gaps.
+**Abstract (EN)**: Nature Communications, Published online: 26 November 2026; doi:10.1038/s41467-026-79798-7 Dynamic B–OH intermediates act as proton relays to harness water-derived protons for highly selective photocatalytic CO2 conversion to formic acid, enabling synergistic carbon mitigation and pollutant removal from flue.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Author Correction: A sensitive red/far-red photoswitch for controllable gene therapy in mouse models of metabolic diseases
-**저자**: Longliang Qiao, Lingxue Niu, Meiyan Wang, Zhihao Wang, Deqiang Kong, Guiling Yu, Haifeng Ye · **게재일**: 2026-11-24 · [원문 링크](https://www.nature.com/articles/s41467-026-79407-7)
+### Targeting chemotherapy-induced CD200 via a nucleoside-enhanced nanocarrier for cancer immunochemotherapy
+**저자**: Shangyu Chen, Hua Zhang, Yiqing Mu, Chien-Yu Chen, Sheida Dabiri, Bei Zhang, Shichen Li, Yixian Huang, Xiaofei Wang, Yichen Xu, Zehua Wang, Daniel J. Bain, Da Yang, Song Li · **게재일**: 2026-11-26 · [원문 링크](https://www.nature.com/articles/s41467-026-79655-7)
 
-**Abstract (EN)**: Nature Communications, Published online: 24 November 2026; doi:10.1038/s41467-026-79407-7 Author Correction: A sensitive red/far-red photoswitch for controllable gene therapy in mouse models of metabolic diseases
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
----
-
-## Nucleic Acids Research
-
-### Disease-responsive promoters enable precisely controlled gene therapy
-**게재일**: 2026-11-24 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1285/9119058?rss=1)
-
-**Abstract (EN)**: Abstract Adeno associated virus (AAV)-mediated gene therapy holds great promise for curing various diseases, but uncontrolled expression of transgenes in both healthy and diseased cells driven by constitutively active general promoters is a potential safety risk. Controlled gene therapy can be achieved using a disease-responsive promoter (DRP) that drives expression of a therapeutic gene only in diseased cells and shuts off once the cells become healthy again. We used correlative analysis of ATAC-seq and ncRNA-seq of healthy and diseased retinal ganglion cells (RGCs) to identify and characterize two DRPs that possess unique DRP activities in two mouse models of optic neuropathy. We further optimized one DRP to generate DRP-3L2, which has minimum promoter activity in naïve healthy RGCs, but drives potent neuroprotective gene expression in diseased RGCs and then abates after RGCs are protected and returning to health. Our proof-of-concept studies demonstrate that DRP-mediated precisely controlled gene therapy provides a new and promising neuroprotective strategy for CNS axonopathies.
+**Abstract (EN)**: Nature Communications, Published online: 26 November 2026; doi:10.1038/s41467-026-79655-7 The efficacy of immune checkpoint blockade therapy is limited by the immunosuppressive tumor microenvironment (TME). Here this group identifies the chemotherapy-induced CD200 upregulation as a resistance mechanism then develops a nanotechnology-based framework for spatially selective CD200 silencing, thereby reprogramming TME and enhancing antitumor efficacy.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### RNA fine-tunes KAT5 activity to shape chromatin acetylation during active transcription
-**게재일**: 2026-11-24 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1259/9119057?rss=1)
+### Excitonic electrically tunable metaatoms for visible light
+**저자**: Janna Wilhelmsen, Longzhu Liu, Harry Miyosi Silalahi, Suraya Kazi, Giancarlo Cincotti, Shangzhi Chen, Dongqing Lin, Yulong Duan, Magnus P. Jonsson · **게재일**: 2026-11-25 · [원문 링크](https://www.nature.com/articles/s41467-026-79552-z)
 
-**Abstract (EN)**: Abstract KAT5 is a prominent histone acetyltransferase that deposits acetylation on histone H4 to regulate transcription, genome stability, and cell fate decisions. Although the chromatin recruitment of KAT5 and its associated NuA4/TIP60 complex is well characterized, the molecular mechanisms that regulate its catalytic activity are still largely unknown. Here, we identify RNA as a direct and reversible modulator of KAT5 activity. Using single-end enhanced crosslinking and immunoprecipitation sequencing (seCLIP-seq), we find that KAT5 binds RNA in cells with a strong preference for GC-rich mRNA sequences enriched near transcription start sites. Unexpectedly, loss of KAT5–RNA interactions during acute transcriptional inhibition triggers rapid and pronounced promoter hyperacetylation. Biochemical and structural analyses suggest that RNA engages an RNA-sensing autoinhibitory region within the HAT domain, sterically blocking substrate access to the catalytic pocket and thereby suppressing KAT5 acetyltransferase activity. Our findings uncover nascent RNA as a reversible allosteric inhibitor of KAT5, revealing an RNA-directed feedback mechanism that modulates promoter acetylation and gene expression.
-
-**한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
-
-### Differential co-localization analysis of multi-sample and multi-condition experiments with spatialFDA
-**게재일**: 2026-11-24 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1247/9119056?rss=1)
-
-**Abstract (EN)**: Abstract Advances in spatial omics data generation have led to an explosion in new datasets that record the spatial location of transcripts and proteins. However, challenges remain in the analysis of spatial omics data. One important analysis is differential cellular co-localization (CCoL): the quantification of the clustering, or spacing, of one or more cell types across multiple conditions. Our framework spatialFDA combines methodology from spatial statistics with functional data analysis to accurately quantify and test for differences between conditions in CCoL across spatial scales. Using two simulation studies, we show that spatialFDA performs well in controlled settings. Furthermore, spatialFDA recovers known biological processes in type-1 diabetes and adds insights about the CCoL strength in space. spatialFDA is readily available as an open-source Bioconductor R package.
+**Abstract (EN)**: Nature Communications, Published online: 25 November 2026; doi:10.1038/s41467-026-79552-z This study shows that an excitonic transition in a polymer can induce negative permittivity and create switchable visible-light metaatoms, enabling dynamic metasurfaces for beam steering and rewritable holograms
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
-### Nicking Loop™: streamlined circular DNA libraries for precise targeted sequencing and universal NGS read-out
-**게재일**: 2026-11-24 · [원문 링크](https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1284/9119055?rss=1)
+### Observationally-constrained CMIP6 projections of a snow-free Northern Hemisphere
+**저자**: Yi Shen, Ting Wei, Bing Chen · **게재일**: 2026-11-25 · [원문 링크](https://www.nature.com/articles/s41467-026-79797-8)
 
-**Abstract (EN)**: Abstract Circular single-stranded DNA (CssDNA) offers unique advantages for molecular diagnostics and next-generation sequencing (NGS) due to its nuclease degradation resistance and compatibility with rolling circle amplification. CssDNA is used with several modern NGS platforms, but many library preparation workflows require a conversion step involving splinting and an enzymatic treatment, adding workflow complexity. This study introduces Nicking Loop™, a targeted library preparation method that converts single- and double-stranded DNA into CssDNA, enabling direct circular sequencing and controlled linear amplification that can be repeated over multiple generations. The method demonstrated improved preservation of variant allele frequencies across three amplification generations compared to PCR, which is particularly relevant for detection of low-abundance variants. Sequencing of Nicking Loop™ circular libraries on Pacific Biosciences Onso™ platform demonstrated direct compatibility without additional library conversion steps. Nicking Loop™ is compatible with consensus sequencing for Oxford Nanopore, highlighting its applicability across multiple NGS platforms. Furthermore, Nicking Loop™ introduces a loop-based indexing strategy that enables early sample indexing for parallel processing of multiple samples. This proof-of-concept demonstrates the feasibility of Nicking Loop™ library preparation across multiple NGS platforms, contributing to the growing adoption of circular NGS platforms for applications requiring sensitive and accurate detection of low-abundance targets.
+**Abstract (EN)**: Nature Communications, Published online: 25 November 2026; doi:10.1038/s41467-026-79797-8 This study presents a monthly emergent constraint based on observed warming that reduces CMIP6 inter-model variance and refines snow-free projections: Arctic summers become snow-free by 2040 s under SSP5-8.5, while snow disappearance is delayed by 7–34 years under SSP1-2.6 in vulnerable regions and months.
 
 **한국어 요약**: _대기 중 — `/translate-digest` 실행 시 채워집니다._
 
